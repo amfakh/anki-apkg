@@ -1,0 +1,1842 @@
+﻿Index,Bab,Kategori,Kanji,Kana,Romaji,Arti,Kelas Kata,Konjugasi,Transitivitas,Catatan Tambahan
+1,1,Pronomina,私,わたし,watashi,Saya (Formal),Kata Ganti,,,
+2,1,Pronomina,あなた,あなた,anata,Anda (Formal),Kata Ganti,,,
+3,1,Pronomina,あの人,あのひと,ano hito,Orang itu,Kata Ganti,,,
+4,1,Pronomina (Hormat),あの方,あのかた,ano kata,Orang itu (Hormat / Sopan) / Beliau,Kata Ganti,,,
+5,1,Gelar / Profesi,先生,せんせい,sensei,"(Panggilan) Orang yang dihormati [Guru, Dokter, Ahli, dll.]",Kata Benda,,,Tidak digunakan untuk menyebut profesi diri sendiri
+6,1,Profesi,教師,きょうし,kyoushi,"Guru (profesi, untuk diri sendiri)",Kata Benda,,,Digunakan untuk menyebut profesi diri sendiri
+7,1,Profesi,学生,がくせい,gakusei,Siswa / Murid (Mahasiswa),Kata Benda,,,Umum
+8,1,Profesi,生徒,せいと,seito,"Siswa / Murid (SD, SMP, SMA)",Kata Benda,,,Lebih spesifik
+9,1,Pendidikan,小学校,しょうがっこう,shougakkou,SD,Kata Benda,,,Sekolah dasar
+10,1,Pendidikan,中学校,ちゅうがっこう,chuugakkou,SMP,Kata Benda,,,Sekolah menengah pertama
+11,1,Pendidikan,高等学校,こうとうがっこう,koutougakkou,SMA,Kata Benda,,,Dapat disingkat menjadi 高校（こうこう）
+12,1,Pendidikan,高校,こうこう,koukou,SMA (singkatan),Kata Benda,,,Singkatan dari 高等学校
+13,1,Pendidikan,専門学校,せんもんがっこう,senmongakkou,Sekolah Kejuruan (Diploma),Kata Benda,,,
+14,1,Pendidikan,大学,だいがく,daigaku,Universitas,Kata Benda,,,
+15,1,Pendidikan,大学院,だいがくいん,daigakuin,Pascasarjana,Kata Benda,,,
+16,1,Siswa,小学生,しょうがくせい,shougakusei,Siswa SD,Kata Benda,,,
+17,1,Siswa,中学生,ちゅうがくせい,chuugakusei,Siswa SMP,Kata Benda,,,
+18,1,Siswa,高校生,こうこうせい,koukousei,Siswa SMA,Kata Benda,,,
+19,1,Siswa,大学生,だいがくせい,daigakusei,Mahasiswa (S1) / Siswa sekolah kejuruan,Kata Benda,,,
+20,1,Siswa,大学院生,だいがくいんせい,daigakuinsei,Mahasiswa S2 / S3,Kata Benda,,,
+21,1,Tempat / Profesi,会社,かいしゃ,kaisha,Perusahaan,Kata Benda,,,
+22,1,Profesi,会社員,かいしゃいん,kaishain,Karyawan / Pegawai perusahaan,Kata Benda,,,
+23,1,Profesi,○○の社員,○○のしゃいん,○○ no shain,Karyawan perusahaan ○○,Kata Benda,,,"Contoh: ABCのしゃいん, NHKのしゃいん"
+24,1,Tempat,銀行,ぎんこう,ginkou,Bank,Kata Benda,,,
+25,1,Profesi,銀行員,ぎんこういん,ginkouin,Pegawai bank,Kata Benda,,,
+26,1,Profesi,医者,いしゃ,isha,Dokter,Kata Benda,,,
+27,1,Tempat,病院,びょういん,byouin,Rumah Sakit,Kata Benda,,,
+28,1,Tempat,美容院,びよういん,biyouin,Salon Kecantikan,Kata Benda,,,Jangan tertukar dengan 病院（びょういん）
+29,1,Kata Tanya,誰,だれ,dare,Siapa?,Kata Tanya,,,Kasual
+30,1,Kata Tanya (Hormat),どなた,どなた,donata,Siapa? (Hormat / Sopan),Kata Tanya,,,
+31,1,Kata Tanya,何歳,なんさい,nansai,Usia berapa?,Kata Tanya,,,Kasual
+32,1,Kata Tanya (Hormat),おいくつ,おいくつ,oikutsu,Usia berapa? (Hormat / Sopan),Kata Tanya,,,
+33,1,Kata Tanya,何,なに／なん,nani / nan,Apa,Kata Tanya,,,"なに saat berdiri sendiri, なん saat diikuti oleh ですか"
+34,1,Kata Tanya (Sopan),何ですか,なんですか,nan desu ka,Apa? (Sopan),Kata Tanya,,,
+35,1,Ekspresi Jawaban,はい,はい,hai,Iya (konfirmasi kebenaran) [Formal],Ekspresi,,,
+36,1,Ekspresi Jawaban,いいえ,いいえ,iie,Tidak / Bukan [Formal],Ekspresi,,,
+37,1,Usia,～歳,～さい,~sai,[...] tahun (usia),Kata Bantu,,,Digunakan setelah angka
+38,1,Salam,初めまして,はじめまして,hajimemashite,Perkenalkan / Salam kenal (Ucapan awal),Ekspresi,,,Digunakan saat pertemuan pertama
+39,1,Salam,どうぞよろしくお願いします,どうぞよろしくおねがいします,douzo yoroshiku onegaishimasu,Salam Kenal / Senang berkenalan / Mohon bantuan kedepannya,Ekspresi,,,Ucapan akhir perkenalan
+40,1,Frasa,～から来ました,～からきました,~kara kimashita,Datang dari / Berasal dari ...,Frasa,,,"Menunjukkan asal tempat, tidak tergantung lokasi saat ini"
+41,1,Frasa,～出身です,～しゅっしんです,~shusshin desu,Asal dari ...,Frasa,,,"Menunjukkan tempat asal, tidak tergantung lokasi saat ini"
+42,1,Ekspresi,失礼ですが,しつれいですが,shitsurei desu ga,Permisi / Maaf (untuk bertanya informasi),Ekspresi,,,Digunakan sebelum bertanya sebagai bentuk kesopanan
+43,1,Pertanyaan,お名前は？,おなまえは？,onamae wa?,Nama Anda?,Pertanyaan,,,Kasual sopan
+44,1,Pertanyaan,お名前は何ですか？,おなまえはなんですか？,onamae wa nan desu ka,Nama Anda [Apa]?,Pertanyaan,,,Sopan
+45,1,Perkenalan,こちらは～さんです,こちらは～さんです,kochira wa ~san desu,Ini adalah Bapak / Ibu / Saudara ~,Frasa,,,Digunakan saat memperkenalkan orang lain
+46,1,Negara,アメリカ,アメリカ,amerika,Amerika Serikat,Kata Benda,,,
+47,1,Negara,イギリス,イギリス,igirisu,Inggris,Kata Benda,,,
+48,1,Negara,インド,インド,indo,India,Kata Benda,,,
+49,1,Negara,インドネシア,インドネシア,indonesia,Indonesia,Kata Benda,,,
+50,1,Negara,タイ,タイ,tai,Thailand,Kata Benda,,,
+51,1,Negara,ドイツ,ドイツ,doitsu,Jerman,Kata Benda,,,
+52,1,Negara,ブラジル,ブラジル,burajiru,Brazil,Kata Benda,,,
+53,1,Negara,日本,にほん,nihon,Jepang,Kata Benda,,,Kanji alternatif: 日本（にっぽん）
+54,1,Negara,韓国,かんこく,kankoku,Korea Selatan,Kata Benda,,,
+55,1,Negara,北朝鮮,きたちょうせん,kitachousen,Korea Utara,Kata Benda,,,
+56,1,Negara,中国,ちゅうごく,chuugoku,China,Kata Benda,,,
+57,1,Negara,台湾,たいわん,taiwan,Taiwan,Kata Benda,,,
+58,1,Kewarganegaraan,アメリカ人,アメリカじん,amerikajin,Orang Amerika Serikat,Kata Benda,,,Nama negara + じん
+59,1,Kewarganegaraan,インドネシア人,インドネシアじん,indonesiajin,Orang Indonesia,Kata Benda,,,
+60,1,Kewarganegaraan,日本人,にほんじん,nihonjin,Orang Jepang,Kata Benda,,,
+61,1,Angka,〇／零,れい／ゼロ,rei / zero,Nol,Angka,,,Dua bentuk umum: れい (rei) & katakana ゼロ (zero)
+62,1,Angka,一,いち,ichi,Satu,Angka,,,
+63,1,Angka,二,に,ni,Dua,Angka,,,
+64,1,Angka,三,さん,san,Tiga,Angka,,,
+65,1,Angka,四,よん／し,yon / shi,Empat,Angka,,,Dua bacaan umum
+66,1,Angka,五,ご,go,Lima,Angka,,,
+67,1,Angka,六,ろく,roku,Enam,Angka,,,
+68,1,Angka,七,なな／しち,nana / shichi,Tujuh,Angka,,,Dua bacaan umum
+69,1,Angka,八,はち,hachi,Delapan,Angka,,,
+70,1,Angka,九,きゅう／く,kyuu / ku,Sembilan,Angka,,,Dua bacaan umum
+71,1,Angka,十,じゅう,juu,Sepuluh,Angka,,,
+72,1,Angka,十一,じゅういち,juuichi,Sebelas,Angka,,,
+73,1,Angka,十二,じゅうに,juuni,Dua belas,Angka,,,
+74,1,Angka,十三,じゅうさん,juusan,Tiga belas,Angka,,,
+75,1,Angka,十五,じゅうご,juugo,Lima belas,Angka,,,
+76,1,Angka,十八,じゅうはち,juuhachi,Delapan belas,Angka,,,
+77,1,Angka,十九,じゅうきゅう／じゅうく,juukyuu / juuku,Sembilan belas,Angka,,,Dua pelafalan
+78,1,Angka,二十,にじゅう,nijuu,Dua puluh,Angka,,,
+79,1,Angka,二十一,にじゅういち,nijuuichi,Dua puluh satu,Angka,,,
+80,1,Angka,二十二,にじゅうに,nijuuni,Dua puluh dua,Angka,,,
+81,1,Angka,二十五,にじゅうご,nijuugo,Dua puluh lima,Angka,,,
+82,1,Angka,二十九,にじゅうきゅう／にじゅうく,nijuukyuu / nijuuku,Dua puluh sembilan,Angka,,,Dua pelafalan
+83,1,Angka,三十,さんじゅう,sanjuu,Tiga puluh,Angka,,,
+84,1,Angka,四十,よんじゅう,yonjuu,Empat puluh,Angka,,,
+85,1,Angka,九十,きゅうじゅう,kyuujuu,Sembilan puluh,Angka,,,
+86,1,Angka,九十九,きゅうじゅうきゅう／きゅうじゅうく,kyuujuukyuu / kyuujuuku,Sembilan puluh sembilan,Angka,,,Dua pelafalan
+87,1,Usia,一歳,いっさい,issai,Satu tahun,Angka,,,Perubahan khusus dari いちさい
+88,1,Usia,二歳,にさい,nisai,Dua tahun,Angka,,,
+89,1,Usia,三歳,さんさい,sansai,Tiga tahun,Angka,,,
+90,1,Usia,四歳,よんさい,yonsai,Empat tahun,Angka,,,
+91,1,Usia,五歳,ごさい,gosai,Lima tahun,Angka,,,
+92,1,Usia,六歳,ろくさい,rokusai,Enam tahun,Angka,,,
+93,1,Usia,七歳,ななさい,nanasai,Tujuh tahun,Angka,,,
+94,1,Usia,八歳,はっさい,hassai,Delapan tahun,Angka,,,Perubahan khusus dari はちさい
+95,1,Usia,九歳,きゅうさい,kyuusai,Sembilan tahun,Angka,,,
+96,1,Usia,十歳,じゅっさい／じっさい,jussai / jissai,Sepuluh tahun,Angka,,,Dua pelafalan khusus
+97,1,Usia,十一歳,じゅういっさい,juuissai,Sebelas tahun,Angka,,,
+98,1,Usia,十五歳,じゅうごさい,juugosai,Lima belas tahun,Angka,,,
+99,1,Usia,十八歳,じゅうはっさい,juuhassai,Delapan belas tahun,Angka,,,
+100,1,Usia,二十歳,はたち／にじゅっさい／にじっさい,hatachi / nijussai / nijissai,Dua puluh tahun,Angka,,,はたち bentuk khusus & lazim digunakan untuk usia 20
+101,1,Usia,二十五歳,にじゅうごさい,nijuugosai,Dua puluh lima tahun,Angka,,,
+102,1,Usia,三十歳,さんじゅっさい／さんじっさい,sanjussai / sanjissai,Tiga puluh tahun,Angka,,,Dua pelafalan
+103,1,Usia,四十歳,よんじゅっさい／よんじっさい,yonjussai / yonjissai,Empat puluh tahun,Angka,,,Dua pelafalan
+104,1,Budaya,成人式,せいじんしき,seijinshiki,Upacara Hari Kedewasaan,Kata Benda,,,"Umur dewasa: Dulu 20 tahun, kini 18 tahun (di Jepang modern)"
+105,2,Pronomina Penunjuk,これ,これ,kore,Ini,Kata Ganti,,,Benda dekat pembicara
+106,2,Pronomina Penunjuk,それ,それ,sore,Itu,Kata Ganti,,,Benda dekat lawan bicara
+107,2,Pronomina Penunjuk,あれ,あれ,are,Itu (jauh dari pembicara & lawan bicara),Kata Ganti,,,Jauh dari pembicara dan lawan bicara
+108,2,Penunjuk Kata Benda,この,この,kono,Ini + [Kata benda],Determiner,,,Selalu diikuti oleh kata benda
+109,2,Penunjuk Kata Benda,その,その,sono,Itu + [Kata benda],Determiner,,,Selalu diikuti oleh kata benda
+110,2,Penunjuk Kata Benda,あの,あの,ano,Itu (jauh) + [Kata benda],Determiner,,,Selalu diikuti oleh kata benda
+111,2,Kata Benda,本,ほん,hon,Buku umum,Kata Benda,,,
+112,2,Kata Benda,教科書,きょうかしょ,kyoukasho,Buku paket,Kata Benda,,,
+113,2,Kata Benda,辞書,じしょ,jisho,Kamus,Kata Benda,,,
+114,2,Kata Benda,雑誌,ざっし,zasshi,Majalah,Kata Benda,,,
+115,2,Kata Benda,新聞,しんぶん,shinbun,Surat kabar,Kata Benda,,,
+116,2,Kata Benda,ノート,ノート,nooto,Buku catatan,Kata Benda,,,
+117,2,Kata Benda,手帳,てちょう,techou,Buku kecil (agenda),Kata Benda,,,
+118,2,Kata Benda,名刺,めいし,meishi,Kartu nama,Kata Benda,,,
+119,2,Ekspresi,名刺交換,めいしこうかん,meishi koukan,Tukar kartu nama,Frasa,,,
+120,2,Kata Benda,カード,カード,kaado,Kartu,Kata Benda,,,
+121,2,Kata Benda,鉛筆,えんぴつ,enpitsu,Pensil,Kata Benda,,,
+122,2,Kata Benda,シャープペンシル,シャープペンシル,shaapupenshiru,Pensil mekanik,Kata Benda,,,
+123,2,Kata Benda,ボールペン,ボールペン,boorupen,Pulpen / Ballpoint,Kata Benda,,,
+124,2,Kata Benda,鍵,かぎ,kagi,Kunci,Kata Benda,,,
+125,2,Kata Benda,時計,とけい,tokei,Jam (umum),Kata Benda,,,
+126,2,Kata Benda,腕時計,うでどけい,udedokei,Jam tangan,Kata Benda,,,
+127,2,Kata Benda,傘,かさ,kasa,Payung,Kata Benda,,,
+128,2,Kata Benda,鞄,かばん,kaban,Tas (umum),Kata Benda,,,
+129,2,Kata Benda,CD,CD,shii dii,CD,Kata Benda,,,
+130,2,Kata Benda,テレビ,テレビ,terebi,Televisi,Kata Benda,,,
+131,2,Kata Benda,ラジオ,ラジオ,rajio,Radio,Kata Benda,,,
+132,2,Kata Benda,カメラ,カメラ,kamera,Kamera,Kata Benda,,,
+133,2,Kata Benda,コンピューター,コンピューター,konpyuutaa,Komputer,Kata Benda,,,
+134,2,Kata Benda,車,くるま,kuruma,Mobil,Kata Benda,,,
+135,2,Kata Benda,自動車,じどうしゃ,jidousha,Mobil (formal),Kata Benda,,,Selalu diikuti oleh kata benda
+136,2,Kata Benda,机,つくえ,tsukue,"Meja (ada laci, desk)",Kata Benda,,,
+137,2,Kata Benda,テーブル,テーブル,teeburu,"Meja (tanpa laci, table)",Kata Benda,,,
+138,2,Kata Benda,椅子,いす,isu,Kursi,Kata Benda,,,
+139,2,Kata Benda,チョコレート,チョコレート,chokoreeto,Cokelat,Kata Benda,,,
+140,2,Kata Benda,コーヒー,コーヒー,koohii,Kopi,Kata Benda,,,
+141,2,Kata Benda,コピー,コピー,kopii,Fotokopi,Kata Benda,,,
+142,2,Kata Benda (Hormat),お土産,おみやげ,omiyage,Oleh-oleh,Kata Benda,,,Penghormatan dengan awalan お
+143,2,Kata Benda (Hormat),お金,おかね,okane,Uang,Kata Benda,,,
+144,2,Kata Benda (Hormat),お酒,おさけ,osake,Sake,Kata Benda,,,
+145,2,Kata Benda (Hormat),お湯,おゆ,oyu,Air panas,Kata Benda,,,
+146,2,Kata Benda (Hormat),お冷,おひや,ohiya,Air dingin,Kata Benda,,,
+147,2,Kata Benda (Hormat),お茶,おちゃ,ocha,Teh hijau,Kata Benda,,,
+148,2,Bahasa,英語,えいご,eigo,Bahasa Inggris,Kata Benda,,,
+149,2,Bahasa,日本語,にほんご,nihongo,Bahasa Jepang,Kata Benda,,,
+150,2,Bahasa,インドネシア語,インドネシアご,indonesiago,Bahasa Indonesia,Kata Benda,,,
+151,2,Bahasa,ドイツ語,ドイツご,doitsugo,Bahasa Jerman,Kata Benda,,,
+152,2,Bahasa,スペイン語,スペインご,supeingo,Bahasa Spanyol,Kata Benda,,,
+153,2,Bahasa,中国語,ちゅうごくご,chuugokugo,Bahasa Mandarin / China,Kata Benda,,,
+154,2,Bahasa,韓国語,かんこくご,kankokugo,Bahasa Korea Selatan,Kata Benda,,,
+155,2,Ekspresi,そう,そう,sou,Begitu,Ekspresi,,,Untuk menyatakan persetujuan atau penegasan
+156,2,Ekspresi,あのう,あのう,anou,Ehmm... (digunakan saat ragu atau ingin menarik perhatian),Ekspresi,,,
+157,2,Ekspresi,えっ,えっ,e,Eh (terkejut),Ekspresi,,,
+158,2,Ekspresi,どうぞ,どうぞ,douzo,Silakan,Ekspresi,,,
+159,2,Ekspresi,どうもありがとうございます,どうもありがとうございます,doumo arigatou gozaimasu,Terima kasih banyak,Ekspresi,,,Formal dan sopan
+160,2,Ekspresi,ありがとうございます,ありがとうございます,arigatou gozaimasu,Terima kasih (formal),Ekspresi,,,
+161,2,Ekspresi,そうですか,そうですか,sou desu ka,Oh begitu ya? / Oh begitu kah?,Ekspresi,,,Nada intonasi menentukan makna emosional
+162,2,Ekspresi,違います,ちがいます,chigaimasu,Bukan / Tidak / Salah,Kata Kerja,Godan (I),Jidoushi (Intransitif),Digunakan untuk mengoreksi atau menyangkal pernyataan
+163,2,Ekspresi,あ,あ,a,Ah! (tersadar),Ekspresi,,,
+164,2,Ekspresi,これからお世話になります,これからおせわになります,kore kara osewa ni narimasu,"Mulai sekarang, mohon bantuannya",Ekspresi,,,Digunakan saat memasuki lingkungan baru
+165,2,Ekspresi,今までお世話になりました,いままでおせわになりました,ima made osewa ni narimashita,Terima kasih bantuannya selama ini,Ekspresi,,,Digunakan saat berpisah atau keluar dari lingkungan lama
+166,2,Kata Benda,世話,せわ,sewa,Merawat / Menjaga / Membantu,Kata Benda,,,Digunakan dalam ekspresi seperti お世話になります
+167,2,Ekspresi,こちらこそ,こちらこそ,kochira koso,Saya juga ...,Ekspresi,,,Ungkapan membalas kesopanan
+168,2,Ekspresi,どういたしまして,どういたしまして,dou itashimashite,Sama-sama,Ekspresi,,,Formal
+169,2,Ekspresi,いえいえ,いえいえ,ieie,Sama-sama / Ah tidak apa-apa,Ekspresi,,,Kasual
+170,2,Ekspresi,とんでもありません,とんでもありません,tondemo arimasen,Sama-sama / Ah tidak sama sekali,Ekspresi,,,
+171,2,Ekspresi,とんでもございません,とんでもございません,tondemo gozaimasen,Sama-sama / Ah tidak sama sekali (hormat/sopan),Ekspresi,,,Bentuk sopan dari とんでもありません
+172,3,Pronomina Tempat,ここ,ここ,koko,Sini,Kata Ganti,,,Dekat pembicara
+173,3,Pronomina Tempat,こちら,こちら,kochira,Sini (sopan),Kata Ganti,,,
+174,3,Pronomina Tempat,そこ,そこ,soko,Situ,Kata Ganti,,,Dekat lawan bicara
+175,3,Pronomina Tempat,そちら,そちら,sochira,Situ (sopan),Kata Ganti,,,
+176,3,Pronomina Tempat,あそこ,あそこ,asoko,Sana,Kata Ganti,,,Jauh dari pembicara & lawan bicara
+177,3,Pronomina Tempat,あちら,あちら,achira,Sana (sopan),Kata Ganti,,,
+178,3,Kata Tanya Tempat,どこ,どこ,doko,Di mana,Kata Tanya,,,Kasual
+179,3,Tempat,教室,きょうしつ,kyoushitsu,Ruang kelas,Kata Benda,,,
+180,3,Tempat,食堂,しょくどう,shokudou,Kantin,Kata Benda,,,
+181,3,Tempat,事務所,じむしょ,jimusho,Ruang kantor,Kata Benda,,,
+182,3,Tempat,会議室,かいぎしつ,kaigishitsu,Ruang rapat,Kata Benda,,,
+183,3,Kegiatan,会議,かいぎ,kaigi,Rapat,Kata Benda,,,
+184,3,Tempat,～室,～しつ,~shitsu,Ruangan,Kata Bantu,,,Digunakan sebagai sufiks untuk ruangan
+185,3,Tempat,受付,うけつけ,uketsuke,Meja informasi,Kata Benda,,,
+186,3,Tempat,ロビー,ロビー,robii,Lobi,Kata Benda,,,
+187,3,Tempat,部屋,へや,heya,Kamar,Kata Benda,,,
+188,3,Tempat,お風呂,おふろ,ofuro,Bak mandi / Tempat mandi,Kata Benda,,,Mengandung awalan hormat お
+189,3,Tempat,トイレ,トイレ,toire,Toilet,Kata Benda,,,
+190,3,Tempat,お手洗い,おてあらい,otearai,Toilet (sopan),Kata Benda,,,Secara harfiah: tempat mencuci tangan
+191,3,Kata Dasar,手,て,te,Tangan,Kata Benda,,,
+192,3,Kata Kerja Dasar,洗い,あらい,arai,Mencuci,Kata Kerja,Godan (I),Tadoushi (Transitif),Bentuk akar dari 洗います
+193,3,Tempat,階段,かいだん,kaidan,Tangga,Kata Benda,,,
+194,3,Tempat,エスカレーター,エスカレーター,esukareetaa,Eskalator,Kata Benda,,,Tangga berjalan
+195,3,Tempat,エレベーター,エレベーター,erebeetaa,Lift / Elevator,Kata Benda,,,
+196,3,Konsep,自動,じどう,jidou,Otomatis,Kata Benda,,,
+197,3,Konsep,販売,はんばい,hanbai,Penjualan,Kata Benda,,,
+198,3,Akhiran,～機,～き,~ki,Mesin,Kata Bantu,,,Digunakan untuk menyebutkan jenis mesin
+199,3,Benda,自動販売機,じどうはんばいき,jidouhanbaiki,Mesin penjual otomatis (vending machine),Kata Benda,,,
+200,3,Benda,電話,でんわ,denwa,Telepon,Kata Benda,,,
+201,3,Benda,携帯電話,けいたいでんわ,keitaidenwa,Ponsel,Kata Benda,,,
+202,3,Benda,スマホ,スマホ,sumaho,Smartphone,Kata Benda,,,Singkatan dari スマートフォン
+203,3,Benda,スマートフォン,スマートフォン,sumaatofon,Smartphone,Kata Benda,,,Bentuk lengkap dari スマホ
+204,3,Benda,携帯辞書,けいたいじしょ,keitaijisho,Kamus portable,Kata Benda,,,
+205,3,Konsep,携帯,けいたい,keitai,Mobile / Portabel,Kata Benda,,,
+206,3,Kata Tanya,お国,おくに,okuni,Negara (sopan),Kata Tanya,,,Bentuk hormat dengan awalan お
+207,3,Tempat,家,いえ／うち,ie / uchi,Rumah,Kata Benda,,,うち juga dapat digunakan oleh perempuan untuk merujuk ke diri atau keluarga
+208,3,Benda,靴,くつ,kutsu,Sepatu,Kata Benda,,,
+209,3,Benda,ネクタイ,ネクタイ,nekutai,Dasi / Necktie,Kata Benda,,,
+210,3,Benda,ワイン,ワイン,wain,Anggur (Wine),Kata Benda,,,
+211,3,Benda,白ワイン,しろワイン,shiro wain,Anggur putih,Kata Benda,,,
+212,3,Benda,赤ワイン,あかワイン,aka wain,Anggur merah,Kata Benda,,,
+213,3,Tempat,売り場,うりば,uriba,Tempat / bagian penjualan,Kata Benda,,,Digunakan di toko atau department store
+214,3,Tempat,地下,ちか,chika,Bawah tanah,Kata Benda,,,
+215,3,Satuan Lantai,一階,いっかい,ikkai,Lantai satu,Angka,,,Bacaan khusus
+216,3,Satuan Lantai,二階,にかい,nikai,Lantai dua,Angka,,,
+217,3,Satuan Lantai,三階,さんがい,sangai,Lantai tiga,Angka,,,Bacaan khusus
+218,3,Satuan Lantai,四階,よんかい,yonkai,Lantai empat,Angka,,,
+219,3,Satuan Lantai,五階,ごかい,gokai,Lantai lima,Angka,,,
+220,3,Satuan Lantai,六階,ろっかい,rokkai,Lantai enam,Angka,,,Bacaan khusus
+221,3,Satuan Lantai,七階,ななかい,nanakai,Lantai tujuh,Angka,,,
+222,3,Satuan Lantai,八階,はっかい,hakkai,Lantai delapan,Angka,,,Bacaan khusus
+223,3,Satuan Lantai,九階,きゅうかい,kyuukai,Lantai sembilan,Angka,,,
+224,3,Satuan Lantai,十階,じゅっかい／じっかい,jukkai / jikkai,Lantai sepuluh,Angka,,,Dua pelafalan
+225,3,Kata Tanya (Lantai),何階,なんがい,nangai,Lantai berapa?,Kata Tanya,,,Jangan bingung dengan なんかい (berapa kali)
+226,3,Kata Tanya (Jumlah),いくら,いくら,ikura,Berapa (harga),Kata Tanya,,,
+227,3,Satuan Uang,～円,～えん,~en,Yen,Satuan,,,
+228,3,Satuan Uang,～ルピア,～ルピア,~rupia,Rupiah,Satuan,,,
+229,3,Angka,百,ひゃく,hyaku,Seratus,Angka,,,
+230,3,Angka,千,せん,sen,Seribu,Angka,,,
+231,3,Angka,万,まん,man,Sepuluh ribu,Angka,,,
+232,3,Ekspresi,すみません,すみません,sumimasen,Permisi / Maaf,Ekspresi,,,Digunakan untuk meminta izin atau memanggil perhatian
+233,3,Ekspresi (Toko),いらっしゃいませ,いらっしゃいませ,irasshaimase,Selamat datang (di toko),Ekspresi,,,Digunakan oleh penjaga toko saat menyambut pelanggan
+234,3,Ekspresi (Permintaan),～を見せてください,～をみせてください,~o misete kudasai,Tolong perlihatkan ...,Frasa,,,Partikel を menandai objek yang ingin dilihat
+235,3,Ekspresi (Respons),じゃ、,じゃ、,ja,"Baiklah, kalau begitu",Ekspresi,,,Umum digunakan untuk menyimpulkan atau transisi
+236,3,Ekspresi (Permintaan),～をください,～をください,~o kudasai,Tolong berikan ... (meminta sesuatu),Frasa,,,Partikel を menandai objek yang diminta
+237,3,Negara,イタリア,イタリア,itaria,Italia,Kata Benda,,,
+238,3,Negara,スイス,スイス,suisu,Swiss,Kata Benda,,,
+239,3,Negara,フランス,フランス,furansu,Perancis,Kata Benda,,,
+240,3,Kota,ジャカルタ,ジャカルタ,jakaruta,Jakarta,Kata Benda,,,
+241,3,Kota,バンコク,バンコク,bankoku,Bangkok,Kata Benda,,,
+242,3,Kota,ベルリン,ベルリン,berurin,Berlin,Kata Benda,,,
+243,4,Kata Kerja,起きます,おきます,okimasu,Bangun (dari tidur),Kata Kerja,Ichidan (II),Jidoushi (Intransitif),
+244,4,Kata Kerja,寝ます,ねます,nemasu,Tidur,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),
+245,4,Kata Kerja,働きます,はたらきます,hatarakimasu,Bekerja,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+246,4,Kata Kerja,休みます,やすみます,yasumimasu,Beristirahat / Berlibur / Cuti,Kata Kerja,Godan (I),Tadoushi (Transitif),かいしゃをやすみます＝Tidak masuk kerjaがっこうをやすみます＝Tidak masuk sekolah
+247,4,Kata Benda,休み,やすみ,yasumi,Istirahat / Libur / Cuti,Kata Benda,,,Kata benda dari やすみます
+248,4,Kata Benda,昼休み,ひるやすみ,hiruyasumi,Istirahat siang,Kata Benda,,,
+249,4,Kata Kerja,勉強します,べんきょうします,benkyou shimasu,Belajar,Kata Kerja,Irregular (III),Tadoushi (Transitif),Bentuk ～します dari 勉強（べんきょう）
+250,4,Kata Kerja,終わります,おわります,owarimasu,Selesai,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+251,4,Tempat,デパート,デパート,depaato,Toserba / Department Store,Kata Benda,,,
+252,4,Tempat,郵便局,ゆうびんきょく,yuubinkyoku,Kantor Pos,Kata Benda,,,
+253,4,Tempat,図書館,としょかん,toshokan,Perpustakaan,Kata Benda,,,
+254,4,Tempat,美術館,びじゅつかん,bijutsukan,Gedung kesenian / Museum seni,Kata Benda,,,
+255,4,Waktu,今,いま,ima,Sekarang / Barusan,Kata Benda,,,たったいま = Baru saja
+256,4,Penanda Waktu,～時,～じ,~ji,Jam ...,Satuan,,,Contoh: １じ＝いちじ
+257,4,Penanda Waktu,～分,～ふん／～ぷん,~fun / ~pun,Menit,Satuan,,,Bacaan berubah tergantung angka
+258,4,Penanda Waktu,～秒,～びょう,~byou,Detik,Satuan,,,
+259,4,Penanda Waktu,半,はん,han,Setengah,Satuan,,,Contoh: にじはん = Jam setengah 3
+260,4,Kata Tanya,何時,なんじ,nanji,Jam berapa,Kata Tanya,,,
+261,4,Kata Tanya,何分,なんぷん,nanpun,Menit berapa,Kata Tanya,,,
+262,4,Penanda Waktu,午前,ごぜん,gozen,A.M.,Kata Benda,,,Digunakan sebelum jam
+263,4,Penanda Waktu,午後,ごご,gogo,P.M.,Kata Benda,,,
+264,4,Penanda Waktu,朝,あさ,asa,Pagi,Kata Benda,,,
+265,4,Penanda Waktu,昼,ひる,hiru,Siang,Kata Benda,,,
+266,4,Penanda Waktu,夕方,ゆうがた,yuugata,Sore,Kata Benda,,,
+267,4,Penanda Waktu,晩,ばん,ban,Malam,Kata Benda,,,
+268,4,Penanda Waktu,夜,よる,yoru,Malam,Kata Benda,,,
+269,4,Makanan,朝ごはん,あさごはん,asagohan,Sarapan,Kata Benda,,,
+270,4,Makanan,昼ごはん,ひるごはん,hirugohan,Makan siang,Kata Benda,,,
+271,4,Makanan,晩ごはん,ばんごはん,bangohan,Makan malam,Kata Benda,,,
+272,4,Waktu,一昨日,おととい,ototoi,Dua hari lalu,Kata Benda,,,
+273,4,Waktu,昨日,きのう,kinou,Kemarin,Kata Benda,,,
+274,4,Waktu,今日,きょう,kyou,Hari ini,Kata Benda,,,
+275,4,Waktu,明日,あした,ashita,Besok,Kata Benda,,,
+276,4,Waktu,明後日,あさって,asatte,Lusa,Kata Benda,,,
+277,4,Waktu,今朝,けさ,kesa,Tadi pagi,Kata Benda,,,
+278,4,Waktu,今晩,こんばん,konban,Malam ini,Kata Benda,,,
+279,4,Salam,こんばんは,こんばんは,konbanwa,Selamat malam (menyapa),Ekspresi,,,
+280,4,Salam,おやすみ（なさい）,おやすみ（なさい）,oyasumi (nasai),Selamat tidur / Selamat malam (istirahat),Ekspresi,,,
+281,4,Kata Benda,試験,しけん,shiken,Ujian,Kata Benda,,,
+282,4,Kata Benda,能力,のうりょく,nouryoku,Kemampuan,Kata Benda,,,
+283,4,Kata Benda,日本語能力試験,にほんごのうりょくしけん,nihongo nouryoku shiken,Ujian Kemampuan Bahasa Jepang (JLPT),Kata Benda,,,
+284,4,Kata Kerja,会議をします,かいぎをします,kaigi o shimasu,Mengadakan rapat,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+285,4,Waktu,毎朝,まいあさ,maiasa,Setiap pagi,Kata Benda,,,
+286,4,Waktu,毎晩,まいばん,maiban,Setiap malam,Kata Benda,,,
+287,4,Waktu,毎日,まいにち,mainichi,Setiap hari,Kata Benda,,,
+288,4,Hari,月曜日,げつようび,getsuyoubi,Senin,Kata Benda,,,Kanji 月 = Bulan
+289,4,Hari,火曜日,かようび,kayoubi,Selasa,Kata Benda,,,Kanji 火 = Api
+290,4,Hari,水曜日,すいようび,suiyoubi,Rabu,Kata Benda,,,Kanji 水 = Air
+291,4,Hari,木曜日,もくようび,mokuyoubi,Kamis,Kata Benda,,,Kanji 木 = Kayu
+292,4,Hari,金曜日,きんようび,kinyoubi,Jumat,Kata Benda,,,Kanji 金 = Emas
+293,4,Hari,土曜日,どようび,doyoubi,Sabtu,Kata Benda,,,Kanji 土 = Tanah
+294,4,Hari,日曜日,にちようび,nichiyoubi,Minggu,Kata Benda,,,Kanji 日 = Matahari
+295,4,Kata Tanya,何曜日,なんようび,nanyoubi,Hari apa?,Kata Tanya,,,
+296,4,Partikel,～から,～から,~kara,Dari... / Karena…,Partikel,,,Konteks waktu/tempat atau alasan
+297,4,Partikel,～まで,～まで,~made,Sampai...,Partikel,,,
+298,4,Partikel,～と～,～と～,to,Dan,Partikel,,,Menghubungkan dua kata benda
+299,4,Ekspresi,たいへんですね,たいへんですね,taihen desu ne,"Wah, berat ya... / Kasihan",Ekspresi,,,Ungkapan simpati
+300,4,Kata Benda,番号,ばんごう,bangou,Nomor,Kata Benda,,,
+301,4,Kata Benda,電話番号,でんわばんごう,denwa bangou,Nomor telepon,Kata Benda,,,
+302,4,Kata Tanya,何番,なんばん,nanban,Nomor berapa,Kata Tanya,,,
+303,4,Kota,ニューヨーク,ニューヨーク,nyuuyooku,New York,Kata Benda,,,
+304,4,Kota,北京,ペキン,pekin,Beijing,Kata Benda,,,
+305,4,Kota,ロサンゼルス,ロサンゼルス,rosanzerusu,Los Angeles,Kata Benda,,,
+306,4,Kota,ロンドン,ロンドン,rondon,London,Kata Benda,,,
+307,5,Kata Kerja,行きます,いきます,ikimasu,Pergi,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+308,5,Kata Kerja,来ます,きます,kimasu,Datang,Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+309,5,Kata Kerja,帰ります,かえります,kaerimasu,Pulang (ke rumah/kampung),Kata Kerja,Godan (I),Jidoushi (Intransitif),
+310,5,Tempat,学校,がっこう,gakkou,Sekolah,Kata Benda,,,
+311,5,Tempat,スーパー,スーパー,suupaa,Supermarket,Kata Benda,,,
+312,5,Tempat,駅,えき,eki,Stasiun,Kata Benda,,,
+313,5,Transportasi,飛行機,ひこうき,hikouki,Pesawat,Kata Benda,,,
+314,5,Transportasi,船,ふね,fune,Kapal,Kata Benda,,,
+315,5,Transportasi,電車,でんしゃ,densha,Kereta,Kata Benda,,,
+316,5,Transportasi,地下鉄,ちかてつ,chikatetsu,Kereta bawah tanah,Kata Benda,,,"ちか = bawah tanah, てつ = besi"
+317,5,Transportasi,新幹線,しんかんせん,shinkansen,Shinkansen (kereta peluru),Kata Benda,,,
+318,5,Transportasi,バス,バス,basu,Bus,Kata Benda,,,
+319,5,Transportasi,タクシー,タクシー,takushii,Taksi,Kata Benda,,,
+320,5,Transportasi,自転車,じてんしゃ,jitensha,Sepeda,Kata Benda,,,
+321,5,Transportasi,歩いて,あるいて,aruite,Dengan berjalan kaki,Kata Keterangan,,,Bentuk te dari 歩きます（あるきます）
+322,5,Orang,人,ひと,hito,Orang,Kata Benda,,,
+323,5,Orang,友達,ともだち,tomodachi,Teman,Kata Benda,,,
+324,5,Orang,彼,かれ,kare,Dia (laki-laki),Kata Benda,,,"Bisa berarti ""pacar laki-laki"""
+325,5,Orang,彼女,かのじょ,kanojo,Dia (perempuan) / Pacar perempuan,Kata Benda,,,
+326,5,Orang,彼氏,かれし,kareshi,Pacar laki-laki,Kata Benda,,,
+327,5,Orang,恋人,こいびと,koibito,Pacar (kekasih),Kata Benda,,,Netral gender
+328,5,Orang,家族,かぞく,kazoku,Keluarga,Kata Benda,,,
+329,5,Waktu,～週間前,～しゅうかんまえ,~shuukan mae,~ minggu lalu,Frasa Waktu,,,Contoh: さんしゅうかんまえ
+330,5,Waktu,～週間後,～しゅうかんご,~shuukan go,~ minggu lagi,Frasa Waktu,,,
+331,5,Waktu,毎週,まいしゅう,maishuu,Setiap minggu,Kata Benda,,,
+332,5,Waktu,先週,せんしゅう,senshuu,Minggu lalu,Kata Benda,,,
+333,5,Waktu,今週,こんしゅう,konshuu,Minggu ini,Kata Benda,,,
+334,5,Waktu,来週,らいしゅう,raishuu,Minggu depan,Kata Benda,,,
+335,5,Waktu,～か月前,～かげつまえ,~kagetsu mae,~ bulan lalu,Frasa Waktu,,,
+336,5,Waktu,～か月後,～かげつご,~kagetsu go,~ bulan lagi,Frasa Waktu,,,
+337,5,Waktu,毎月,まいつき,maitsuki,Setiap bulan,Kata Benda,,,
+338,5,Waktu,先月,せんげつ,sengetsu,Bulan lalu,Kata Benda,,,
+339,5,Waktu,今月,こんげつ,kongetsu,Bulan ini,Kata Benda,,,
+340,5,Waktu,来月,らいげつ,raigetsu,Bulan depan,Kata Benda,,,
+341,5,Waktu,～年前,～ねんまえ,~nen mae,~ tahun lalu,Frasa Waktu,,,
+342,5,Waktu,～年後,～ねんご,~nen go,~ tahun lagi,Frasa Waktu,,,
+343,5,Waktu,毎年,まいとし／まいねん,maitoshi / mainen,Setiap tahun,Kata Benda,,,まいとし lebih umum
+344,5,Waktu,去年,きょねん,kyonen,Tahun lalu,Kata Benda,,,Bentuk benar (せんねん salah)
+345,5,Waktu,今年,ことし,kotoshi,Tahun ini,Kata Benda,,,
+346,5,Waktu,来年,らいねん,rainen,Tahun depan,Kata Benda,,,
+347,5,Waktu,～年,～ねん,~nen,Tahun ...,Satuan,,,Contoh: 2025年（にせんにじゅうごねん）
+348,5,Kata Tanya,何年,なんねん,nannen,Tahun berapa?,Kata Tanya,,,
+349,5,Waktu,～月,～がつ,~gatsu,Bulan ...,Satuan,,,Contoh: 一月（いちがつ）
+350,5,Kata Tanya,何月,なんがつ,nangatsu,Bulan apa?,Kata Tanya,,,
+351,5,Waktu,～日,～にち,~nichi,Tanggal ...,Satuan,,,Dari tanggal 11~
+352,5,Waktu Spesial,一日,ついたち,tsuitachi,Tanggal 1,Satuan,,,
+353,5,Waktu Spesial,二日,ふつか,futsuka,Tanggal 2,Satuan,,,
+354,5,Waktu Spesial,三日,みっか,mikka,Tanggal 3,Satuan,,,
+355,5,Waktu Spesial,四日,よっか,yokka,Tanggal 4,Satuan,,,
+356,5,Waktu Spesial,五日,いつか,itsuka,Tanggal 5,Satuan,,,
+357,5,Waktu Spesial,六日,むいか,muika,Tanggal 6,Satuan,,,
+358,5,Waktu Spesial,七日,なのか,nanoka,Tanggal 7,Satuan,,,
+359,5,Waktu Spesial,八日,ようか,youka,Tanggal 8,Satuan,,,
+360,5,Waktu Spesial,九日,ここのか,kokonoka,Tanggal 9,Satuan,,,
+361,5,Waktu Spesial,十日,とおか,tooka,Tanggal 10,Satuan,,,
+362,5,Waktu Spesial,十四日,じゅうよっか,juuyokka,Tanggal 14,Satuan,,,
+363,5,Waktu Spesial,二十日,はつか,hatsuka,Tanggal 20,Satuan,,,
+364,5,Waktu Spesial,二十四日,にじゅうよっか,nijuuyokka,Tanggal 24,Satuan,,,
+365,5,Kata Tanya,何日,なんにち,nannichi,Tanggal berapa?,Kata Tanya,,,
+366,6,Kata Kerja,食べます,たべます,tabemasu,Makan,Kata Kerja,Ichidan (II),Tadoushi (Transitif),わたしはてでたべます
+367,6,Kata Kerja,飲みます,のみます,nomimasu,Minum,Kata Kerja,Godan (I),Tadoushi (Transitif),
+368,6,Kata Kerja,吸います,すいます,suimasu,Menghisap (rokok),Kata Kerja,Godan (I),Tadoushi (Transitif),Contoh: たばこをすいます
+369,6,Kata Kerja,見ます,みます,mimasu,Melihat / Menonton (umum),Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+370,6,Kata Kerja,観ます,みます,mimasu,Menikmati / Menonton (hiburan),Kata Kerja,Ichidan (II),Tadoushi (Transitif),"Digunakan untuk film, pertunjukan, dll."
+371,6,Kata Kerja,診ます,みます,mimasu,"Memeriksa (pasien, kondisi)",Kata Kerja,Ichidan (II),Tadoushi (Transitif),Digunakan di konteks medis
+372,6,Kata Kerja,聞きます,ききます,kikimasu,"Bertanya, Mendengar",Kata Kerja,Godan (I),Tadoushi (Transitif),せんせいにききます／おんがくをききます
+373,6,Kata Kerja,読みます,よみます,yomimasu,Membaca,Kata Kerja,Godan (I),Tadoushi (Transitif),
+374,6,Kata Kerja,書きます,かきます,kakimasu,Menulis,Kata Kerja,Godan (I),Tadoushi (Transitif),わたしはパソコンでレポートをかきます
+375,6,Kata Kerja,描きます,かきます,kakimasu,Menggambar / Melukis,Kata Kerja,Godan (I),Tadoushi (Transitif),Konteks seni / visual
+376,6,Kata Kerja,買います,かいます,kaimasu,Membeli,Kata Kerja,Godan (I),Tadoushi (Transitif),
+377,6,Kata Kerja,撮ります,とります,torimasu,Mengambil (foto) / Memotret,Kata Kerja,Godan (I),Tadoushi (Transitif),Contoh: しゃしんをとります
+378,6,Kata Kerja,〜します,〜します,~shimasu,Melakukan / mengerjakan / bermain,Kata Kerja,Irregular (III),Tadoushi (Transitif),Bentuk umum dari banyak aktivitas: 勉強します、運動します、など
+379,6,Kata Kerja,会います,あいます,aimasu,Bertemu,Kata Kerja,Godan (I),Jidoushi (Intransitif),Contoh: ともだちにあいます
+380,6,Makanan,ご飯,ごはん,gohan,Nasi / Makan,Kata Benda,,,
+381,6,Makanan,パン,パン,pan,Roti,Kata Benda,,,
+382,6,Makanan,卵,たまご,tamago,Telur,Kata Benda,,,
+383,6,Makanan,肉,にく,niku,Daging,Kata Benda,,,
+384,6,Makanan,魚,さかな,sakana,Ikan,Kata Benda,,,
+385,6,Makanan,野菜,やさい,yasai,Sayuran,Kata Benda,,,
+386,6,Makanan,果物,くだもの,kudamono,Buah-buahan,Kata Benda,,,
+387,6,Minuman,水,みず,mizu,Air,Kata Benda,,,
+388,6,Minuman,紅茶,こうちゃ,koucha,Teh hitam,Kata Benda,,,
+389,6,Minuman,牛乳（ミルク）,ぎゅうにゅう（ミルク）,gyuunyuu (miruku),Susu,Kata Benda,,,
+390,6,Minuman,ジュース,ジュース,juusu,Jus,Kata Benda,,,
+391,6,Minuman,ビール,ビール,biiru,Bir,Kata Benda,,,
+392,6,Benda,たばこ,たばこ,tabako,Rokok,Kata Benda,,,
+393,6,Benda,手紙,てがみ,tegami,Surat,Kata Benda,,,
+394,6,Benda,レポート,レポート,repooto,Laporan,Kata Benda,,,
+395,6,Benda,写真,しゃしん,shashin,Foto,Kata Benda,,,
+396,6,Benda,ビデオ,ビデオ,bideo,Video,Kata Benda,,,
+397,6,Tempat,お店,おみせ,omise,Toko,Kata Benda,,,
+398,6,Tempat,庭,にわ,niwa,Pekarangan / Halaman,Kata Benda,,,
+399,6,Tempat,公園,こうえん,kouen,Taman,Kata Benda,,,
+400,6,Tugas,宿題,しゅくだい,shukudai,PR (Pekerjaan Rumah),Kata Benda,,,
+401,6,Kata Kerja,宿題をします,しゅくだいをします,shukudai o shimasu,Mengerjakan PR,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+402,6,Olahraga,テニス,テニス,tenisu,Tenis,Kata Benda,,,
+403,6,Olahraga,サッカー,サッカー,sakkaa,Sepak bola,Kata Benda,,,
+404,6,Olahraga,バドミントン,バドミントン,badominton,Badminton,Kata Benda,,,
+405,6,Olahraga,バスケットボール,バスケットボール,basukettobooru,Basket,Kata Benda,,,
+406,6,Olahraga,バレーボール,バレーボール,bareebooru,Voli,Kata Benda,,,
+407,6,Kegiatan Budaya,お花見（をします）,おはなみ（をします）,ohanami (o shimasu),Melihat bunga sakura,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+408,6,Keterangan,一緒に,いっしょに,issho ni,Bersama-sama,Kata Keterangan,,,
+409,6,Keterangan,ちょっと,ちょっと,chotto,Sedikit / Sebentar / (menolak dengan halus),Kata Keterangan,,,
+410,6,Keterangan,いつも,いつも,itsumo,Selalu,Kata Keterangan,,,
+411,6,Keterangan,時々,ときどき,tokidoki,Kadang-kadang,Kata Keterangan,,,
+412,6,Keterangan,それから,それから,sorekara,Lalu / Setelah itu / Kemudian,Kata Keterangan,,,
+413,6,Ekspresi,ええ,ええ,ee,Iya (setuju),Ekspresi,,,Untuk menyetujui ajakan
+414,6,Ekspresi,いいですね,いいですね,ii desu ne,Bagus ya,Ekspresi,,,
+415,6,Ekspresi,わかりました,わかりました,wakarimashita,Mengerti (sekarang setelah penjelasan),Ekspresi,,,Bentuk lampau dari わかります
+416,6,Ekspresi,わかります,わかります,wakarimasu,Mengerti (dari awal),Kata Kerja,Godan (I),Jidoushi (Intransitif),
+417,6,Ekspresi,なんですか,なんですか,nan desu ka,Ada apa? / Apa itu?,Kata Tanya,,,
+418,6,Negara,メキシコ,メキシコ,mekishiko,Meksiko,Kata Benda,,,
+419,7,Kata Kerja,切ります,きります,kirimasu,Memotong / Menggunting,Kata Kerja,Godan (I),Tadoushi (Transitif),
+420,7,Kata Kerja,送ります,おくります,okurimasu,Mengirim [kepada~] / Mengantarkan [orang],Kata Kerja,Godan (I),Tadoushi (Transitif),
+421,7,Kata Kerja,あげます,あげます,agemasu,Memberikan [kepada~],Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+422,7,Kata Kerja,貸します,かします,kashimasu,Meminjamkan [kepada~],Kata Kerja,Godan (I),Tadoushi (Transitif),
+423,7,Kata Kerja,教えます,おしえます,oshiemasu,Mengajar / Memberi tahu [kepada~],Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+424,7,Kata Kerja,鍵をかけます,かぎをかけます,kagi wo kakemasu,Mengunci,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+425,7,Kata Kerja,借ります,かります,karimasu,Meminjam [dari~],Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+426,7,Kata Kerja,もらいます,もらいます,moraimasu,Menerima / Mendapatkan [dari~],Kata Kerja,Godan (I),Tadoushi (Transitif),
+427,7,Kata Kerja,習います,ならいます,naraimasu,Belajar [dari~] (skill),Kata Kerja,Godan (I),Tadoushi (Transitif),
+428,7,Alat,箸,はし,hashi,Sumpit,Kata Benda,,,
+429,7,Alat,スプーン,スプーン,supuun,Sendok,Kata Benda,,,
+430,7,Alat,ナイフ,ナイフ,naifu,Pisau,Kata Benda,,,
+431,7,Alat,フォーク,フォーク,fooku,Garpu,Kata Benda,,,
+432,7,Alat,はさみ,はさみ,hasami,Gunting,Kata Benda,,,
+433,7,Alat,パソコン,パソコン,pasokon,Komputer / Laptop,Kata Benda,,,Singkatan dari パーソナルコンピューター
+434,7,Alat,メール,メール,meeru,Email,Kata Benda,,,
+435,7,Budaya,年賀状,ねんがじょう,nengajou,Kartu ucapan tahun baru,Kata Benda,,,
+436,7,Budaya,お年玉,おとしだま,otoshidama,Angpao (tahun baru),Kata Benda,,,
+437,7,Alat,パンチ,パンチ,panchi,Pelubang kertas,Kata Benda,,,
+438,7,Alat,ホッチキス,ホッチキス,hotchikisu,Stapler,Kata Benda,,,Dari nama penemunya
+439,7,Alat,セロテープ,セロテープ,seroteepu,Selotip,Kata Benda,,,
+440,7,Alat,ゴム,ゴム,gomu,Karet,Kata Benda,,,
+441,7,Kata Kerja,消します,けします,keshimasu,Menghapus (Tulisan) / Memadamkan / Mematikan (Lampu/TV),Kata Kerja,Godan (I),Tadoushi (Transitif),
+442,7,Benda,消しゴム,けしゴム,keshigomu,Penghapus karet,Kata Benda,,,
+443,7,Benda Homofon,紙,かみ,kami,Kertas,Kata Benda,,,
+444,7,Benda Homofon,花,はな,hana,Bunga,Kata Benda,,,
+445,7,Benda,シャツ,シャツ,shatsu,Kemeja / Shirt,Kata Benda,,,
+446,7,Benda,プレゼント,プレゼント,purezento,Kado / Hadiah,Kata Benda,,,
+447,7,Benda,荷物,にもつ,nimotsu,Barang bawaan / Luggage,Kata Benda,,,
+448,7,Benda,切符,きっぷ,kippu,Karcis,Kata Benda,,,
+449,7,Benda,チケット,チケット,chiketto,Tiket,Kata Benda,,,
+450,7,Budaya,クリスマス,クリスマス,kurisumasu,Natal,Kata Benda,,,
+451,7,Keluarga (diri),父,ちち,chichi,Ayah (sendiri),Kata Benda,,,Digunakan saat bicara dengan orang luar
+452,7,Keluarga (diri),母,はは,haha,Ibu (sendiri),Kata Benda,,,
+453,7,Keluarga (diri),兄,あに,ani,Kakak laki-laki (sendiri),Kata Benda,,,
+454,7,Keluarga (diri),姉,あね,ane,Kakak perempuan (sendiri),Kata Benda,,,
+455,7,Keluarga (diri),弟,おとうと,otouto,Adik laki-laki (sendiri),Kata Benda,,,
+456,7,Keluarga (diri),妹,いもうと,imouto,Adik perempuan (sendiri),Kata Benda,,,
+457,7,Keluarga (orang lain),お父さん,おとうさん,otousan,Ayah (orang lain) / Panggilan,Kata Benda,,,
+458,7,Keluarga (orang lain),お母さん,おかあさん,okaasan,Ibu (orang lain) / Panggilan,Kata Benda,,,
+459,7,Keluarga (orang lain),お兄さん,おにいさん,oniisan,Kakak laki-laki (orang lain) / Panggilan,Kata Benda,,,
+460,7,Keluarga (orang lain),お姉さん,おねえさん,oneesan,Kakak perempuan (orang lain) / Panggilan,Kata Benda,,,
+461,7,Keluarga (orang lain),弟さん,おとうとさん,otoutosan,Adik laki-laki (orang lain),Kata Benda,,,
+462,7,Keluarga (orang lain),妹さん,いもうとさん,imoutosan,Adik perempuan (orang lain),Kata Benda,,,
+463,7,Ekspresi,もう～ました,もう～ました,mou ~ mashita,Sudah (melakukan sesuatu),Ekspresi,,,
+464,7,Ekspresi,まだ,まだ,mada,Belum [-] / Masih [+],Kata Keterangan,,,Contoh: まだたべません、まだたべています
+465,7,Keterangan Waktu,これから,これから,korekara,Mulai dari sekarang (jangkauan luas),Kata Keterangan,,,
+466,7,Keterangan Waktu,いまから,いまから,imakara,Mulai dari sekarang (jangkauan sempit),Kata Keterangan,,,
+467,7,Ekspresi,すてき（ですね）,すてき（ですね）,suteki (desu ne),Menawan / Indah (ya),Ekspresi,,,
+468,7,Ekspresi,いらっしゃい,いらっしゃい,irasshai,Selamat datang,Ekspresi,,,Informal
+469,7,Ekspresi,どうぞお上がりください,どうぞおあがりください,douzo oagari kudasai,Silakan masuk,Ekspresi,,,Secara harfiah: silakan naik
+470,7,Kata Kerja,上がります,あがります,agarimasu,Naik,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+471,7,Ekspresi,失礼します,しつれいします,shitsurei shimasu,Permisi,Ekspresi,,,Digunakan saat masuk/keluar ruangan atau menyela percakapan
+472,7,Kata Tanya,～はいかがですか,～はいかがですか,~ wa ikaga desu ka,Bagaimana (sopan),Kata Tanya,,,
+473,7,Kata Tanya,～はどうですか,～はどうですか,~ wa dou desu ka,Bagaimana,Kata Tanya,,,
+474,7,Budaya Makan,いただきます,いただきます,itadakimasu,(Sebelum makan) Saya terima dengan hormat,Ekspresi,,,Budaya Jepang
+475,7,Budaya Makan,ごちそうさまでした,ごちそうさまでした,gochisousama deshita,(Setelah makan) Terima kasih makanannya,Ekspresi,,,
+476,7,Negara,スペイン,スペイン,supein,Spanyol,Kata Benda,,,
+477,8,Kata Sifat (NA),ハンサム,ハンサム,hansamu,Tampan / Handsome,Kata Sifat (NA),,,
+478,8,Kata Sifat (NA),綺麗,きれい,kirei,Cantik / Bersih / Rapi,Kata Sifat (NA),,,Juga bisa berarti indah
+479,8,Kata Sifat (NA),静か,しずか,shizuka,Tenang / Sunyi,Kata Sifat (NA),,,
+480,8,Kata Sifat (NA),賑やか,にぎやか,nigiyaka,Ramai,Kata Sifat (NA),,,
+481,8,Kata Sifat (NA),有名,ゆうめい,yuumei,Terkenal,Kata Sifat (NA),,,
+482,8,Kata Sifat (NA),親切,しんせつ,shinsetsu,Baik hati / Ramah,Kata Sifat (NA),,,
+483,8,Kata Sifat (NA),元気,げんき,genki,Sehat / Energik,Kata Sifat (NA),,,
+484,8,Kata Sifat (NA),暇,ひま,hima,Luang / Senggang,Kata Sifat (NA),,,
+485,8,Kata Sifat (NA),便利,べんり,benri,Praktis / Nyaman,Kata Sifat (NA),,,
+486,8,Kata Sifat (NA),不便,ふべん,fuben,Tidak praktis,Kata Sifat (NA),,,
+487,8,Kata Sifat (NA),複雑,ふくざつ,fukuzatsu,Rumit,Kata Sifat (NA),,,"Digunakan untuk hal seperti kabel, masalah"
+488,8,Kata Sifat (NA),素敵,すてき,suteki,Menawan / Indah / Bagus,Kata Sifat (NA),,,
+489,8,Kata Sifat (NA),大きな,おおきな,ookina,Besar (＋kata benda),Kata Sifat (NA),,,Hanya digunakan sebelum kata benda
+490,8,Kata Sifat (NA),小さな,ちいさな,chiisana,Kecil (＋kata benda),Kata Sifat (NA),,,Hanya digunakan sebelum kata benda
+491,8,Kata Sifat (I),大きい,おおきい,ookii,Besar,Kata Sifat (I),,,
+492,8,Kata Sifat (I),小さい,ちいさい,chiisai,Kecil,Kata Sifat (I),,,
+493,8,Kata Sifat (I),新しい,あたらしい,atarashii,Baru,Kata Sifat (I),,,
+494,8,Kata Sifat (I),古い,ふるい,furui,Lama / Tua / Jadul,Kata Sifat (I),,,
+495,8,Kata Sifat (I),いい,いい,ii,Baik / Bagus,Kata Sifat (I),,,"“いい” bentuk umum, “よい” bentuk dasar atau tulisan formal"
+496,8,Kata Sifat (I),悪い,わるい,warui,Buruk / Jelek,Kata Sifat (I),,,
+497,8,Kata Sifat (I),暑い,あつい,atsui,Panas (cuaca),Kata Sifat (I),,,
+498,8,Kata Sifat (I),熱い,あつい,atsui,"Panas (benda, sentuhan)",Kata Sifat (I),,,
+499,8,Kata Sifat (I),寒い,さむい,samui,Dingin (cuaca),Kata Sifat (I),,,
+500,8,Kata Sifat (I),冷たい,つめたい,tsumetai,"Dingin (benda, sentuhan)",Kata Sifat (I),,,
+501,8,Kata Sifat (I),難しい,むずかしい,muzukashii,Sulit,Kata Sifat (I),,,
+502,8,Kata Sifat (I),易しい,やさしい,yasashii,Mudah,Kata Sifat (I),,,"Kanji 易しい digunakan untuk arti ""mudah"""
+503,8,Kata Sifat (I),優しい,やさしい,yasashii,Baik hati,Kata Sifat (I),,,Kanji 優しい digunakan untuk sifat baik hati
+504,8,Kata Sifat (I),高い,たかい,takai,Mahal / Tinggi,Kata Sifat (I),,,
+505,8,Kata Sifat (I),安い,やすい,yasui,Murah,Kata Sifat (I),,,
+506,8,Kata Sifat (I),低い,ひくい,hikui,Rendah,Kata Sifat (I),,,
+507,8,Kata Sifat (I),面白い,おもしろい,omoshiroi,Menarik (hal),Kata Sifat (I),,,
+508,8,Kata Sifat (I),楽しい,たのしい,tanoshii,Menyenangkan (hal),Kata Sifat (I),,,
+509,8,Kata Sifat (I),嬉しい,うれしい,ureshii,Senang (perasaan),Kata Sifat (I),,,
+510,8,Kata Sifat (I),美味しい,おいしい,oishii,Enak,Kata Sifat (I),,,
+511,8,Kata Sifat (I),旨い／上手い,うまい,umai,Enak / Pandai,Kata Sifat (I),,,Ucapan kasual untuk oishii atau jago
+512,8,Kata Sifat (I),不味い,まずい,mazui,Tidak enak / Menjijikkan,Kata Sifat (I),,,
+513,8,Kata Sifat (I),忙しい,いそがしい,isogashii,Sibuk,Kata Sifat (I),,,
+514,8,Warna (K.Benda),白,しろ,shiro,Putih (benda),Kata Benda,,,
+515,8,Warna (K.Benda),黒,くろ,kuro,Hitam (benda),Kata Benda,,,
+516,8,Warna (K.Benda),赤,あか,aka,Merah (benda),Kata Benda,,,
+517,8,Warna (K.Benda),青,あお,ao,Biru (benda) [kadang hijau],Kata Benda,,,
+518,8,Warna (K.Benda),黄色,きいろ,kiiro,Kuning (benda),Kata Benda,,,
+519,8,Warna (K.Benda),茶色,ちゃいろ,chairo,Coklat (benda),Kata Benda,,,
+520,8,Warna (K.Benda),緑,みどり,midori,Hijau (benda) / Tumbuhan Hijau,Kata Benda,,,
+521,8,Warna (K.Benda),紫,むらさき,murasaki,Ungu (benda),Kata Benda,,,
+522,8,Warna (K.Benda),ピンク,ピンク,pinku,Merah muda / Pink (benda),Kata Benda,,,
+523,8,Warna (K.Benda),金色,きんいろ,kin'iro,Warna emas,Kata Benda,,,
+524,8,Warna (K.Benda),灰色／グレイ,はいいろ／グレイ,haiiro / gurei,Abu-abu,Kata Benda,,,
+525,8,Warna (K.Sifat I),白い,しろい,shiroi,Putih (berwarna),Kata Sifat (I),,,
+526,8,Warna (K.Sifat I),黒い,くろい,kuroi,Hitam (berwarna),Kata Sifat (I),,,
+527,8,Warna (K.Sifat I),赤い,あかい,akai,Merah (berwarna),Kata Sifat (I),,,
+528,8,Warna (K.Sifat I),青い,あおい,aoi,Biru (berwarna),Kata Sifat (I),,,
+529,8,Warna (K.Sifat I),黄色い,きいろい,kiiroi,Kuning (berwarna),Kata Sifat (I),,,
+530,8,Benda Alam,桜,さくら,sakura,Bunga sakura,Kata Benda,,,
+531,8,Benda Alam,山,やま,yama,Gunung,Kata Benda,,,
+532,8,Tempat,町,まち,machi,Kota,Kata Benda,,,
+533,8,Tempat,田舎,いなか,inaka,Desa,Kata Benda,,,"Umum, bisa merujuk pada kampung halaman"
+534,8,Tempat,村,むら,mura,Desa / Perkampungan,Kata Benda,,,Lebih spesifik sebagai unit wilayah
+535,8,Benda,食べ物,たべもの,tabemono,Makanan,Kata Benda,,,
+536,8,Benda,飲み物,のみもの,nomimono,Minuman,Kata Benda,,,
+537,8,Tempat Umum,所,ところ,tokoro,Tempat,Kata Benda,,,
+538,8,Tempat Tinggal,寮,りょう,ryou,Asrama,Kata Benda,,,
+539,8,Tempat Makan,レストラン,レストラン,resutoran,Restoran,Kata Benda,,,
+540,8,Konsep Kehidupan,生活,せいかつ,seikatsu,Kehidupan,Kata Benda,,,
+541,8,Frasa,日本生活,にほんせいかつ,nihon seikatsu,Kehidupan di Jepang,Kata Benda,,,
+542,8,Frasa,留学生活,りゅうがくせいかつ,ryuugaku seikatsu,Kehidupan belajar di negara asing,Kata Benda,,,
+543,8,Kegiatan,留学,りゅうがく,ryuugaku,Belajar di luar negeri,Kata Benda,,,
+544,8,Orang,留学生,りゅうがくせい,ryuugakusei,Siswa asing,Kata Benda,,,
+545,8,Pekerjaan,お仕事,おしごと,oshigoto,Pekerjaan,Kata Benda,,,Bentuk sopan dari しごと
+546,8,Kata Kerja,仕事をします,しごとをします,shigoto o shimasu,Melakukan pekerjaan,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+547,8,Kata Tanya,どう,どう,dou,Bagaimana,Kata Tanya,,,
+548,8,Kata Tanya,いかが,いかが,ikaga,Bagaimana (sopan),Kata Tanya,,,
+549,8,Kata Tanya,どんな,どんな,donna,(Benda) yang bagaimana,Kata Tanya,,,
+550,8,Kata Tanya,どんな人,どんなひと,donna hito,Orang yang bagaimana,Kata Tanya,,,
+551,8,Kata Tanya,どんな漢字,どんなかんじ,donna kanji,Kanji yang bagaimana,Kata Tanya,,,
+552,8,Kata Tanya,どんな町,どんなまち,donna machi,Kota yang bagaimana,Kata Tanya,,,
+553,8,Kata Tanya,どんな村,どんなむら,donna mura,Desa yang bagaimana,Kata Tanya,,,
+554,8,Kata Keterangan,とても,とても,totemo,Sangat,Kata Keterangan,,,
+555,8,Kata Keterangan,あまり,あまり,amari,Tidak terlalu (negatif),Kata Keterangan,,,Harus diikuti kalimat negatif
+556,8,Kata Sambung,そして,そして,soshite,Kemudian / Dan (menghubungkan kalimat),Kata Sambung,,,Contoh: わたしはべんきょうしますそして、はたらきます
+557,8,Kata Sambung,～が、～,～が、～,"~ ga, ~",Tetapi ...,Kata Sambung,,,
+558,8,Ekspresi (Ajakan),もう一杯いかがですか,もういっぱいいかがですか,mou ippai ikaga desu ka,"Bagaimana, apakah mau 1 cangkir lagi?",Ekspresi,,,Kalimat sopan untuk menawarkan sesuatu
+559,8,Kata Benda,一杯,いっぱい,ippai,1 gelas / 1 cangkir,Kata Benda,,,Satuan jumlah untuk minuman
+560,8,Ekspresi (Penolakan),結構です,けっこうです,kekkou desu,"Tidak, saya sudah cukup",Ekspresi,,,Menolak dengan sopan
+561,8,Ekspresi,もう夜です（ね）,もうよるです（ね）,mou yoru desu (ne),Sudah malam ya,Ekspresi,,,
+562,8,Ekspresi,ハンサムですね,ハンサムですね,hansamu desu ne,Tampan ya,Ekspresi,,,
+563,8,Ekspresi (Pamit),そろそろ失礼します,そろそろしつれいします,sorosoro shitsurei shimasu,Sebentar lagi saya pamit,Ekspresi,,,Menunjukkan waktu berpamitan sudah dekat
+564,8,Ekspresi (Balasan),こちらこそありがとうございます,こちらこそありがとうございます,kochira koso arigatou gozaimasu,Saya juga berterima kasih,Ekspresi,,,
+565,8,Ekspresi (Ajakan),またいらっしゃってください,またいらっしゃってください,mata irasshatte kudasai,Silakan datang lagi,Ekspresi,,,
+566,8,Kata Keterangan,また,また,mata,(Sampai Jumpa) Lagi,Kata Keterangan,,,またあした、またらいしゅう
+567,8,Ekspresi Permintaan,～ください,～ください,~kudasai,Silakan / Tolong (please),Ekspresi,,,
+568,8,Tempat,上海,シャンハイ,shanhai,Shanghai,Kata Benda,,,Nama kota di Tiongkok
+569,8,Tempat,金閣寺,きんかくじ,kinkakuji,Kuil Kinkaku (berlapis emas),Kata Benda,,,
+570,8,Tempat,銀閣寺,ぎんかくじ,ginkakuji,Kuil Ginkaku (berlapis perak),Kata Benda,,,
+571,8,Tempat Umum,お寺,おてら,otera,Kuil (tanpa nama),Kata Benda,,,Bentuk sopan
+572,8,Akhiran Tempat,～寺,～じ,~ji,Kuil ~,Kata Bantu,,,Digunakan untuk nama kuil seperti きんかくじ
+573,8,Akhiran Tempat,～島,～とう,~tou,Pulau ~,Kata Bantu,,,Contoh: バリとう
+574,8,Tempat,バリ島,バリとう,baritou,Pulau Bali,Kata Benda,,,
+575,8,Tempat,ジャワ島,ジャワとう,jawatou,Pulau Jawa,Kata Benda,,,
+576,8,Tempat,島,しま,shima,Pulau (tanpa nama),Kata Benda,,,
+577,8,Tempat Alam,富士山,ふじさん,fujisan,Gunung Fuji,Kata Benda,,,Gunung tertinggi di Jepang
+578,8,Akhiran Tempat,～山,～さん,~san,Gunung ~,Kata Bantu,,,Contoh: ふじさん
+579,9,Kata Kerja,分かります,わかります,wakarimasu,Mengerti / Paham,Kata Kerja,Godan (I),Jidoushi (Intransitif),Sejak awal sudah paham
+580,9,Kata Kerja,分かりました,わかりました,wakarimashita,Mengerti (setelah dijelaskan),Kata Kerja,Godan (I),Jidoushi (Intransitif),"Awalnya tidak paham, lalu menjadi paham"
+581,9,Kata Kerja,あります,あります,arimasu,Ada / Mempunyai [benda mati & tumbuhan],Kata Kerja,Godan (I),Jidoushi (Intransitif),
+582,9,Kata Kerja,います,います,imasu,Ada / Mempunyai [makhluk hidup],Kata Kerja,Ichidan (II),Jidoushi (Intransitif),こどもがいます＝Ada anak / Memiliki anakにほんにいます＝Ada di Jepang
+583,9,Kata Sifat (NA),好き,すき,suki (na),Suka,Kata Sifat (NA),,,Diikuti dengan objek yang disukai
+584,9,Kata Sifat (NA),嫌い,きらい,kirai (na),Benci,Kata Sifat (NA),,,Lebih umum gunakan bentuk negatif dari suki
+585,9,Kata Sifat (NA),上手,じょうず,jouzu (na),Pandai,Kata Sifat (NA),,,Untuk kemampuan
+586,9,Kata Sifat (NA),下手,へた,heta (na),Tidak pandai,Kata Sifat (NA),,,Umumnya dihindari karena terkesan kasar
+587,9,Kata Sifat (I),上手い,うまい,umai,Pandai / Enak,Kata Sifat (I),,,"Penulisan bisa 美味い / 旨い untuk makanan, 上手い untuk kemampuan"
+588,9,Kata Sifat (I),馬鹿,ばか,baka,Bodoh,Kata Sifat (I),,,"Kasar, hindari penggunaan langsung"
+589,9,Kegiatan,料理,りょうり,ryouri,Masakan,Kata Benda,,,りょうりをします＝memasak
+590,9,Kegiatan,スポーツ,スポーツ,supootsu,Olahraga,Kata Benda,,,スポーツをします＝berolahraga
+591,9,Kegiatan,野球,やきゅう,yakyuu,Baseball,Kata Benda,,,やきゅうをします
+592,9,Kegiatan,ダンス,ダンス,dansu,Dansa,Kata Benda,,,ダンスをします
+593,9,Kegiatan,旅行,りょこう,ryokou,Wisata,Kata Benda,,,りょこうをします
+594,9,Kegiatan,音楽,おんがく,ongaku,Musik,Kata Benda,,,おんがくをききます
+595,9,Kegiatan,歌,うた,uta,Lagu,Kata Benda,,,うたをうたいます
+596,9,Hiburan,クラシック,クラシック,kurashikku,Musik klasik,Kata Benda,,,
+597,9,Hiburan,ジャズ,ジャズ,jazu,Jazz,Kata Benda,,,
+598,9,Hiburan,コンサート,コンサート,konsaato,Konser,Kata Benda,,,
+599,9,Hiburan,カラオケ,カラオケ,karaoke,Karaoke,Kata Benda,,,
+600,9,Hiburan,歌舞伎,かぶき,kabuki,Kabuki (drama klasik Jepang),Kata Benda,,,
+601,9,Seni,絵,え,e,Gambar / Lukisan,Kata Benda,,,
+602,9,Tulisan,字,じ,ji,Huruf,Kata Benda,,,
+603,9,Tulisan,漢字,かんじ,kanji,Huruf kanji,Kata Benda,,,
+604,9,Tulisan,ローマ字,ローマじ,roomaji,Huruf Latin,Kata Benda,,,
+605,9,Tulisan,平仮名,ひらがな,hiragana,Hiragana,Kata Benda,,,
+606,9,Tulisan,片仮名,かたかな,katakana,Katakana,Kata Benda,,,
+607,9,Uang,細かいお金,こまかいおかね,komakai okane,Uang kecil / receh,Kata Benda,,,
+608,9,Kata Sifat (I),細かい,こまかい,komakai,Rinci / Detail,Kata Sifat (I),,,
+609,9,Waktu,時間,じかん,jikan,Waktu / Jam (durasi),Kata Benda,,,
+610,9,Kegiatan,用事,ようじ,youji,Urusan / Keperluan,Kata Benda,,,
+611,9,Kegiatan,約束,やくそく,yakusoku,Janji,Kata Benda,,,やくそくをします
+612,9,Kegiatan,アルバイト,アルバイト,arubaito,Kerja paruh waktu,Kata Benda,,,アルバイトをします
+613,9,Kegiatan,バイト,バイト,baito,Kerja paruh waktu (singkatan),Kata Benda,,,
+614,9,Keluarga (orang lain),ご主人,ごしゅじん,goshujin,Suami (orang lain),Kata Benda,,,
+615,9,Keluarga (orang lain),奥さん,おくさん,okusan,Istri (orang lain),Kata Benda,,,
+616,9,Keluarga (orang lain),お子さん,おこさん,okosan,Anak-anak (orang lain),Kata Benda,,,
+617,9,Keluarga (sendiri),夫・主人,おっと・しゅじん,otto / shujin,Suami (sendiri),Kata Benda,,,
+618,9,Keluarga (sendiri),妻・家内,つま・かない,tsuma / kanai,Istri (sendiri),Kata Benda,,,
+619,9,Keluarga (sendiri),子供,こども,kodomo,Anak-anak (sendiri),Kata Benda,,,
+620,9,Panggilan,貴方,あなた,anata,Anda / Suami (panggilan informal ke pasangan),Kata Ganti,,,
+621,9,Kata Keterangan,よく,よく,yoku,Dengan baik / Sering,Kata Keterangan,,,Contoh: よくたべます／よくべんきょうしてください
+622,9,Kata Keterangan,だいたい,だいたい,daitai,Kira-kira / Sebagian besar,Kata Keterangan,,,
+623,9,Kata Keterangan,たくさん,たくさん,takusan,Banyak (jumlah),Kata Keterangan,,,
+624,9,Kata Keterangan,少し,すこし,sukoshi,Sedikit,Kata Keterangan,,,
+625,9,Kata Keterangan,全然,ぜんぜん,zenzen,Sama sekali (negatif),Kata Keterangan,,,Diikuti kalimat negatif
+626,9,Kata Keterangan,速く／早く,はやく,hayaku,Dengan cepat,Kata Keterangan,,,"速く untuk kecepatan, 早く untuk waktu"
+627,9,Kata Sifat (I),多い,おおい,ooi,Banyak (jumlah),Kata Sifat (I),,,
+628,9,Kata Sifat (I),少ない,すくない,sukunai,Sedikit (jumlah),Kata Sifat (I),,,
+629,9,Kata Sifat (I),速い,はやい,hayai,Cepat (kecepatan),Kata Sifat (I),,,
+630,9,Kata Sifat (I),早い,はやい,hayai,Cepat (waktu),Kata Sifat (I),,,
+631,9,Kata Tanya,どうして,どうして,doushite,Kenapa / Mengapa,Kata Tanya,,,
+632,9,Ekspresi (Permintaan),～てください,～てください,~te kudasai,Tolong (lakukan ...),Ekspresi,,,Bentuk sopan permintaan
+633,9,Kata Kerja,貸してください,かしてください,kashite kudasai,Tolong pinjamkan (KEPADA saya),Kata Kerja,Godan (I),Tadoushi (Transitif),Bentuk te dari かします
+634,9,Kata Kerja,借りてください,かりてください,karite kudasai,Tolong pinjam (DARI ...),Kata Kerja,Ichidan (II),Tadoushi (Transitif),Bentuk te dari かります
+635,9,Ekspresi,いいですよ,いいですよ,ii desu yo,Bagus loh / kok,Ekspresi,,,
+636,9,Ekspresi,残念ですが...,ざんねんですが...,zannen desu ga...,"Sayang sekali, tapi...",Ekspresi,,,Ungkapan menyayangkan sesuatu / menolak dengan halus
+637,9,Ekspresi,ああ,ああ,aa,Ah / Oh,Ekspresi,,,Ungkapan tersadar atau tercerahkan
+638,9,Ekspresi (Ajakan),一緒にいかがですか,いっしょにいかがですか,issho ni ikaga desu ka,Bagaimana kalau bersama-sama?,Ekspresi,,,Digunakan untuk mengajak secara sopan
+639,9,Ekspresi (Penolakan Halus),～はちょっと...,～はちょっと...,~ wa chotto...,(Itu) agak... (menolak halus),Ekspresi,,,Ungkapan menolak secara sopan
+640,9,Ekspresi (Membujuk),だめですか？,だめですか？,dame desu ka?,Tidak bisa ya?,Ekspresi,,,Digunakan untuk membujuk
+641,9,Ekspresi (Penolakan Sopan),また今度お願いします,またこんどおねがいします,mata kondo onegaishimasu,Mohon lain kali lagi,Ekspresi,,,Menolak ajakan sambil membuka kemungkinan di waktu lain
+642,10,Orang,男,おとこ,otoko,Pria / Laki-laki,Kata Benda,,,
+643,10,Orang,女,おんな,onna,Perempuan / Wanita,Kata Benda,,,
+644,10,Frasa,～の人,～のひと,~ no hito,Orang ...,Frasa,,,Contoh: 日本の人＝Orang Jepang
+645,10,Frasa,～の子,～のこ,~ no ko,Anak ...,Frasa,,,Contoh: 男の子＝Anak laki-laki
+646,10,Konsep,性別,せいべつ,seibetsu,Jenis kelamin,Kata Benda,,,
+647,10,Jenis Kelamin,男性,だんせい,dansei,Laki-laki,Kata Benda,,,Lebih formal dari 男
+648,10,Jenis Kelamin,女性,じょせい,josei,Perempuan,Kata Benda,,,Lebih formal dari 女
+649,10,Hewan,犬,いぬ,inu,Anjing,Kata Benda,,,
+650,10,Hewan,猫,ねこ,neko,Kucing,Kata Benda,,,
+651,10,Hewan,パンダ,パンダ,panda,Panda,Kata Benda,,,
+652,10,Hewan,象,ぞう,zou,Gajah,Kata Benda,,,
+653,10,Hewan,豚,ぶた,buta,Babi,Kata Benda,,,
+654,10,Hewan,牛,うし,ushi,Sapi,Kata Benda,,,
+655,10,Hewan,鶏,にわとり,niwatori,Ayam,Kata Benda,,,
+656,10,Hewan,鳥,とり,tori,Burung,Kata Benda,,,
+657,10,Hewan,兎,うさぎ,usagi,Kelinci,Kata Benda,,,
+658,10,Hewan,鼠,ねずみ,nezumi,Tikus,Kata Benda,,,
+659,10,Hewan,羊,ひつじ,hitsuji,Domba,Kata Benda,,,
+660,10,Hewan,山羊,やぎ,yagi,Kambing,Kata Benda,,,
+661,10,Hewan,猿,さる,saru,Monyet,Kata Benda,,,
+662,10,Hewan,狐,きつね,kitsune,Rubah,Kata Benda,,,
+663,10,Hewan,鹿,しか,shika,Rusa,Kata Benda,,,
+664,10,Hewan,虎,とら,tora,Harimau,Kata Benda,,,
+665,10,Hewan,馬,うま,uma,Kuda,Kata Benda,,,
+666,10,Hewan,蛇,へび,hebi,Ular,Kata Benda,,,
+667,10,Hewan,熊,くま,kuma,Beruang,Kata Benda,,,
+668,10,Hewan Laut,海老,えび,ebi,Udang,Kata Benda,,,
+669,10,Hewan Laut,鮫,さめ,same,Hiu,Kata Benda,,,
+670,10,Hewan Laut,鮭,しゃけ,shake,Salmon,Kata Benda,,,
+671,10,Hewan Laut,蟹,かに,kani,Kepiting,Kata Benda,,,
+672,10,Hewan / Serangga,虫,むし,mushi,Serangga,Kata Benda,,,
+673,10,Serangga,蚊,か,ka,Nyamuk,Kata Benda,,,
+674,10,Makanan,豚肉,ぶたにく,butaniku,Daging babi,Kata Benda,,,豚・ぶた＝Hewan babi
+675,10,Makanan,牛肉,ぎゅうにく,gyuuniku,Daging sapi,Kata Benda,,,牛・うし＝Hewan sapi
+676,10,Makanan,鶏肉,とりにく,toriniku,Daging ayam,Kata Benda,,,鶏・にわとり＝Hewan ayam
+677,10,Alam,木,き,ki,Pohon,Kata Benda,,,
+678,10,Alam,梅の木,うめのき,ume no ki,Pohon buah plum,Kata Benda,,,
+679,10,Alam,桜の木,さくらのき,sakura no ki,Pohon sakura,Kata Benda,,,
+680,10,Benda,物,もの,mono,Barang / Benda,Kata Benda,,,
+681,10,Benda,者,もの,mono,Orang,Kata Benda,,,Biasanya sebagai akhiran formal (e.g. 勉強者)
+682,10,Benda Elektronik,電池,でんち,denchi,Baterai,Kata Benda,,,
+683,10,Benda,箱,はこ,hako,Kotak,Kata Benda,,,
+684,10,Benda,ゴミ箱,ごみばこ,gomibako,Tempat sampah,Kata Benda,,,
+685,10,Benda,スイッチ,スイッチ,suicchi,Sakelar / Switch,Kata Benda,,,
+686,10,Elektronik,冷蔵庫,れいぞうこ,reizouko,Kulkas,Kata Benda,,,
+687,10,Benda,ベッド,ベッド,beddo,Tempat tidur,Kata Benda,,,
+688,10,Benda,棚,たな,tana,Rak / Lemari,Kata Benda,,,
+689,10,Benda,本棚,ほんだな,hondana,Rak buku,Kata Benda,,,
+690,10,Benda,ドア,ドア,doa,Pintu,Kata Benda,,,
+691,10,Benda,窓,まど,mado,Jendela,Kata Benda,,,
+692,10,Tempat,窓口,まどぐち,madoguchi,Loket / Pusat informasi,Kata Benda,,,
+693,10,Tempat,ポスト,ポスト,posuto,Kotak surat,Kata Benda,,,
+694,10,Bangunan,ビル,ビル,biru,Gedung,Kata Benda,,,
+695,10,Tempat,コンビニ,コンビニ,konbini,Mini market,Kata Benda,,,Singkatan dari コンビニエンスストア
+696,10,Tempat,喫茶店,きっさてん,kissaten,Kedai teh / Kafe tradisional,Kata Benda,,,
+697,10,Tempat,カフェ,カフェ,kafe,Kafe (gaya modern),Kata Benda,,,
+698,10,Tempat Usaha,～屋,～や,~ya,Toko ...,Kata Bantu,,,"Contoh: ラーメンや, すしや"
+699,10,Contoh Toko,ラーメン屋,ラーメンや,raamenya,Toko ramen,Kata Benda,,,
+700,10,Contoh Toko,寿司屋,すしや,sushiya,Toko sushi,Kata Benda,,,
+701,10,Tempat Kendaraan,乗り場,のりば,noriba,Tempat naik kendaraan,Kata Benda,,,
+702,10,Contoh Tempat,タクシー乗り場,タクシーのりば,takushii noriba,Tempat naik taksi,Kata Benda,,,
+703,10,Tempat,場所,ばしょ,basho,Tempat,Kata Benda,,,
+704,10,Tempat,バス停,バスてい,basutei,Halte bus,Kata Benda,,,
+705,10,Wilayah,都道府県,とどうふけん,todoufuken,47 Prefektur (secara umum),Kata Benda,,,
+706,10,Wilayah,県,けん,ken,Prefektur biasa (43),Kata Benda,,,Contoh: 静岡県（しずおかけん）
+707,10,Wilayah,府,ふ,fu,Prefektur kota (2),Kata Benda,,,京都府（きょうとふ）、大阪府（おおさかふ）
+708,10,Wilayah,道,どう,dou,Prefektur regional (1),Kata Benda,,,北海道（ほっかいどう）
+709,10,Wilayah,都,と,to,Prefektur metropolitan (1),Kata Benda,,,東京都（とうきょうと）
+710,10,Wilayah,〜区,〜く,~ku,Distrik (dalam kota besar),Kata Benda,,,Contoh: 新宿区（しんじゅくく）
+711,10,Wilayah,〜市,〜し,~shi,Kota,Kata Benda,,,
+712,10,Administrasi,在留カード,ざいりゅうカード,zairyuu kaado,KTP Jepang (Residence card),Kata Benda,,,
+713,10,Administrasi,市役所,しやくしょ,shiyakusho,Balai kota,Kata Benda,,,
+714,10,Administrasi,印鑑,いんかん,inkan,Stempel / Cap,Kata Benda,,,Digunakan untuk dokumen resmi
+715,10,Bank,ゆうちょう銀行,ゆうちょうぎんこう,yuuchou ginkou,Bank pos Jepang,Kata Benda,,,
+716,10,Lokasi,上,うえ,ue,Atas,Kata Benda,,,
+717,10,Lokasi,下,した,shita,Bawah,Kata Benda,,,
+718,10,Lokasi,前,まえ,mae,Depan / Sebelumnya (waktu),Kata Benda,,,
+719,10,Lokasi,後ろ,うしろ,ushiro,Belakang,Kata Benda,,,
+720,10,Lokasi,右,みぎ,migi,Kanan,Kata Benda,,,
+721,10,Lokasi,左,ひだり,hidari,Kiri,Kata Benda,,,
+722,10,Lokasi,中,なか,naka,Dalam,Kata Benda,,,
+723,10,Lokasi,外,そと,soto,Luar,Kata Benda,,,
+724,10,Lokasi,隣,となり,tonari,Sebelah (berdampingan),Kata Benda,,,
+725,10,Lokasi,横,よこ,yoko,Sebelah (horizontal),Kata Benda,,,
+726,10,Lokasi,傍,そば,soba,Sebelah / Dekat,Kata Benda,,,
+727,10,Lokasi,近く,ちかく,chikaku,Di dekat ...,Kata Benda,,,
+728,10,Lokasi,間,あいだ,aida,Antara (dua objek/lokasi),Kata Benda,,,
+729,10,Lokasi,真ん中,まんなか,mannaka,Di tengah-tengah,Kata Benda,,,
+730,10,Lokasi,周り,まわり,mawari,Sekitar,Kata Benda,,,
+731,10,Penghubung (daftar),～や～など,～や～など,~ya ~nado,Dan ... dll,Partikel,,,Digunakan untuk menyebut beberapa contoh
+732,10,Penghubung (dan),～と,～と,~to,Dan,Partikel,,,
+733,10,Ekspresi,どうもすみません,どうもすみません,doumo sumimasen,Maaf sudah merepotkan / Terima kasih banyak,Ekspresi,,,
+734,10,Makanan,ナンプラー,ナンプラー,nanpuraa,Kecap ikan (Nampla),Kata Benda,,,Kata serapan dari Thailand
+735,10,Tempat / Penjualan,コーナー,コーナー,koonaa,Sudut / bagian (penjualan),Kata Benda,,,Contoh: くだものコーナー（bagian buah）
+736,10,Ekspresi / Urutan,一番,いちばん,ichiban,Yang pertama / No.1 / Paling,Kata Benda,,,Digunakan untuk menyatakan superlatif
+737,11,Kata Kerja,登ります,のぼります,noborimasu,Menanjak / Mendaki,Kata Kerja,Godan (I),Jidoushi (Intransitif),やまにのぼります＝Mendaki gunung
+738,11,Kata Kerja,乗ります,のります,norimasu,Naik,Kata Kerja,Godan (I),Jidoushi (Intransitif),じてんしゃにのります＝Naik sepedaでんしゃにのります＝Naik kereta
+739,11,Kata Kerja,入ります,はいります,hairimasu,Masuk,Kata Kerja,Godan (I),Jidoushi (Intransitif),みせにはいります＝Masuk toko
+740,11,Kata Kerja,入学します,にゅうがくします,nyuugaku shimasu,Masuk sekolah/universitas,Kata Kerja,Irregular (III),Jidoushi (Intransitif),だいがくににゅうがくします＝Masuk universitas
+741,11,Kata Kerja,出ます,でます,demasu,"Keluar [dari], Bergabung [ke]  {Acara}",Kata Kerja,Ichidan (II),Jidoushi (Intransitif),しあいにでます＝Ikut pertandinganみせをでます＝Keluar tokoしあいをでます＝Keluar dari pertandingan
+742,11,Kata Kerja,降ります,おります/ふります,orimasu / furimasu,Turun [Kendaraan] / [Langit],Kata Kerja,Ichidan (II),Jidoushi (Intransitif),じてんしゃをおります＝Turun sepedaでんしゃをおります＝Turun kereta 「あめ・ゆき」がふります = Hujan/Salju Turun
+743,11,Kata Kerja,卒業します,そつぎょうします,sotsugyou shimasu,Lulus,Kata Kerja,Irregular (III),Jidoushi (Intransitif),だいがくをそつぎょうします＝Lulus universitas
+744,11,Kata Kerja,かかります,かかります,kakarimasu,Memerlukan / Memakan,Kata Kerja,Godan (I),Jidoushi (Intransitif),おかねがかかります＝Memerlukan uangじかんがかかります＝Memakan waktu
+745,11,Kata Kerja,サボります,サボります,saborimasu,Bolos,Kata Kerja,Godan (I),Tadoushi (Transitif),がっこうをさぼります＝Bolos sekolah
+746,11,Kata Kerja,取ります,とります,torimasu,Mengambil,Kata Kerja,Godan (I),Tadoushi (Transitif),やすみをとります＝Mengambil cutiひるやすみをとります＝Mengambil istirahat siang
+747,11,Kata Bantu Bilangan,〜つ,〜つ,hitotsu,Buah (benda umum),Kata Bantu,,,
+748,11,Kata Bantu Bilangan,～人,～にん,~nin,Orang,Kata Bantu,,,ひとり＝1 orang、ふたり＝2 orang、さんにん＝3 orang … なんにん＝Berapa orang?
+749,11,Kata Bantu Bilangan,～台,～だい,~dai,Unit (benda besar/mesin),Kata Bantu,,,"Mobil, lemari es, mesin cuci dll."
+750,11,Kata Bantu Bilangan,～枚,～まい,~mai,Lembar (benda tipis),Kata Bantu,,,"Kertas, amplop, baju dll."
+751,11,Kata Bantu Bilangan,～回,～かい,~kai,Kali,Kata Bantu,,,
+752,11,Kata Bantu Bilangan,～階,～がい,~gai,Lantai,Kata Bantu,,,
+753,11,Kata Bantu Bilangan,～個,～こ,~ko,Buah (benda kecil),Kata Bantu,,,"Penghapus, bola kecil, permen, dll."
+754,11,Kosakata Umum,りんご,りんご,ringo,Apel,Kata Benda,,,
+755,11,Kosakata Umum,みかん,みかん,mikan,Jeruk,Kata Benda,,,
+756,11,Makanan,サンドイッチ,サンドイッチ,sandoicchi,Sandwich,Kata Benda,,,
+757,11,Makanan,カレーライス,カレーライス,karee raisu,Nasi kare,Kata Benda,,,
+758,11,Makanan Penutup,アイスクリーム,アイスクリーム,aisukuriimu,Es krim,Kata Benda,,,
+759,11,Makanan Penutup,ソフトクリーム,ソフトクリーム,sofuto kuriimu,Es krim lembut,Kata Benda,,,
+760,11,Alat Tulis,切手,きって,kitte,Perangko,Kata Benda,,,
+761,11,Alat Tulis,はがき,はがき,hagaki,Kartu pos,Kata Benda,,,
+762,11,Alat Tulis,封筒,ふうとう,fuutou,Amplop,Kata Benda,,,
+763,11,Keluarga Sendiri,両親,りょうしん,ryoushin,Orang tua,Kata Benda,,,ごりょうしん＝bentuk sopan untuk orang lain
+764,11,Keluarga Sendiri,親,おや,oya,Orang tua (umum),Kata Benda,,,
+765,11,Keluarga Sendiri,兄弟,きょうだい,kyoudai,Saudara kandung (umum),Kata Benda,,,
+766,11,Keluarga Sendiri,姉妹,しまい,shimai,Saudari (spesifik perempuan),Kata Benda,,,
+767,11,Keluarga Orang Lain,ご兄弟,ごきょうだい,gokyoudai,Saudara kandung (orang lain),Kata Benda,,,
+768,11,Keluarga Orang Lain,ご姉妹,ごしまい,goshimai,Saudari (orang lain),Kata Benda,,,
+769,11,Geografi,外国,がいこく,gaikoku,Luar negeri,Kata Benda,,,
+770,11,Geografi,国,くに,kuni,Negara / Negeri,Kata Benda,,,
+771,11,Pendidikan,授業,じゅぎょう,jugyou,Pelajaran / kelas (aktivitas belajar),Kata Benda,,,
+772,11,Pendidikan,クラス,クラス,kurasu,Kelas (kelas secara umum),Kata Benda,,,
+773,11,Waktu (durasi),～時間,～じかん,~jikan,Durasi jam,Kata Bantu,,,
+774,11,Waktu (durasi),～週間,～しゅうかん,~shuukan,Durasi minggu,Kata Bantu,,,
+775,11,Waktu (durasi),～か月,～かげつ,~kagetsu,Durasi bulan,Kata Bantu,,,
+776,11,Waktu (durasi),～年間,～ねんかん,~nenkan,Durasi tahun,Kata Bantu,,,
+777,11,Tanya (durasi),どのくらい,どのくらい／どのぐらい,dono kurai,Berapa lama?,Kata Tanya,,,
+778,11,Jumlah Total,全部で,ぜんぶで,zenbu de,Semuanya / total,Kata Keterangan,,,
+779,11,Jumlah,みんな,みんな,minna,Semua,Kata Ganti,,,Untuk orang / kelompok
+780,11,Partikel,～だけ,～だけ,~dake,Hanya / Cuma {Kalimat Positif},Partikel,,,Digunakan untuk membatasi jumlah atau pilihan
+781,11,Ekspresi,いいお天気ですね,いいおてんきですね,ii otenki desu ne,Cuacanya bagus ya,Ekspresi,,,Ungkapan saat menyapa di hari cerah
+782,11,Ekspresi / Tanya,お出かけですか,おでかけですか,odekake desu ka,Apakah mau keluar (rumah)?,Ekspresi,,,Digunakan untuk menyapa saat melihat orang hendak pergi
+783,11,Ekspresi,ちょっと〜まで,ちょっと〜まで,chotto ~ made,Sampai (ke) ~ sebentar,Ekspresi,,,Digunakan untuk menjelaskan tujuan keluar sementara
+784,11,Ekspresi,いってらっしゃい,いってらっしゃい,itterasshai,Silakan pergi / Hati-hati di jalan,Ekspresi,,,Diucapkan kepada orang yang hendak pergi
+785,11,Ekspresi,いってきます,いってきます,ittekimasu,Saya pergi & akan kembali (berangkat),Ekspresi,,,Diucapkan oleh orang yang hendak pergi dari rumah
+786,11,Jasa Kirim,船便,ふなびん,funabin,Pos Laut,Kata Benda,,,Jenis pengiriman menggunakan jalur laut
+787,11,Jasa Kirim,航空便（エアメール）,こうくうびん（エアメール）,koukuubin (ea meeru),Pos Udara / Air Mail,Kata Benda,,,Jenis pengiriman melalui udara
+788,11,Ekspresi Permintaan,お願いします,おねがいします,onegaishimasu,Tolong / Saya mohon,Ekspresi,,,Ungkapan permintaan sopan
+789,11,Ekspresi Permintaan,ください,ください,kudasai,Tolong (beri saya ...),Ekspresi,,,Digunakan saat memesan/meminta barang secara langsung
+790,11,Negara,オーストラリア,オーストラリア,oosutoraria,Australia,Kata Benda,,,
+791,11,Negara,オーストリア,オーストリア,oosutoria,Austria,Kata Benda,,,
+792,12,Kata Sifat (NA),簡単,かんたん,kantan,Mudah / Gampang,Kata Sifat (NA),,,
+793,12,Kata Sifat (I),近い,ちかい,chikai,Dekat,Kata Sifat (I),,,ちかくに＝Di dekat
+794,12,Kata Sifat (I),遠い,とおい,tooi,Jauh,Kata Sifat (I),,,
+795,12,Kata Sifat (I),遅い,おそい,osoi,Lambat,Kata Sifat (I),,,
+796,12,Kata Sifat (I),暖かい,あたたかい,atatakai,Hangat (suhu cuaca),Kata Sifat (I),,,
+797,12,Kata Sifat (I),温かい,あたたかい,atatakai,Hangat (benda/sentuhan),Kata Sifat (I),,,
+798,12,Kata Sifat (I),涼しい,すずしい,suzushii,Sejuk,Kata Sifat (I),,,
+799,12,Kata Sifat (I),甘い,あまい,amai,Manis,Kata Sifat (I),,,さとう＝Gula
+800,12,Kata Sifat (I),辛い,からい,karai,Pedas,Kata Sifat (I),,,とうがらし＝Cabai
+801,12,Kata Sifat (I),塩辛い,しおからい,shiokarai,Asin,Kata Sifat (I),,,しお＝Garam
+802,12,Kata Sifat (I),苦い,にがい,nigai,Pahit,Kata Sifat (I),,,ごーや＝Pare／くすり＝Obat
+803,12,Kata Sifat (I),酸っぱい,すっぱい,suppai,Asam / Kecut,Kata Sifat (I),,,す＝Cuka
+804,12,Kosakata (Rasa),旨味,うまみ,umami,Umami,Kata Benda,,,味の素＝Ajinomoto
+805,12,Kata Sifat (I),重い,おもい,omoi,Berat,Kata Sifat (I),,,
+806,12,Kata Sifat (I),重たい,おもたい,omotai,Berat (penekanan kesan),Kata Sifat (I),,,
+807,12,Kata Sifat (I),軽い,かるい,karui,Ringan,Kata Sifat (I),,,
+808,12,Musim,季節,きせつ,kisetsu,Musim,Kata Benda,,,Jepang: 春、夏、秋、冬
+809,12,Musim,春,はる,haru,Musim semi,Kata Benda,,,3月〜5月／Bunga Sakura
+810,12,Musim,夏,なつ,natsu,Musim panas,Kata Benda,,,6月〜8月／Festival／Liburan Musim Panas
+811,12,Musim,秋,あき,aki,Musim gugur,Kata Benda,,,9月〜11月／紅葉
+812,12,Musim,冬,ふゆ,fuyu,Musim dingin,Kata Benda,,,12月〜2月／Salju／雪祭り
+813,12,Musim,梅雨,つゆ,tsuyu,Musim hujan / pancaroba,Kata Benda,,,
+814,12,Musim,乾季,かんき,kanki,Musim kemarau (Indonesia),Kata Benda,,,5月〜10月
+815,12,Musim,雨季,うき,uki,Musim hujan (Indonesia),Kata Benda,,,11月〜4月
+816,12,Iklim,気候,きこう,kikou,Iklim,Kata Benda,,,
+817,12,Cuaca,天気,てんき,tenki,Cuaca,Kata Benda,,,
+818,12,Cuaca,雨,あめ,ame,Hujan,Kata Benda,,,
+819,12,Cuaca,飴,あめ,ame,Permen,Kata Benda,,,Homonim dengan 雨
+820,12,Cuaca,雪,ゆき,yuki,Salju,Kata Benda,,,
+821,12,Cuaca,雲,くも,kumo,Awan,Kata Benda,,,
+822,12,Cuaca,曇り,くもり,kumori,Mendung,Kata Benda,,,
+823,12,Cuaca,雷,かみなり,kaminari,Petir,Kata Benda,,,
+824,12,Cuaca,風,かぜ,kaze,Angin,Kata Benda,,,
+825,12,Kesehatan,風邪,かぜ,kaze,Masuk angin / Flu,Kata Benda,,,Homonim dengan angin
+826,12,Cuaca,台風,たいふう,taifuu,Typhoon / Badai,Kata Benda,,,
+827,12,Tempat,ホテル,ホテル,hoteru,Hotel,Kata Benda,,,
+828,12,Tempat,空港,くうこう,kuukou,Bandara / Pelabuhan udara,Kata Benda,,,
+829,12,Alam,空,そら,sora,Langit / Udara,Kata Benda,,,
+830,12,Tempat,港,みなと,minato,Pelabuhan,Kata Benda,,,
+831,12,Alam,海,うみ,umi,Laut,Kata Benda,,,
+832,12,Dunia,世界,せかい,sekai,Dunia,Kata Benda,,,
+833,12,Acara,パーティー,パーティー,paatii,Pesta,Kata Benda,,,パーティーをします＝Berpesta
+834,12,Acara,お祭り,おまつり,omatsuri,Festival / Perayaan,Kata Benda,,,
+835,12,Makanan,すき焼き,すきやき,sukiyaki,Sukiyaki,Kata Benda,,,
+836,12,Makanan,刺身,さしみ,sashimi,Sashimi,Kata Benda,,,
+837,12,Makanan,お寿司,おすし,osushi,Sushi,Kata Benda,,,
+838,12,Makanan,握り寿司,にぎりずし,nigirizushi,Sushi kepal,Kata Benda,,,
+839,12,Makanan,巻き寿司,まきずし,makizushi,Sushi gulung,Kata Benda,,,
+840,12,Makanan,天ぷら,てんぷら,tenpura,Tempura,Kata Benda,,,
+841,12,Makanan,えび天ぷら,えびてんぷら,ebi tenpura,Tempura udang,Kata Benda,,,
+842,12,Makanan,馬刺し,ばさし,basashi,Sashimi daging kuda,Kata Benda,,,馬・うま＝Hewan kuda
+843,12,Makanan,レモン,レモン,remon,Lemon,Kata Benda,,,
+844,12,Budaya,生け花,いけばな,ikebana,Seni merangkai bunga,Kata Benda,,,いけばなをします＝Merangkai bunga
+845,12,Alam,紅葉（現象）,こうよう,kouyou,Fenomena perubahan warna daun,Kata Benda,,,
+846,12,Tumbuhan,紅葉,もみじ,momiji,Daun maple,Kata Benda,,,
+847,12,Kata Tanya,どれ,どれ,dore,Yang mana (> 2),Kata Tanya,,,Digunakan tanpa menyebutkan kata benda
+848,12,Kata Tanya,どちら,どちら,dochira,Yang mana (dari 2),Kata Tanya,,,
+849,12,Kata Tanya,どれも,どれも,doremo,Yang mana pun (> 2),Kata Tanya,,,
+850,12,Kata Tanya,どちらも,どちらも,dochiramo,Yang mana pun (2),Kata Tanya,,,
+851,12,Keterangan,ずっと,ずっと,zutto,Selamanya / Jauh lebih / Sangat,Kata Keterangan,,,
+852,12,Waktu,初めて,はじめて,hajimete,Pertama kali,Kata Keterangan,,,
+853,12,Salam,ただいま,ただいま,tadaima,Saya pulang (Ungkapan),Ekspresi,,,
+854,12,Salam,おかえりなさい,おかえりなさい,okaerinasai,Selamat datang pulang,Ekspresi,,,
+855,12,Ekspresi,すごい,すごい,sugoi,Luar biasa / Keren (hiperbolis),Kata Sifat (I),,,
+856,12,Kata Kerja,疲れます,つかれます,tsukaremasu,Lelah,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),つかれました＝Sudah/sedang lelah
+857,12,Negara / Kota,香港,ホンコン,honkon,Hongkong,Kata Benda,,,
+858,12,Negara / Kota,シンガポール,シンガポール,shingapooru,Singapura,Kata Benda,,,
+859,13,Kata Kerja,遊びます,あそびます,asobimasu,Bermain,Kata Kerja,Godan (I),Jidoushi (Intransitif),にわであそびます＝Bermain di pekarangan
+860,13,Kata Kerja,泳ぎます,およぎます,oyogimasu,Berenang,Kata Kerja,Godan (I),Jidoushi (Intransitif),プールでおよぎます＝Berenang di kolam renang
+861,13,Kata Kerja,むかえます,むかえます,mukaemasu,Menjemput,Kata Kerja,Ichidan (II),Tadoushi (Transitif),ともだちをむかえます＝Menjemput teman
+862,13,Kata Kerja,結婚します,けっこんします,kekkon shimasu,Menikah,Kata Kerja,Irregular (III),Jidoushi (Intransitif),Melakukan pernikahan
+863,13,Kata Kerja,買い物します,かいものします,kaimono shimasu,Berbelanja,Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+864,13,Kata Kerja,食事します,しょくじします,shokuji shimasu,Menyantap / Makan,Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+865,13,Kata Kerja,散歩します,さんぽします,sanpo shimasu,Berjalan-jalan,Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+866,13,Kata Kerja,歩きます,あるきます,arukimasu,Berjalan,Kata Kerja,Godan (I),Jidoushi (Intransitif),あるいていきます＝Pergi dengan berjalan kaki
+867,13,Kata Kerja,飛びます,とびます,tobimasu,Terbang,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+868,13,Kata Kerja,走ります,はしります,hashirimasu,Berlari,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+869,13,Kata Kerja,渡ります,わたります,watarimasu,Menyeberang,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+870,13,Kata Sifat (NA),大変,たいへん,taihen,Berat / Susah,Kata Sifat (NA),,,たいへんですね＝Berat ya (ungkapan)
+871,13,Kata Sifat (I),欲しい,ほしい,hoshii,Ingin / Mau,Kata Sifat (I),,,こいびとがほしい＝Saya ingin pacarほしいのみもの＝Minuman yang diinginkan
+872,13,Kata Sifat (I),広い,ひろい,hiroi,Luas,Kata Sifat (I),,,
+873,13,Kata Sifat (I),狭い,せまい,semai,Sempit,Kata Sifat (I),,,
+874,13,Tempat,プール,プール,puuru,Kolam renang,Kata Benda,,,
+875,13,Tempat Alam,川,かわ,kawa,Sungai,Kata Benda,,,
+876,13,Kesenian,美術,びじゅつ,bijutsu,Seni,Kata Benda,,,
+877,13,Aktivitas,釣り,つり,tsuri,Pancing,Kata Benda,,,つりをします＝Kegiatan memancing
+878,13,Kegiatan,釣りします,つりします,tsuri shimasu,Memancing,Kata Kerja,Irregular (III),Jidoushi (Intransitif),つり＝Pancing
+879,13,Kegiatan,スキーします,スキーします,sukii shimasu,Bermain ski,Kata Kerja,Irregular (III),Jidoushi (Intransitif),スキー＝Ski
+880,13,Waktu,週末,しゅうまつ,shuumatsu,Akhir pekan (weekend),Kata Benda,,,Sabtu & Minggu
+881,13,Waktu,平日,へいじつ,heijitsu,Hari kerja (weekdays),Kata Benda,,,Senin–Jumat
+882,13,Waktu,花金,はなきん,hanakin,Jumat sore (TGIF),Kata Benda,,,
+883,13,Waktu,お正月,おしょうがつ,oshougatsu,Tahun Baru,Kata Benda,,,
+884,13,Keterangan,ごろ,ごろ,goro,Sekitar (titik waktu),Kata Keterangan,,,
+885,13,Keterangan,ぐらい／くらい,ぐらい／くらい,gurai / kurai,Kira-kira (durasi waktu),Kata Keterangan,,,
+886,13,Kata Tanya,～か,～か,~ka,Partikel penanda pertanyaan/ketidakpastian,Partikel,,,なにか＝Sesuatuだれか＝Seseorangどこか＝Suatu tempatいつか＝Suatu saat
+887,13,Kata Benda,何か,なにか,nanika,Sesuatu (Suatu hal),Kata Benda,,,Dari kata tanya なに＋か
+888,13,Kata Benda,誰か,だれか,dareka,Seseorang (Suatu orang),Kata Benda,,,Bisa juga: どなたか（sopan）
+889,13,Kata Benda,どこか,どこか,dokoka,Suatu tempat,Kata Benda,,,Tempat yang tidak diketahui secara pasti
+890,13,Kata Benda,いつか,いつか,itsuka,Suatu saat,Kata Benda,,,Waktu yang tidak pasti / belum ditentukan
+891,13,Kata Benda,どうしてか,どうしてか,doushiteka,Entah kenapa (Suatu alasan),Kata Benda,,,Menyatakan alasan yang tidak diketahui secara spesifik
+892,13,Kata Kerja,渇きます,かわきます,kawakimasu,Kering,Kata Kerja,Godan (I),Jidoushi (Intransitif),のどがかわきます＝Haus (Tenggorokan kering)
+893,13,Kata Ekspresi,ペコペコ,ペコペコ,pekopeko,Lapar (kasual),Ekspresi,,,Ungkapan informal
+894,13,Kata Ekspresi,腹減った,はらへった,hara hetta,Lapar (kasual),Ekspresi,,,"Kasual, dari 腹（はら）＝Perut + 減った＝Menurun"
+895,13,Ekspresi,そうしましょう,そうしましょう,sou shimashou,Ayo lakukan itu,Ekspresi,,,Respons menyetujui ajakan
+896,13,Ekspresi / Tanya,ご注文は？,ごちゅうもんは？,gochuumon wa?,Pesanan Anda? / Mau pesan apa?,Ekspresi,,,
+897,13,Kata Benda,注文,ちゅうもん,chuumon,Pesanan,Kata Benda,,,
+898,13,Makanan,定食,ていしょく,teishoku,Menu paket / Set menu,Kata Benda,,,
+899,13,Makanan,単品,たんぴん,tanpin,A la carte,Kata Benda,,,Penulisan kanji umum: 単品
+900,13,Makanan,丼,どんぶり,donburi,Mangkok (nasi dengan topping),Kata Benda,,,
+901,13,Makanan,牛丼,ぎゅうどん,gyuudon,Donburi daging sapi,Kata Benda,,,
+902,13,Makanan,豚丼,ぶたどん,butadon,Donburi daging babi,Kata Benda,,,
+903,13,Makanan,親子丼,おやこどん,oyakodon,Donburi ayam & telur,Kata Benda,,,"""Orang tua dan anak"" = ayam & telur"
+904,13,Ekspresi Permintaan,待ってください,まってください,matte kudasai,Tolong tunggu (sebentar),Ekspresi,,,Dipakai umum / kasual
+905,13,Ekspresi Permintaan,少々お待ちください,しょうしょうおまちください,shoushou omachi kudasai,Mohon tunggu sebentar (sopan),Ekspresi,,,"Dipakai di restoran, toko, customer service"
+906,13,Ekspresi Sopan,～でございます,～でございます,~de gozaimasu,Bentuk sopan dari ～です,Ekspresi,,,Digunakan di layanan pelanggan
+907,13,Ekspresi,別々に,べつべつに,betsubetsu ni,Secara terpisah / Masing-masing,Kata Keterangan,,,
+908,13,Ekspresi,割り勘,わりかん,warikan,Bayar terpisah (split bill),Kata Benda,,,Digunakan saat membagi tagihan bersama
+909,14,Kata Kerja,急ぎます,いそぎます,isogimasu,Buru-buru / Bergesa,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+910,14,Kata Kerja,呼びます,よびます,yobimasu,Memanggil,Kata Kerja,Godan (I),Tadoushi (Transitif),
+911,14,Kata Kerja,待ちます,まちます,machimasu,Menunggu,Kata Kerja,Godan (I),Tadoushi (Transitif),
+912,14,Kata Kerja,持ちます,もちます,mochimasu,Membawa,Kata Kerja,Godan (I),Tadoushi (Transitif),
+913,14,Kata Kerja,手伝います,てつだいます,tetsudaimasu,Membantu / Menolong,Kata Kerja,Godan (I),Tadoushi (Transitif),
+914,14,Kata Kerja,言います,いいます,iimasu,Berkata (to tell),Kata Kerja,Godan (I),Tadoushi (Transitif),
+915,14,Kata Kerja,使います,つかいます,tsukaimasu,Memakai / Menggunakan,Kata Kerja,Godan (I),Tadoushi (Transitif),「Bendaを」つかいます
+916,14,Kata Kerja,座ります,すわります,suwarimasu,Duduk,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+917,14,Kata Kerja,立ちます,たちます,tachimasu,Berdiri,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+918,14,Kata Kerja,話します,はなします,hanashimasu,Berbicara (to talk) / Bercerita,Kata Kerja,Godan (I),Tadoushi (Transitif),
+919,14,Kata Kerja,つけます,つけます,tsukemasu,"Menyalakan (Lampu), Menghidupkan (TV), Memasang, Membubuhkan",Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+920,14,Kata Kerja,開けます,あけます,akemasu,Membuka (pintu / jendela),Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+921,14,Kata Kerja,閉めます,しめます,shimemasu,Menutup (Pintu / jendela),Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+922,14,Kata Kerja,助けます,たすけます,tasukemasu,Membantu / Menolong (Fatal),Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+923,14,Kata Kerja,止めます,とめます,tomemasu,"Menghentikan, (kendaraan) Memarkirkan",Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+924,14,Kata Kerja,見せます,みせます,misemasu,Memperlihatkan,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+925,14,Kata Kerja,答えます,こたえます,kotaemasu,Menjawab,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),
+926,14,Kata Kerja,浴びます,あびます,abimasu,Mandi,Kata Kerja,Ichidan (II),Tadoushi (Transitif),Spesial
+927,14,Kata Kerja,できます,できます,dekimasu,Bisa / Rampung,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),Spesial
+928,14,Kata Kerja,足ります,たります,tarimasu,Cukup,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),Contoh: おかねがたりません
+929,14,Kata Kerja,コピーします,コピーします,kopiishimasu,Memfotokopi,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+930,14,Kata Kerja,サッカーをします,サッカーをします,sakkaaoshimasu,Bermain Bola,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+931,14,Kata Benda,電気,でんき,denki,Listrik / Lampu,Kata Benda,,,
+932,14,Kata Benda,エアコン,エアコン,eakon,AC,Kata Benda,,,エアコンディショナー (Air Conditioner)
+933,14,Kata Benda,パスポート,パスポート,pasupooto,Passport,Kata Benda,,,
+934,14,Kata Benda,名前,なまえ,namae,Nama,Kata Benda,,,
+935,14,Kata Benda,住所,じゅうしょ,juusho,Alamat,Kata Benda,,,
+936,14,Kata Benda,地図,ちず,chizu,Peta,Kata Benda,,,
+937,14,Kata Benda,塩,しお,shio,Garam,Kata Benda,,,
+938,14,Kata Benda,砂糖,さとう,satou,Gula,Kata Benda,,,
+939,14,Kata Benda,問題,もんだい,mondai,"Soal, Permasalahan",Kata Benda,,,
+940,14,Kata Benda,答え,こたえ,kotae,Jawaban,Kata Benda,,,
+941,14,Ekspresi,読み方,よみかた,yomikata,Cara Membaca,Kata Benda,,,よみます → よみ
+942,14,Ekspresi,書き方,かきかた,kakikata,Cara Menulis,Kata Benda,,,かきます → かき
+943,14,Ekspresi,話し方,はなしかた,hanashikata,Cara Berbicara,Kata Benda,,,はなします → はなし
+944,14,Ekspresi,勉強しかた,べんきょうしかた,benkyoushikata,Cara Belajar,Kata Benda,,,
+945,14,Ekspresi,歩き方,あるきかた,arukikata,Cara berjalan,Kata Benda,,,あるきます → あるき
+946,14,Keterangan,まっすぐ,まっすぐ,massugu,Lurus,Kata Keterangan,,,このみちをまっすぐあるきます
+947,14,Keterangan,ゆっくり,ゆっくり,yukkuri,"Pelan-pelan, Istirahat dengan baik",Kata Keterangan,,,"Digunakan dengan はなします, あるきます, します, ねます"
+948,14,Keterangan,すぐ,すぐ,sugu,"Segera, langsung",Kata Keterangan,,,
+949,14,Salam,さようなら,さようなら,sayounara,Selamat tinggal (Tidak tahu kapan akan berjumpa kembali),Ekspresi,,,
+950,14,Keterangan,あとで,あとで,atode,Nanti,Kata Keterangan,,,
+951,14,Keterangan,もうすこし,もうすこし,mousukoshi,Sedikit lagi,Kata Keterangan,,,
+952,14,Keterangan,もう,もう,mou,Sudah / Telah (Penekanan),Kata Keterangan,,,もうたべました
+953,14,Ekspresi,さあ、～ましょう,さあ、～ましょう,"saa, ~mashou",Mari / Ayo (Ajakan),Ekspresi,,,Digunakan untuk mengajak
+954,14,Ekspresi,あれ？,あれ？,are?,Loh kok? Ah? [heran],Ekspresi,,,Ungkapan keterkejutan
+955,14,Kata Benda,信号,しんごう,shingou,Lampu Lalu Lintas,Kata Benda,,,
+956,14,Kata Kerja,曲がります,まがります,magarimasu,Belok,Kata Kerja,Godan (I),Jidoushi (Intransitif),Contoh: みぎへまがります
+957,14,Ekspresi,これでお願いします,これでおねがいします,kore de onegaishimasu,(Pembayaran) Tolong/mohon dengan ini,Ekspresi,,,Umum saat pembayaran
+958,14,Kata Benda,お釣り,おつり,otsuri,Uang Kembalian,Kata Benda,,,
+959,15,Kata Kerja,置きます,おきます,okimasu,Meletakkan / Menaruh,Kata Kerja,Godan (I),Tadoushi (Transitif),
+960,15,Kata Kerja,作ります,つくります,tsukurimasu,Membuat (Secara Umum),Kata Kerja,Godan (I),Tadoushi (Transitif),
+961,15,Kata Kerja,造ります,つくります,tsukurimasu,Membuat [Membangun],Kata Kerja,Godan (I),Tadoushi (Transitif),
+962,15,Kata Kerja,売ります,うります,urimasu,Menjual,Kata Kerja,Godan (I),Tadoushi (Transitif),
+963,15,Kata Kerja,知ります,しります,shirimasu,Mengetahui / Mengenal,Kata Kerja,Godan (I),Tadoushi (Transitif),
+964,15,Kata Kerja,住みます,すみます,sumimasu,Tinggal,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+965,15,Kata Kerja,研究します,けんきゅうします,kenkyuushimasu,Meneliti,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+966,15,Kata Benda,研究,けんきゅう,kenkyuu,Penelitian,Kata Benda,,,
+967,15,Kata Benda,研究者,けんきゅうしゃ,kenkyuusha,Peneliti,Kata Benda,,,
+968,15,Kata Benda,資料,しりょう,shiryou,Dokumen (bahan Presentasi),Kata Benda,,,
+969,15,Kata Benda,書類,しょるい,shorui,Dokumen (Administratif),Kata Benda,,,
+970,15,Kata Benda,カタログ,カタログ,katarogu,Katalog,Kata Benda,,,
+971,15,Kata Benda,時刻表,じこくひょう,jikokuhyou,Jadwal,Kata Benda,,,
+972,15,Kata Benda,服,ふく,fuku,Baju,Kata Benda,,,
+973,15,Kata Benda,制服,せいふく,seifuku,Uniform / Seragam,Kata Benda,,,
+974,15,Kata Benda,製品,せいひん,seihin,Produk (Manufaktur),Kata Benda,,,
+975,15,Kata Benda,商品,しょうひん,shouhin,Produk (Komersil),Kata Benda,,,
+976,15,Kata Benda,ソフト,ソフト,sofuto,Perangkat Lunak (Software),Kata Benda,,,ソフトウェア
+977,15,Kata Benda,電子辞書,でんしじしょ,denshijisho,Kamus Elektronik,Kata Benda,,,
+978,15,Kata Benda,電子メール,でんしメール,denshi meeru,E-mail,Kata Benda,,,メール、Eメール
+979,15,Kata Benda,電子,でんし,denshi,Elektronik,Kata Benda,,,
+980,15,Kata Benda,経済,けいざい,keizai,Ekonomi,Kata Benda,,,
+981,15,Kata Benda,外国人登録,がいこくじんとうろく,gaikokujin touroku,Pendaftaran Orang Asing,Kata Benda,,,
+982,15,Kata Benda,歯医者,はいしゃ,haisha,Dokter Gigi,Kata Benda,,,"は＝gigi, いしゃ＝dokter"
+983,15,Kata Benda,独身,どくしん,dokushin,Single / Bujangan,Kata Benda,,,
+984,15,Kata Benda,皆,みな,mina,Semuanya (Keseluruhan),Kata Benda,,,
+985,15,Kata Benda,皆さん,みなさん,minasan,Semuanya (bentuk sopan),Kata Benda,,,
+986,15,Kata Benda,皆様,みなさま,minasama,Semuanya (bentuk sangat sopan),Kata Benda,,,
+987,15,Kata Kerja,思い出します,おもいだします,omoidashimasu,Teringat,Kata Kerja,Godan (I),Tadoushi (Transitif),
+988,15,Kata Kerja,いらっしゃいます,いらっしゃいます,irasshaimasu,(Bentuk sopan) Ada / Pergi / Datang,Kata Kerja,Godan (I),Jidoushi (Intransitif),Bentuk sopan dari 行きます / 来ます / います
+989,16,Transportasi,乗り換えます,のりかえます,norikaemasu,Pindah (naik) Kendaraan,Kata Kerja,Ichidan (II),Tadoushi (Transitif),Gabungan dari のります + かえます
+990,16,Transportasi,入れます,いれます,iremasu,Memasukkan (objek) ke (Tempat),Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+991,16,Transportasi,出します,だします,dashimasu,"Mengeluarkan (objek), Mengirim, Menyerahkan",Kata Kerja,Godan (I),Tadoushi (Transitif),"tergantung konteks objek: surat, laporan"
+992,16,Transportasi,下ろします,おろします,oroshimasu,"Menurunkan, Mengambil/Menarik Uang",Kata Kerja,Godan (I),Tadoushi (Transitif),おかねをおろします＝ひきだします
+993,16,Transportasi,引き出します,ひきだします,hikidashimasu,Menarik dan Mengeluarkan,Kata Kerja,Godan (I),Tadoushi (Transitif),sinonim おろします
+994,16,Transportasi,引きます,ひきます,hikimasu,Menarik / Memainkan alat musik,Kata Kerja,Godan (I),Tadoushi (Transitif),ひもを引きます／ピアノを弾きます
+995,16,Transportasi,押します,おします,oshimasu,Menekan / Mendorong,Kata Kerja,Godan (I),Tadoushi (Transitif),
+996,16,Kegiatan,始めます,はじめます,hajimemasu,Memulai,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+997,16,Kegiatan,見学します,けんがくします,kengakushimasu,Karya Wisata,Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+998,16,Kegiatan,学びます,まなびます,manabimasu,Belajar,Kata Kerja,Godan (I),Tadoushi (Transitif),
+999,16,Komunikasi,電話をかけます,でんわをかけます,denwa o kakemasu,Menelpon (Melakukan Panggilan),Kata Kerja,Ichidan (II),Tadoushi (Transitif),Hanya si penelpon
+1000,16,Komunikasi,電話をもらいます,でんわをもらいます,denwa o moraimasu,Menelpon (Menerima Panggilan),Kata Kerja,Ichidan (II),Tadoushi (Transitif),Hanya si penerima telpon
+1001,16,Komunikasi,電話します,でんわします,denwashimasu,Melakukan Telpon (Penelpon & Penerima),Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1002,16,Keseharian,シャワーを浴びます,シャワーをあびます,shawa o abimasu,Mandi Shower,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1003,16,Keseharian,お風呂に入ります,おふろにはいります,ofuro ni hairimasu,Mandi (Masuk ke Bak Mandi),Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1004,16,Keseharian,店に入ります,みせにはいります,mise ni hairimasu,Masuk ke Toko,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1005,16,Pendidikan,入学式,にゅうがくしき,nyuugakushiki,Upacara Penerimaan Siswa Baru,Kata Benda,,,
+1006,16,Pendidikan,卒業式,そつぎょうしき,sotsugyoushiki,Upacara Kelulusan,Kata Benda,,,
+1007,16,Kata Sifat,若い,わかい,wakai,Muda,Kata Sifat (I),,,
+1008,16,Kata Sifat,長い,ながい,nagai,Panjang,Kata Sifat (I),,,
+1009,16,Kata Sifat,短い,みじかい,mijikai,Pendek,Kata Sifat (I),,,
+1010,16,Kata Sifat,背が高い,せがたかい,sega takai,Punggung (Badan) tinggi,Kata Sifat (I),,,
+1011,16,Kata Sifat,背が低い,せがひくい,sega hikui,Punggung (Badan) rendah (Pendek),Kata Sifat (I),,,
+1012,16,Kata Sifat,明るい,あかるい,akarui,Terang (Cahaya) / Terang (Karakter Orang) = Ceria,Kata Sifat (I),,,
+1013,16,Kata Sifat,眩しい,まぶしい,mabushii,Silau,Kata Sifat (I),,,
+1014,16,Kata Sifat,暗い,くらい,kurai,Gelap,Kata Sifat (I),,,
+1015,16,Tubuh,体,からだ,karada,Badan / Tubuh,Kata Benda,,,
+1016,16,Tubuh,頭,あたま,atama,Kepala,Kata Benda,,,
+1017,16,Tubuh,神,かみ,kami,Dewa / Tuhan,Kata Benda,,,Penggunaan kehormatan (様)
+1018,16,Tubuh,髪,かみ,kami,Rambut,Kata Benda,,,
+1019,16,Tubuh,目,め,me,Mata,Kata Benda,,,
+1020,16,Tubuh,耳,みみ,mimi,Telinga,Kata Benda,,,
+1021,16,Tubuh,鼻,はな,hana,Hidung,Kata Benda,,,
+1022,16,Tubuh,口,くち,kuchi,Mulut,Kata Benda,,,
+1023,16,Tubuh,唇,くちびる,kuchibiru,Bibir,Kata Benda,,,
+1024,16,Tubuh,歯,は,ha,Gigi,Kata Benda,,,
+1025,16,Tubuh,お腹,おなか,onaka,Perut,Kata Benda,,,
+1026,16,Tubuh,腹,はら,hara,Perut,Kata Benda,,,"Lebih kasar, sering dipakai dalam ekspresi vulgar"
+1027,16,Tubuh,足,あし,ashi,Kaki,Kata Benda,,,
+1028,16,Tubuh,背,せ,se,Punggung,Kata Benda,,,
+1029,16,Ekspresi,お腹が空きました,おなかがすきました,onaka ga sukimashita,Lapar (Formal),Kata Kerja,Ichidan (II),Jidoushi (Intransitif),Ekspresi formal
+1030,16,Ekspresi,お腹がすいた,おなかがすいた,onaka ga suita,Lapar (Kasual),Kata Kerja,Godan (I),Jidoushi (Intransitif),Ekspresi kasual
+1031,16,Ekspresi,腹が減りました,はらがへりました,hara ga herimashita,"Lapar (Formal, Vulgar)",Kata Kerja,Ichidan (II),Jidoushi (Intransitif),Lebih kasar dari おなか
+1032,16,Ekspresi,腹が減った,はらがへった,hara ga hetta,"Lapar (Kasual, Vulgar)",Kata Kerja,Godan (I),Jidoushi (Intransitif),Lebih kasar dari おなか
+1033,16,Ekspresi,お腹がペコペコ,おなかがペコペコ,onaka ga peko peko,Lapar (Sangat Lapar),Ekspresi,,,Onomatope
+1034,16,Umum,サービス,サービス,saabisu,Pelayanan / Jasa,Kata Benda,,,
+1035,16,Aktivitas,ジョギング,ジョギング,jogingu,Jogging,Kata Benda,,,ジョギングをします = melakukan jogging
+1036,16,Tempat Suci,神社,じんじゃ,jinja,Kuil Shinto,Kata Benda,,,
+1037,16,Urutan,番,ばん,ban,Nomor,Kata Benda,,,Digunakan bersama angka
+1038,16,Tanya,どうやって,どうやって,dou yatte,Dengan cara bagaimana,Kata Tanya,,,
+1039,16,Tanya,どの,どの,dono,Benda yang mana [> 2],Kata Tanya,,,Harus diikuti oleh kata benda
+1040,16,Ungkapan,すごいですね,すごいですね,sugoi desu ne,Hebat ya,Ungkapan,,,Ekspresi kekaguman
+1041,16,Ungkapan,まだまだです,まだまだです,madamada desu,Tidak seberapa / Belum ada apa-apanya,Ungkapan,,,Ungkapan merendah
+1042,16,Urutan,まず,まず,mazu,Mula-mula / Pertama-tama,Kata Keterangan,,,Digunakan untuk urutan tindakan
+1043,16,Urutan,次に,つぎに,tsugi ni,Yang berikutnya / Kemudian,Kata Keterangan,,,
+1044,16,Perbankan,キャッシュカード,キャッシュカード,kyasshu kaado,Kartu ATM (Cash Card),Kata Benda,,,
+1045,16,Perbankan,デビットカード,デビットカード,debitto kaado,Debit Card,Kata Benda,,,
+1046,16,Perbankan,クレジットカード,クレジットカード,kurejitto kaado,Credit Card,Kata Benda,,,
+1047,16,Perbankan,暗証番号,あんしょうばんごう,anshou bangou,Nomor PIN,Kata Benda,,,
+1048,16,Perbankan,金額,きんがく,kingaku,Nominal / Jumlah Uang,Kata Benda,,,
+1049,16,Perbankan,確認,かくにん,kakunin,Cek (Confirmation),Kata Benda,,,
+1050,16,Perbankan,確認します,かくにんします,kakunin shimasu,Mengecek / Mengonfirmasi,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1051,16,Perbankan,ボタン,ボタン,botan,Tombol,Kata Benda,,,
+1052,16,Budaya,雪まつり,ゆきまつり,yuki matsuri,Festival Salju,Kata Benda,,,
+1053,16,Geografi,バンドン,バンドン,bandon,Bandung (di Indonesia),Kata Benda,,,Nama tempat
+1054,16,Geografi,フランケン,フランケン,furanken,Franken (di Jerman),Kata Benda,,,Nama tempat
+1055,16,Geografi,ベラクルス,ベラクルス,berakurusu,Veracruz (di Meksiko),Kata Benda,,,Nama tempat
+1056,16,Geografi,梅田,うめだ,Umeda,Umeda (Nama daerah di Osaka),Kata Benda,,,Nama tempat
+1057,17,Ingatan,覚えます,おぼえます,oboemasu,"Mengingat, Menghafal",Kata Kerja,Ichidan (II),Tadoushi (Transitif),おぼえました = Telah mengingat
+1058,17,Ingatan,忘れます,わすれます,wasuremasu,Lupa,Kata Kerja,Ichidan (II),Tadoushi (Transitif),わすれました = Telah lupa
+1059,17,Sebab-Akibat,ますから,ますから,masukara,Karena... (dalam satu kalimat),Kata Penghubung,,,Digunakan setelah kata kerja bentuk ます
+1060,17,Sebab-Akibat,ですから,ですから,desukara,Karena itu...,Kata Penghubung,,,Bisa menghubungkan dua kalimat terpisah
+1061,17,Tanya,どうですか,どうですか,dou desu ka,Bagaimana?,Kata Tanya,,,
+1062,17,Tanya,どうでしたか,どうでしたか,dou deshita ka,Bagaimana? [lampau],Kata Tanya,,,
+1063,17,Tanya,どうしますか,どうしますか,dou shimasu ka,Ada masalah apa?,Kata Tanya,,,
+1064,17,Tanya,どうしましたか,どうしましたか,dou shimashita ka,Ada masalah apa? [lampau],Kata Tanya,,,
+1065,17,Kesehatan,喉,のど,nodo,Tenggorokan,Kata Benda,,,のどがいたいです
+1066,17,Ungkapan,お大事に,おだいじに,odaijini,Semoga lekas sembuh,Ungkapan,,,Digunakan kepada orang yang sakit
+1067,17,Kehilangan,無くします,なくします,nakushimasu,Kehilangan [Menghilangkan ...],Kata Kerja,Godan (I),Tadoushi (Transitif),
+1068,17,Pinjam,返します,かえします,kaeshimasu,Mengembalikan (benda yang dipinjam),Kata Kerja,Godan (I),Tadoushi (Transitif),
+1069,17,Pinjam,戻します,もどします,modoshimasu,Mengembalikan (ke tempat semula),Kata Kerja,Godan (I),Tadoushi (Transitif),
+1070,17,Aktivitas,出かけます,でかけます,dekakemasu,Pergi keluar {dari rumah ...},Kata Kerja,Ichidan (II),Jidoushi (Intransitif),
+1071,17,Pakaian,脱ぎます,ぬぎます,nugimasu,Menanggalkan {pakaian dsb.},Kata Kerja,Godan (I),Tadoushi (Transitif),
+1072,17,Membawa,持って行きます,もっていきます,motte ikimasu,Membawa pergi,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1073,17,Membawa,持って来ます,もってきます,motte kimasu,Membawa datang,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1074,17,Emosi,心配,しんぱい,shinpai,Kekhawatiran / Kecemasan,Kata Benda,,,
+1075,17,Emosi,心配します,しんぱいします,shinpai shimasu,Mengkhawatirkan / Mencemaskan,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1076,17,Kerja,残業,ざんぎょう,zangyou,Lembur,Kata Benda,,,
+1077,17,Kerja,残業します,ざんぎょうします,zangyou shimasu,Melembur,Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+1078,17,Kerja,ブラック会社,ブラックがいしゃ,burakku gaisha,Black Company [Perusahaan Red Flag],Kata Benda,,,Istilah negatif untuk perusahaan
+1079,17,Kerja,ホワイト会社,ホワイトがいしゃ,howaito gaisha,White Company [Perusahaan Green Flag],Kata Benda,,,Istilah positif untuk perusahaan
+1080,17,Kerja,過労死,かろうし,karoushi,Kematian karena terlalu banyak bekerja,Kata Benda,,,"Gabungan: 過=kelebihan, 労=berjerih, 死=kematian"
+1081,17,Kerja,出張,しゅっちょう,shutchou,Dinas,Kata Benda,,,
+1082,17,Kerja,出張します,しゅっちょうします,shutchou shimasu,Melakukan dinas,Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+1083,17,Kesehatan,薬を飲みます,くすりをのみます,kusuri o nomimasu,Minum obat,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1084,17,Kesehatan,風呂に入ります,おふろにはいります,ofuro ni hairimasu,Masuk ke bak mandi (mandi),Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1085,17,Kata Sifat,大切,たいせつ,taisetsu,Penting / Bernilai / Berharga,Kata Sifat (Na),,,Contoh: たいせつなひと
+1086,17,Kata Sifat,大丈夫,だいじょうぶ,daijoubu,"Tidak apa-apa, tidak masalah",Kata Sifat (Na),,,Bisa berarti menolak saat ditawarkan sesuatu
+1087,17,Kata Sifat,危ない,あぶない,abunai,Berbahaya,Kata Sifat (I),,,
+1088,17,Kesehatan,禁煙,きんえん,kin’en,Non-Smoking (Dilarang Merokok),Kata Benda,,,
+1089,17,Kesehatan,喫煙,きつえん,kitsuen,Smoking (Boleh Merokok),Kata Benda,,,
+1090,17,Kesehatan,健康,けんこう,kenkou,Kesehatan,Kata Benda,,,
+1091,17,Kesehatan,～保険証,～ほけんしょう,~hokenshou,Kartu Asuransi,Kata Benda,,,Sering digabung: 健康保険証
+1092,17,Kesehatan,健康保険証,けんこうほけんしょう,kenkou hokenshou,Kartu Asuransi Kesehatan,Kata Benda,,,
+1093,17,Kesehatan,熱,ねつ,netsu,Demam,Kata Benda,,,がでます (muncul demam)
+1094,17,Kesehatan,病気,びょうき,byouki,Sakit,Kata Benda,,,
+1095,17,Kesehatan,薬,くすり,kusuri,Obat,Kata Benda,,,
+1096,17,Pakaian,上着,うわぎ,uwagi,"Pakaian luaran (jaket, dll.)",Kata Benda,,,
+1097,17,Pakaian,下着,したぎ,shitagi,Pakaian dalaman,Kata Benda,,,
+1098,17,Pakaian,ズボン,ズボン,zubon,Celana panjang,Kata Benda,,,
+1099,17,Waktu,２，３にち,２，３にち,ni san nichi,2-3 hari,Kata Benda,,,Ungkapan jumlah hari
+1100,17,Waktu,～までに,～までに,~ made ni,Sampai dengan... / Sampai paling lambat,Kata Keterangan,,,Menyatakan batas waktu (deadline)
+1101,18,Kata Kerja,洗います,あらいます,araimasu,Mencuci,Kata Kerja,Godan (I),Tadoushi (Transitif),おさらをあらいます = mencuci piring; てをあらいます = mencuci tangan
+1102,18,Kata Kerja,弾きます,ひきます,hikimasu,Memainkan (alat musik senar dan piano),Kata Kerja,Godan (I),Tadoushi (Transitif),ピアノをひきます = bermain piano
+1103,18,Kata Kerja,歌います,うたいます,utaimasu,Bernyanyi,Kata Kerja,Godan (I),Tadoushi (Transitif),うたをうたいます = menyanyikan lagu
+1104,18,Kata Kerja,切手を集めます,きってをあつめます,kitte o atsumemasu,Mengumpulkan Perangko,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1105,18,Kata Kerja,人が集まります,ひとがあつまります,hito ga atsumarimasu,Orang Berkumpul,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1106,18,Kata Kerja,捨てます,すてます,sutemasu,Membuang,Kata Kerja,Ichidan (II),Tadoushi (Transitif),ゴミをすてます = membuang sampah
+1107,18,Kata Kerja,拾います,ひろいます,hiroimasu,Memungut,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1108,18,Kata Kerja,換えます,かえます,kaemasu,Menukar / Mengganti,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1109,18,Kata Kerja,変えます,かえます,kaemasu,Mengubah,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1110,18,Kata Kerja,代えます,かえます,kaemasu,Menggantikan (posisi),Kata Kerja,Ichidan (II),Tadoushi (Transitif),Representatif
+1111,18,Kata Kerja,運転します,うんてんします,untenshimasu,Mengendarai / Menyetir,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1112,18,Kata Kerja,予約します,よやくします,yoyakushimasu,Memesan / Booking,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1113,18,Kata Benda,曲,きょく,kyoku,Musik (bisa juga yang ada vokalnya),Kata Benda,,,
+1114,18,Kata Benda,ゴミ,ゴミ,gomi,Sampah,Kata Benda,,,
+1115,18,Kata Benda,運転,うんてん,unten,Berkendara,Kata Benda,,,
+1116,18,Kata Benda,運転手,うんてんしゅ,untenshu,Sopir,Kata Benda,,,
+1117,18,Kata Benda,ピアノ,ピアノ,piano,Piano,Kata Benda,,,
+1118,18,Kata Benda,メートル,メートル,meetoru,[...] meter,Kata Benda,,,Angka + メートル
+1119,18,Kata Benda,現金,げんきん,genkin,Uang Tunai / Cash,Kata Benda,,,
+1120,18,Kata Benda,趣味,しゅみ,shumi,Hobi / Kegemaran,Kata Benda,,,
+1121,18,Kata Benda,日記,にっき,nikki,Catatan Harian / Diary,Kata Benda,,,
+1122,18,Kata Benda,お祈り,おいのり,oinori,Doa,Kata Benda,,,おいのりをします = berdoa
+1123,18,Kata Benda,社長,しゃちょう,shachou,Presiden Direktur,Kata Benda,,,Jabatan Perusahaan
+1124,18,Kata Benda,部長,ぶちょう,buchou,Kepala Divisi / Manager,Kata Benda,,,Jabatan Perusahaan / Toko
+1125,18,Kata Benda,課長,かちょう,kachou,Kepala Department / Supervisor,Kata Benda,,,Jabatan Perusahaan / Toko
+1126,18,Kata Benda,店,みせ,mise,Toko,Kata Benda,,,
+1127,18,Kata Benda,店長,てんちょう,tenchou,Kepala Toko,Kata Benda,,,Jabatan Toko
+1128,18,Kata Benda,校長（先生）,こうちょう（せんせい）,kouchou (sensei),Kepala Sekolah,Kata Benda,,,
+1129,18,Kata Benda,動物,どうぶつ,doubutsu,Hewan / Binatang,Kata Benda,,,
+1130,18,Kata Benda,インターネット,インターネット,intaanetto,Internet,Kata Benda,,,
+1131,18,Ekspresi,特に,とくに,tokuni,"Khususnya, terutama",Ekspresi,,,
+1132,18,Ekspresi,へえ,へえ,hee,(Melongo) Ungkapan Terkagum,Ekspresi,,,
+1133,18,Ekspresi,なかなか～ません,なかなか～ません,nakanaka ~masen,Tidak kunjung...,Ekspresi,,,Bentuk negatif
+1134,18,Ekspresi,本当ですか,ほんとうですか,hontou desu ka,Betulkah? Benarkah?,Ekspresi,,,
+1135,18,Ekspresi,ぜひ,ぜひ,zehi,(Ekspresi Kuat) Pastikan / Harus banget,Ekspresi,,,ぜひきてください = tolong datang
+1136,19,Kata Kerja,上ります,のぼります,noborimasu,Naik (Tangga dll.),Kata Kerja,Godan (I),Tadoushi (Transitif),Objek にのぼります
+1137,19,Kata Kerja,泊まります,とまります,tomarimasu,Menginap (di hotel),Kata Kerja,Godan (I),Jidoushi (Intransitif),ホテルに泊まります
+1138,19,Kata Kerja,止まります,とまります,tomarimasu,Berhenti / Terparkir,Kata Kerja,Godan (I),Jidoushi (Intransitif),みせのまえにくるまがとまりました
+1139,19,Kata Kerja,掃除します,そうじします,soujishimasu,(Kegiatan) Bersih-bersih / Membersihkan,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1140,19,Kata Kerja,洗濯します,せんたくします,sentakushimasu,(Kegiatan) Mencuci,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1141,19,Kata Kerja,なります,なります,narimasu,Menjadi,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1142,19,Kata Sifat (I),眠い,ねむい,nemui,Mengantuk,Kata Sifat (I),,,
+1143,19,Kata Sifat (I),強い,つよい,tsuyoi,Kuat,Kata Sifat (I),,,
+1144,19,Kata Sifat (I),弱い,よわい,yowai,Lemah,Kata Sifat (I),,,
+1145,19,Kata Benda,練習,れんしゅう,renshuu,Latihan,Kata Benda,,,れんしゅうをします = berlatih
+1146,19,Kata Benda,ゴルフ,ゴルフ,gorufu,Golf,Kata Benda,,,ゴルフをします = bermain golf
+1147,19,Kata Benda,すもう,すもう,sumou,Sumo,Kata Benda,,,すもうをします = bermain sumo
+1148,19,Kata Benda,日,ひ,hi,Hari,Kata Benda,,,
+1149,19,Kata Benda,調子,ちょうし,choushi,Kondisi (Benda / Tubuh),Kata Benda,,,ちょうしがいい = performa/ kesehatan baik
+1150,19,Ekspresi,調子がいい,ちょうしがいい,choushi ga ii,{Performa} Benda berfungsi baik / {Kesehatan} Badan baik,Ekspresi,,,
+1151,19,Ekspresi,調子が悪い,ちょうしがわるい,choushi ga warui,{Performa} Benda berfungsi buruk / {Kesehatan} Badan buruk,Ekspresi,,,
+1152,19,Ekspresi,一度,いちど,ichido,Sekali,Ekspresi,,,いっかい
+1153,19,Ekspresi,一度も,いちども,ichidomo,Satu kalipun (diikuti bentuk negatif),Ekspresi,,, いっかいも
+1154,19,Ekspresi,だんだん,だんだん,dandan,Lama-kelamaan,Ekspresi,,,
+1155,19,Ekspresi,もうすぐ,もうすぐ,mousugu,Tidak lama lagi / Segera,Ekspresi,,,
+1156,19,Ekspresi,おかげさまで,おかげさまで,okagesamade,{Ungkapan - Membalas dengan Ucapan Terimakasih},Ekspresi,,,"おかげさまで、げんきです= Berkat Anda, saya sehat"
+1157,19,Ekspresi,でも,でも,demo,Tetapi,Ekspresi,,,ですが
+1158,19,Ekspresi,ですが,ですが,desu ga,Tetapi,Ekspresi,,,Digunakan dalam kalimat gabungan
+1159,19,Ekspresi,乾杯,かんぱい,kanpai,{Ucapkan ketika minum-minum} Bersulang,Ekspresi,,,
+1160,19,Kata Benda,ダイエット,ダイエット,daietto,Diet,Kata Benda,,,ダイエットをします = berdiet
+1161,19,Kata Kerja,ダイエットします,ダイエットします,daietto shimasu,(Kegiatan) Berdiet,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1162,19,Kata Sifat (Na),無理,むり,muri,Mustahil / Tidak mungkin,Kata Sifat (Na),,,むりをします = memaksakan diri
+1163,19,Kata Kerja,無理をします,むりをします,muri o shimasu,Memaksakan diri,Kata Kerja,Irregular (III),Tadoushi (Transitif),むりをしないでください = Tolong jangan memaksakan diri
+1164,19,Ekspresi,からだがいい,からだがいい,karada ga ii,Badan / Tubuh NYA bagus,Ekspresi,,,
+1165,19,Ekspresi,からだにいい,からだにいい,karada ni ii,Bagus {Terhadap / UNTUK} Tubuh,Ekspresi,,,このやさいはからだにいいです = Sayur ini bagus untuk tubuh
+1166,20,Kata Kerja,要ります,いります,irimasu,Memerlukan / Membutuhkan,Kata Kerja,Godan (I),Jidoushi (Intransitif),ビザがいります = memerlukan VISA
+1167,20,Kata Kerja,調べます,しらべます,shirabemasu,Mencari Tahu (Informasi),Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1168,20,Kata Benda,修理,しゅうり,shuuri,Perbaikan,Kata Benda,,,
+1169,20,Kata Kerja,修理します,しゅうりします,shuurishimasu,(Kegiatan) Memperbaiki,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1170,20,Kata Benda,私（わたくし）,わたくし,watakushi,Hamba (Sopan / Hormat),Kata Benda,,,
+1171,20,Kata Benda,僕,ぼく,boku,"Aku (Pria, Kasual)",Kata Benda,,,
+1172,20,Kata Benda,あたし,あたし,atashi,"Aku (Perempuan, Kasual)",Kata Benda,,,
+1173,20,Kata Benda,うち,うち,uchi,"Aku (Perempuan, Kasual)",Kata Benda,,,
+1174,20,Kata Benda,俺,おれ,ore,Gue (Kasar),Kata Benda,,,
+1175,20,Kata Benda,君,きみ,kimi,Kamu (Kasual),Kata Benda,,,
+1176,20,Kata Benda,お前,おまえ,omae,Lu (Kasar),Kata Benda,,,
+1177,20,Kata Benda,手前,てまえ,temae,[Tidak Pantas] Kamu,Kata Benda,,,Kasar
+1178,20,Kata Benda,この野郎,このやろう,konoyarou,[Tidak Pantas] Kamu,Kata Benda,,,Kasar
+1179,20,Ekspresi,～さま,～さま,~sama,(Sopan / Hormat),Ekspresi,,,Honorifik
+1180,20,Ekspresi,～さん,～さん,~san,(Formal),Ekspresi,,,Honorifik
+1181,20,Ekspresi,～くん,～くん,~kun,(Kasual) Pria,Ekspresi,,,Honorifik
+1182,20,Ekspresi,～ちゃん,～ちゃん,~chan,(Kasual) Perempuan,Ekspresi,,,Honorifik
+1183,20,Ekspresi,うん,うん,un,Iya (Kasual),Ekspresi,,,
+1184,20,Ekspresi,ううん,ううん,uun,Tidak (Kasual),Ekspresi,,,
+1185,20,Kata Benda,言葉,ことば,kotoba,"Bahasa, Kata {kosakata}",Kata Benda,,,
+1186,20,Kata Benda,言語,げんご,gengo,Bahasa,Kata Benda,,,
+1187,20,Kata Benda,着物,きもの,kimono,Kimono,Kata Benda,,,
+1188,20,Kata Benda,浴衣,ゆかた,yukata,Yukata (Versi sederhana dari Kimono),Kata Benda,,,
+1189,20,Kata Benda,ビザ,ビザ,biza,Visa,Kata Benda,,,
+1190,20,Kata Benda,初め,はじめ,hajime,Awal / Mula-mula / Pertama,Kata Benda,,,
+1191,20,Kata Benda,終わり,おわり,owari,Akhir,Kata Benda,,,
+1192,20,Ekspresi,こっち,こっち,kocchi,Kasual: Di sini / arah ini,Ekspresi,,,
+1193,20,Ekspresi,そっち,そっち,socchi,Kasual: Di situ / arah itu,Ekspresi,,,
+1194,20,Ekspresi,あっち,あっち,acchi,Kasual: Di sana / arah sana,Ekspresi,,,
+1195,20,Ekspresi,どっち,どっち,docchi,Kasual: Yang mana / arah mana,Ekspresi,,,
+1196,20,Ekspresi,みんなで,みんなで,minnade,Kita semua / kita sama-sama {bersama},Ekspresi,,,
+1197,20,Ekspresi,しかし,しかし,shikashi,Tetapi (Formal/Kasual - Bahasa Tulisan),Ekspresi,,,
+1198,20,Ekspresi,～ですが,～ですが,~desu ga,Tetapi (Formal),Ekspresi,,,Digunakan dalam satu kalimat
+1199,20,Ekspresi,～けど,～けど,~kedo,Tetapi (Kasual),Ekspresi,,,
+1200,20,Ekspresi,～でも,～でも,~demo,Tetapi (Kasual),Ekspresi,,,
+1201,20,Ekspresi,おなかがいっぱいです,おなかがいっぱいです,onaka ga ippai desu,Perutnya penuh {Kenyang},Ekspresi,,,
+1202,20,Ekspresi,よかったら,よかったら,yokattara,Kalau mau / kalau suka / kalau berkenan ...,Ekspresi,,,
+1203,20,Kata Sifat (Na),色々,いろいろ,iroiro (na),Berbagai jenis / berbagai macam,Kata Sifat (Na),,,
+1204,21,Kata Kerja,思います,おもいます,omoimasu,Mengira / Menyangka,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1205,21,Kata Kerja,勝ちます,かちます,kachimasu,Menang,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1206,21,Kata Kerja,負けます,まけます,makemasu,Kalah,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),
+1207,21,Ekspresi,～で～があります,～で～があります,~de ~ga arimasu,Ada ～ di ～,Ekspresi,,,Contoh: とうきょうでおまつりがあります= Ada festival di Tokyo
+1208,21,Ekspresi,～に～がいます,～に～がいます,~ni ~ga imasu,～ ada di ～ (orang/hewan),Ekspresi,,,Contoh: じむしょにミラーさんがいます
+1209,21,Kata Kerja,役に立ちます,やくにたちます,yakunitachimasu,Berguna / Bermanfaat,Kata Kerja,Godan (I),Jidoushi (Intransitif),にほんごのべんきょうのやくにたちます／せんせいのやくにたちます
+1210,21,Kata Kerja,動きます,うごきます,ugokimasu,Bergerak / Pindah,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1211,21,Kata Kerja,辞めます,やめます,yamemasu,Berhenti {Kerja},Kata Kerja,Ichidan (II),Tadoushi (Transitif),かいしゃをやめます = Berhenti dari perusahaan
+1212,21,Kata Kerja,気をつけます,きをつけます,ki wo tsukemasu,Berhati-hati,Kata Kerja,Ichidan (II),Tadoushi (Transitif),くるま・わるいひと・くま にきをつけてください
+1213,21,Kata Kerja,留学します,りゅうがくします,ryuugakushimasu,Studi di luar negeri,Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+1214,21,Kata Sifat,無駄,むだ,muda (na),Sia-sia / Tidak berguna,Kata Sifat (Na),,,
+1215,21,Ekspresi,本当に,ほんとうに,hontou ni,Benar-benar (Melakukan sesuatu dengan benar),Ekspresi,,,Contoh: ほんとうにいいましたか／ほんとうにしましたか
+1216,21,Kata Benda,本当,ほんとう,hontou,Benar / Betul,Kata Benda,,,
+1217,21,Kata Benda,うそ,うそ,uso,Bohong,Kata Benda,,,
+1218,21,Kata Benda,うそつき,うそつき,usotsuki,Pembohong,Kata Benda,,,
+1219,21,Kata Benda,交通,こうつう,koutsuu,Lalu lintas,Kata Benda,,,
+1220,21,Kata Benda,交通手段,こうつうしゅだん,koutsuu shudan,Sarana transportasi,Kata Benda,,,
+1221,21,Kata Benda,物価,ぶっか,bukka,Harga barang / Harga pokok / Harga beras,Kata Benda,,,
+1222,21,Kata Benda,放送,ほうそう,housou,Siaran / Pengumuman,Kata Benda,,,
+1223,21,Kata Benda,アニメ,アニメ,anime,Animasi Jepang,Kata Benda,,,#NAME?
+1224,21,Kata Benda,漫画,まんが,manga,Komik Jepang,Kata Benda,,,#NAME?
+1225,21,Kata Benda,デザイン,デザイン,dezain,Desain,Kata Benda,,,
+1226,21,Kata Benda,夢,ゆめ,yume,Mimpi,Kata Benda,,,Mimpi cita-cita atau bunga tidur
+1227,21,Kata Benda,天才,てんさい,tensai,Genius,Kata Benda,,,
+1228,21,Kata Benda,試合,しあい,shiai,Pertandingan,Kata Benda,,,
+1229,21,Kata Kerja,試合をします,しあいをします,shiai wo shimasu,Bertanding,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1230,21,Kata Kerja,試合に出ます,しあいにでます,shiai ni demasu,Bergabung / masuk ke pertandingan,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),
+1231,21,Kata Kerja,試合を出ます,しあいをでます,shiai wo demasu,Terlepas / keluar dari pertandingan,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1232,21,Kata Benda,意見,いけん,iken,Pendapat / Opini,Kata Benda,,,
+1233,21,Kata Benda,話,はなし,hanashi,Cerita,Kata Benda,,,
+1234,21,Kata Kerja,話をします,はなしをします,hanashi wo shimasu,Bercerita,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1235,21,Kata Benda,地球,ちきゅう,chikyuu,Bumi,Kata Benda,,,
+1236,21,Kata Benda,月,つき,tsuki,Bulan,Kata Benda,,,
+1237,21,Kata Benda,太陽,たいよう,taiyou,Matahari,Kata Benda,,,
+1238,21,Kata Benda,星,ほし,hoshi,Bintang,Kata Benda,,,
+1239,21,Ekspresi,最近,さいきん,saikin,Akhir-akhir ini / Belakangan,Ekspresi,,,
+1240,21,Ekspresi,多分,たぶん,tabun,Mungkin / Barangkali (Penekanan),Ekspresi,,,
+1241,21,Ekspresi,そんなに～,そんなに～,sonnani ~,Tidak begitu ～ (diikuti bentuk negatif),Ekspresi,,,Contoh: そんなにたかくないです
+1242,21,Ekspresi,～について,～について,~ni tsuite,Tentang / Mengenai,Ekspresi,,,
+1243,21,Ekspresi,お久しぶりですね,おひさしぶりですね,ohisashiburi desu ne,Sudah lama tidak bertemu ya,Ekspresi,,,
+1244,21,Ekspresi,ご無沙汰しております,ごぶさたしております,gobusata shite orimasu,(Hormat) Sudah lama tidak menghubungi,Ekspresi,,,
+1245,21,Ekspresi,～でも飲みませんか,～でものみませんか,~demo nomimasen ka,Tidak mau kah minum ～ atau lainnya,Ekspresi,,,Contoh: おちゃでものみませんか
+1246,21,Ekspresi,～でも見に行きませんか,～でもみにいきませんか,~demo mi ni ikimasen ka,Tidak mau kah pergi untuk menonton ～ atau lainnya,Ekspresi,,,Contoh: えいがでもみにいきませんか
+1247,21,Ekspresi,もちろん,もちろん,mochiron,Tentu saja!,Ekspresi,,,
+1248,21,Ekspresi,もう帰らないと,もうかえらないと,mou kaeranakute wa,Sudah harus pulang,Ekspresi,,,Bentuk pendek dari: もうかえらないといけません
+1249,22,Kata Kerja,着ます,きます,kimasu,Memakai / Mengenakan (Atasan),Kata Kerja,Ichidan (II),Tadoushi (Transitif),"Contoh: ふくをきます（kemeja, blouse, jas, T-shirt）"
+1250,22,Kata Kerja,履きます,はきます,hakimasu,Memakai (Bawahan),Kata Kerja,Godan (I),Tadoushi (Transitif),"Contoh: くつをはきます（sepatu, sandal, celana, rok, CD）"
+1251,22,Kata Kerja,かぶります,かぶります,kaburimasu,Memakai (di kepala),Kata Kerja,Godan (I),Tadoushi (Transitif),"Contoh: ぼうしをかぶります（topi, helm, mahkota）"
+1252,22,Kata Kerja,かけます,かけます,kakemasu,Memakai (digantungkan di telinga) / Menggantung,Kata Kerja,Ichidan (II),Tadoushi (Transitif),Contoh: めがねをかけます（kacamata）
+1253,22,Kata Kerja,します,します,shimasu,Memakai (Aksesoris),Kata Kerja,Irregular (III),Tadoushi (Transitif),"Contoh: ネクタイをします（masker, dasi, gelang, kalung, anting, sarung tangan）"
+1254,22,Kata Kerja,生まれます,うまれます,umaremasu,Lahir,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),Contoh: あかちゃんがうまれました／ばりとうでうまれました
+1255,22,Kata Benda,私たち,わたしたち,watashitachi,"Kami, Kita",Kata Benda,,,
+1256,22,Kata Benda,コート,コート,kooto,Mantel,Kata Benda,,,
+1257,22,Kata Benda,セーター,セーター,seetaa,Baju Hangat (Sweater),Kata Benda,,,
+1258,22,Kata Benda,スーツ,スーツ,suutsu,Pakaian Setelan / Jas,Kata Benda,,,
+1259,22,Kata Benda,帽子,ぼうし,boushi,Topi,Kata Benda,,,
+1260,22,Kata Benda,眼鏡,めがね,megane,Kacamata,Kata Benda,,,
+1261,22,Kata Benda,ケーキ,ケーキ,keeki,Kue (Cake),Kata Benda,,,
+1262,22,Kata Benda,お弁当,おべんとう,obentou,Bekal (Bento),Kata Benda,,,
+1263,22,Kata Benda,ロボット,ロボット,robotto,Robot,Kata Benda,,,
+1264,22,Kata Benda,ユーモア,ユーモア,yuumoa,Humor,Kata Benda,,,
+1265,22,Kata Benda,都合,つごう,tsugou,Kondisi (WAKTU),Kata Benda,,,
+1266,22,Ekspresi,都合がいい,つごうがいい,tsugou ga ii,Kondisi waktu baik (Senggang),Ekspresi,,,
+1267,22,Ekspresi,都合が悪い,つごうがわるい,tsugou ga warui,Kondisi waktu buruk (Berhalangan),Ekspresi,,,
+1268,22,Ekspresi,えーと,えーと,eeto,(Sedang berpikir) Hmm,Ekspresi,,,
+1269,22,Ekspresi,おめでとうございます,おめでとうございます,omedetou gozaimasu,Selamat (Ucapan),Ekspresi,,,
+1270,22,Ekspresi,お探しですか,おさがしですか,osagashi desu ka,Sedang mencari apa?,Ekspresi,,,
+1271,22,Kata Kerja,探します,さがします,sagashimasu,Mencari,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1272,22,Ekspresi,では,では,dewa,Kalau begitu,Ekspresi,,,#NAME?
+1273,22,Ekspresi,じゃ,じゃ,ja,Kalau begitu,Ekspresi,,,
+1274,22,Ekspresi,また明日,またあした,mata ashita,Sampai jumpa besok,Ekspresi,,,
+1275,22,Kata Benda,家賃,やちん,yachin,Biaya sewa rumah,Kata Benda,,,
+1276,22,Kata Benda,ダイニングキッチン,ダイニングキッチン,dainingu kicchin,Ruang makan dengan dapur,Kata Benda,,,
+1277,22,Kata Benda,我,わ,wa,(Kepunyaan) Saya,Kata Benda,,,Contoh: わがいえ、わがくに
+1278,22,Kata Benda,和〜,わ〜,wa~,Ala Jepang (Tradisional Jepang),Kata Benda,,,
+1279,22,Kata Benda,和室,わしつ,washitsu,Kamar ala Jepang,Kata Benda,,,
+1280,22,Kata Benda,畳,たたみ,tatami,Tikar jerami Jepang,Kata Benda,,,
+1281,22,Kata Benda,布団,ふとん,futon,Matras Jepang,Kata Benda,,,
+1282,22,Kata Benda,押し入れ,おしいれ,oshiire,Lemari / Tempat penyimpanan ala Jepang,Kata Benda,,,
+1283,22,Kata Benda,和食,わしょく,washoku,Makanan ala Jepang,Kata Benda,,,
+1284,22,Kata Benda,和服,わふく,wafuku,Pakaian ala Jepang,Kata Benda,,,
+1285,22,Kata Benda,洋〜,よう〜,you~,Ala Barat,Kata Benda,,,
+1286,22,Kata Benda,洋室,ようしつ,youshitsu,Kamar ala Barat,Kata Benda,,,
+1287,22,Kata Benda,洋食,ようしょく,youshoku,Makanan ala Barat,Kata Benda,,,
+1288,22,Kata Benda,洋服,ようふく,youfuku,Pakaian ala Barat,Kata Benda,,,
+1289,22,Kata Benda,パリ,パリ,pari,Paris,Kata Benda,,,
+1290,23,Kata Kerja,効きます,ききます,kikimasu,Manjur / Berpengaruh (obat),Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1291,23,Kata Kerja,聴きます,ききます,kikimasu,Mendengarkan (lagu dll.),Kata Kerja,Godan (I),Tadoushi (Transitif),
+1292,23,Kata Kerja,利きます,ききます,kikimasu,Berguna / Bermanfaat,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1293,23,Kata Kerja,訊きます,ききます,kikimasu,Bertanya (secara langsung),Kata Kerja,Godan (I),Tadoushi (Transitif),
+1294,23,Kata Kerja,回します,まわします,mawashimasu,Memutar,Kata Kerja,Godan (I),Tadoushi (Transitif),「OBJEKを」まわします
+1295,23,Kata Benda,紐,ひも,himo,Tali (besar),Kata Benda,,,
+1296,23,Kata Benda,糸,いと,ito,Benang / Tali (kecil),Kata Benda,,,
+1297,23,Kata Kerja,触ります,さわります,sawarimasu,Menyentuh,Kata Kerja,Godan (I),Tadoushi (Transitif),Contoh: ドアにさわります
+1298,23,Kata Kerja,歩いて行きます,あるいていきます,aruite ikimasu,Pergi dengan berjalan kaki,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1299,23,Kata Benda,橋,はし,hashi,Jembatan,Kata Benda,,,
+1300,23,Kata Benda,端,はし,hashi,Sudut (benda),Kata Benda,,,
+1301,23,Kata Sifat,寂しい,さびしい,sabishii,Sepi,Kata Sifat (I),,,
+1302,23,Kata Benda,音,おと,oto,"Bunyi (alat musik, hujan)",Kata Benda,,,
+1303,23,Kata Benda,声,こえ,koe,Suara (orang),Kata Benda,,,
+1304,23,Kata Benda,鳴き声,なきごえ,nakigoe,Kicauan / Raungan (suara hewan),Kata Benda,,,
+1305,23,Kata Benda,サイズ,サイズ,saizu,Ukuran,Kata Benda,,,
+1306,23,Kata Benda,故障,こしょう,koshou,Kerusakan (mesin),Kata Benda,,,
+1307,23,Kata Kerja,故障します,こしょうします,koshou shimasu,Rusak (mesin),Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+1308,23,Kata Benda,交差点,こうさてん,kousaten,Perempatan,Kata Benda,,,
+1309,23,Kata Benda,角,かど,kado,"Sudut, Pojok (ruangan)",Kata Benda,,,
+1310,23,Kata Benda,駐車場,ちゅうしゃじょう,chuushajou,Tempat parkir,Kata Benda,,,
+1311,23,Kata Benda,駐車,ちゅうしゃ,chuusha,Parkir,Kata Benda,,,
+1312,23,Kata Kerja,駐車します,ちゅうしゃします,chuusha shimasu,Memarkirkan,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1313,23,Kata Benda,建物,たてもの,tatemono,Gedung,Kata Benda,,,
+1314,23,Ekspresi,何回も,なんかいも,nankaimo,Berkali-kali,Ekspresi,,,#NAME?
+1315,23,Ekspresi,～回目,～かいめ,~kaime,Yang ke ～ (urutan),Ekspresi,,,"Contoh: いっかいめ = yang ke-1, にかいめ = yang ke-2 dll."
+1316,24,Kata Kerja,直します,なおします,naoshimasu,Memperbaiki,Kata Kerja,Godan (I),Tadoushi (Transitif),オブジェクト「を」なおします
+1317,24,Kata Kerja,治します,なおします,naoshimasu,Menyembuhkan,Kata Kerja,Godan (I),Tadoushi (Transitif),オブジェクト「を」なおします
+1318,24,Kata Kerja,直ります,なおります,naorimasu,(Telah Betul) Diperbaiki,Kata Kerja,Godan (I),Jidoushi (Intransitif),オブジェクト「が」なおります
+1319,24,Kata Kerja,治ります,なおります,naorimasu,Sembuh,Kata Kerja,Godan (I),Jidoushi (Intransitif),オブジェクト「が」なおります
+1320,24,Kata Kerja,連れて行きます,つれていきます,tsurete ikimasu,Membawa / Mengajak pergi,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1321,24,Kata Kerja,連れて来ます,つれてきます,tsurete kimasu,Membawa / Mengajak datang,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1322,24,Kata Benda,自己紹介,じこしょうかい,jikoshoukai,Perkenalan diri,Kata Benda,,,
+1323,24,Kata Kerja,自己紹介します,じこしょうかいします,jikoshoukai shimasu,Memperkenalkan diri,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1324,24,Kata Benda,紹介,しょうかい,shoukai,Perkenalan,Kata Benda,,,
+1325,24,Kata Kerja,紹介します,しょうかいします,shoukai shimasu,Memperkenalkan,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1326,24,Kata Benda,案内,あんない,annai,Panduan / Guiding,Kata Benda,,,
+1327,24,Kata Kerja,案内します,あんないします,annai shimasu,Memandu,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1328,24,Kata Benda,説明,せつめい,setsumei,Penjelasan,Kata Benda,,,
+1329,24,Kata Kerja,説明します,せつめいします,setsumei shimasu,Menjelaskan,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1330,24,Kata Benda,準備,じゅんび,junbi,Persiapan,Kata Benda,,,
+1331,24,Kata Kerja,準備します,じゅんびします,junbi shimasu,Mempersiapkan,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1332,24,Kata Benda,引っ越し,ひっこし,hikkoshi,Pindahan (rumah),Kata Benda,,,
+1333,24,Kata Kerja,引っ越しします,ひっこしします,hikkoshi shimasu,Pindah (rumah),Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+1334,24,Kata Benda,おじいさん,おじいさん,ojiisan,Kakek,Kata Benda,,,#NAME?
+1335,24,Kata Benda,おばあさん,おばあさん,obaasan,Nenek,Kata Benda,,,#NAME?
+1336,24,Kata Benda,お菓子,おかし,okashi,Jajan / Snack / Camilan,Kata Benda,,,
+1337,24,Kata Benda,和菓子,わがし,wagashi,Jajan / Snack / Camilan (ala Jepang),Kata Benda,,,
+1338,24,Kata Benda,ホームステイ,ホームステイ,hoomu sutei,Homestay,Kata Benda,,,
+1339,24,Ekspresi,全部,ぜんぶ,zenbu,Semua,Ekspresi,,,
+1340,24,Ekspresi,自分で,じぶんで,jibun de,Sendirian / Melakukan sesuatu sendiri (tanpa bantuan orang lain),Ekspresi,,,
+1341,24,Ekspresi,一人で,ひとりで,hitori de,Sendirian / Melakukan sesuatu sendiri (tanpa kehadiran orang lain),Ekspresi,,,
+1342,24,Ekspresi,他に,ほかに,hoka ni,Selain / Yang lain,Ekspresi,,,Contoh: あなたのほかに、わたしがすきなひとはいません
+1343,24,Kata Benda,母の日,ははのひ,haha no hi,Hari Ibu,Kata Benda,,,
+1344,25,Kata Kerja,考えます,かんがえます,kangaemasu,Berpikir (logika / nalar),Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1345,25,Kata Kerja,点きます,つきます,tsukimasu,Menyala (lampu dll.),Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1346,25,Kata Kerja,着きます,つきます,tsukimasu,Tiba,Kata Kerja,Godan (I),Jidoushi (Intransitif),Contoh: えきにつきました
+1347,25,Kata Benda,故郷,こきょう,kokyou,Kampung halaman,Kata Benda,,,
+1348,25,Kata Benda,実家,じっか,jikka,Kampung halaman (rumah sebenarnya),Kata Benda,,,
+1349,25,Kata Benda,チャンス,チャンス,chansu,Kesempatan,Kata Benda,,,
+1350,25,Kata Benda,億,おく,oku,Ratusan juta,Kata Benda,,,
+1351,25,Ekspresi,もし,もし,moshi,Kalau / Misal / Seandainya (penekanan opsional),Ekspresi,,,
+1352,25,Kata Benda,意味,いみ,imi,Arti / Makna,Kata Benda,,,Contoh: このかんじのいみはなんですか？
+1353,25,Ekspresi,もしもし,もしもし,moshimoshi,(Ungkapan menelpon) Halo ...,Ekspresi,,,
+1354,25,Kata Benda,転勤,てんきん,tenkin,Mutasi (pindahan kantor),Kata Benda,,,
+1355,25,Kata Benda,転職,てんしょく,tenshoku,Pindah perusahaan,Kata Benda,,,
+1356,25,Kata Benda,こと,こと,koto,Hal,Kata Benda,,,Digunakan untuk mengubah kata kerja menjadi kata benda
+1357,25,Ekspresi,いつもお世話になっています,いつもおせわになっています,itsumo osewa ni natteimasu,Terimakasih atas bantuannya selalu,Ekspresi,,,Ungkapan salam formal
+1358,25,Ekspresi,いつもお世話になっております,いつもおせわになっております,itsumo osewa ni natte orimasu,(Hormat) Terimakasih atas bantuannya selalu,Ekspresi,,,
+1359,25,Ekspresi,いろいろお世話になりました,いろいろおせわになりました,iroiro osewa ni narimashita,Terimakasih atas bantuannya selama ini,Ekspresi,,,Ungkapan perpisahan
+1360,25,Kata Kerja,世話をします,せわをします,sewa wo shimasu,Merawat,Kata Kerja,Irregular (III),Tadoushi (Transitif),Contoh: いぬのせわをします
+1361,25,Kata Kerja,頑張ります,がんばります,ganbarimasu,Berusaha / Bekerja keras (semangat),Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1362,25,Ekspresi,がんばってください,がんばってください,ganbatte kudasai,Bersemangatlah!,Ekspresi,,,
+1363,25,Ekspresi,がんばりましょう,がんばりましょう,ganbarimashou,Ayo (kita) bersemangat!,Ekspresi,,,
+1364,25,Ekspresi,はい、がんばります,はい、がんばります,"hai, ganbarimasu","Ya, saya akan bersemangat",Ekspresi,,,
+1365,25,Ekspresi,はい、がんばりましょう,はい、がんばりましょう,"hai, ganbarimashou",Ayo (kita) bersemangat!,Ekspresi,,,
+1366,25,Ekspresi,どうぞお元気で,どうぞおげんきで,douzo ogenki de,Semoga sehat-sehat selalu (perpisahan panjang),Ekspresi,,,
+1367,25,Kata Benda,ベトナム,ベトナム,betonamu,Vietnam,Kata Benda,,,
+1368,26,Kata Kerja,捜します,さがします,sagashimasu,Mencari sesuatu yang hilang,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1369,26,Kata Kerja,遅れます,おくれます,okuremasu,Terlambat,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),Contoh: じかんに/かいぎに/がっこうに/かいしゃに おくれます
+1370,26,Kata Kerja,間に合います,まにあいます,maniaimasu,Sempat / Keburu (Tepat waktu),Kata Kerja,Godan (I),Jidoushi (Intransitif),Contoh: じかんに/かいぎに/がっこうに/かいしゃに まにあいます
+1371,26,Kata Kerja,やります,やります,yarimasu,Melakukan / Mengerjakan,Kata Kerja,Godan (I),Tadoushi (Transitif),Tidak digunakan untuk: 結婚・スポーツ・勉強
+1372,26,Kata Kerja,スポーツをします,スポーツをします,supootsu o shimasu,Berolahraga,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1373,26,Kata Kerja,連絡します,れんらくします,renraku shimasu,"Menghubungi, mengabari",Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1374,26,Kata Sifat (I),気分がいい,きぶんがいい,kibun ga ii,Kondisi (Mood) baik,Kata Sifat (I),,,
+1375,26,Kata Sifat (I),気分が悪い,きぶんがわるい,kibun ga warui,Kondisi (Mood) buruk,Kata Sifat (I),,,
+1376,26,Kata Sifat (I),体調がいい,たいちょうがいい,taichou ga ii,Kondisi (Kesehatan) baik,Kata Sifat (I),,,
+1377,26,Kata Sifat (I),体調が悪い,たいちょうがわるい,taichou ga warui,Kondisi (Kesehatan) buruk,Kata Sifat (I),,,
+1378,26,Kata Sifat (I),気持ちがいい,きもちがいい,kimochi ga ii,Kondisi (Perasaan) baik,Kata Sifat (I),,,
+1379,26,Kata Sifat (I),気持ちが悪い,きもちがわるい,kimochi ga warui,Kondisi (Perasaan) buruk,Kata Sifat (I),,,
+1380,26,Kata Benda,運動会,うんどうかい,undoukai,Festival / Perayaan Olahraga,Kata Benda,,,
+1381,26,Kata Benda,運動,うんどう,undou,Olahraga,Kata Benda,,,
+1382,26,Kata Kerja,運動します,うんどうします,undou shimasu,Berolahraga,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1383,26,Kata Benda,盆踊り,ぼんおどり,bon odori,Tarian Bon,Kata Benda,,,
+1384,26,Kata Benda,盆祭り,ぼんまつり,bon matsuri,Festival Bon,Kata Benda,,,
+1385,26,Kata Benda,踊り,おどり,odori,Tarian,Kata Benda,,,
+1386,26,Kata Kerja,踊ります,おどります,odorimasu,Menari,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1387,26,Kata Benda,フリーマーケット,フリーマーケット,furi maaketto,Flea Market Lapak Dadakan,Kata Benda,,,
+1388,26,Kata Benda,ボランティア,ボランティア,borantia,Volunteer Sukarelawan,Kata Benda,,,
+1389,26,Kata Benda,財布,さいふ,saifu,Dompet,Kata Benda,,,
+1390,26,Kata Benda,交番,こうばん,kouban,Pos Polisi,Kata Benda,,,
+1391,26,Kata Benda,塵／ゴミ,ごみ／ゴミ,gomi,Sampah,Kata Benda,,,
+1392,26,Kata Benda,国会議事堂,こっかいぎじどう,kokkaigijidou,Gedung Parlemen,Kata Benda,,,
+1393,26,Kata Benda,祝日,しゅくじつ,shukujitsu,Hari Raya (Hari Libur),Kata Benda,,,
+1394,26,Kata Benda,関西弁,かんさいべん,kansaiben,Dialek Kansai,Kata Benda,,,Termasuk Osaka弁（おおさかべん）
+1395,26,Kata Benda,沖縄弁,おきなわべん,okinawaben,Dialek Okinawa,Kata Benda,,,
+1396,26,Kata Benda,関東,かんとう,kantou,Wilayah Kanto,Kata Benda,,,
+1397,26,Kata Benda,東京,とうきょう,toukyou,Tokyo (Tanpa Dialek),Kata Benda,,,
+1398,26,Kata Benda,標準語,ひょうじゅんご,hyoujungo,Bahasa Standar,Kata Benda,,,
+1399,26,Kata Benda,今度,こんど,kondo,Lain Kali / Kali ini,Kata Benda,,,
+1400,26,Kata Benda,随分,ずいぶん,zuibun,Sangat / Amat,Kata Benda,,,
+1401,26,Kata Benda,直接,ちょくせつ,chokusetsu,Secara Langsung,Kata Benda,,,
+1402,26,Kata Benda,どこも,どこも,dokomo,Ke/Di manapun {Negatif},Kata Benda,,,{Kata Tanya + も}
+1403,26,Kata Benda,だれも,だれも,daremo,Siapapun {Negatif},Kata Benda,,,{Kata Tanya + も}
+1404,26,Kata Benda,なにも,なにも,nanimo,Apapun {Negatif},Kata Benda,,,{Kata Tanya + も}
+1405,26,Kata Benda,いつでも,いつでも,itsudemo,Kapanpun {Positif},Kata Benda,,,{Kata Tanya + でも}
+1406,26,Kata Benda,どこでも,どこでも,dokodemo,Ke/Di manapun {Positif},Kata Benda,,,Contoh: Doraemon どこでもドア
+1407,26,Kata Benda,だれでも,だれでも,daredemo,Siapapun {Positif},Kata Benda,,,
+1408,26,Kata Benda,なんでも,なんでも,nandemo,Apapun {Positif},Kata Benda,,,
+1409,26,Kata Benda,こんな,こんな,konna,~Yang begini / seperti ini,Kata Benda,,,Digunakan dengan Kata Benda
+1410,26,Kata Benda,そんな,そんな,sonna,~Yang begitu / seperti itu,Kata Benda,,,Digunakan dengan Kata Benda
+1411,26,Kata Benda,あんな,あんな,anna,~Yang begitu / seperti itu [jauh],Kata Benda,,,Digunakan dengan Kata Benda
+1412,26,Kata Kerja,片付きます,かたづきます,katazukimasu,(Kondisi) [barang] beres,Kata Kerja,Godan (I),Jidoushi (Intransitif),にもつがかたづきます
+1413,26,Kata Kerja,片付けます,かたづけます,katazukemasu,(Kegiatan) membereskan [barang],Kata Kerja,Ichidan (II),Tadoushi (Transitif),にもつをかたづけます
+1414,26,Kata Benda,燃えるごみ,もえるごみ,moeru gomi,Sampah yang dapat terbakar {Sampah Organik},Kata Benda,,,
+1415,26,Kata Benda,燃えないごみ,もえないごみ,moenai gomi,Sampah yang TIDAK dapat terbakar {Sampah Non-Organik},Kata Benda,,,
+1416,26,Kata Benda,ごみの置き場,ごみのおきば,gomi no okiba,Tempat Meletakkan Sampah,Kata Benda,,,Tidak selalu untuk sampah
+1417,26,Kata Benda,置き場,おきば,okiba,Tempat Meletakkan / Menaruh,Kata Benda,,,
+1418,26,Kata Benda,～場,～ば,~ba,Tempat,Kata Benda,,,Akhiran umum untuk tempat
+1419,26,Kata Benda,瓶,びん,bin,Botol,Kata Benda,,,
+1420,26,Kata Benda,缶,かん,kan,Kaleng,Kata Benda,,,
+1421,26,Kata Benda,ガス,ガス,gasu,Gas,Kata Benda,,,
+1422,26,Kata Benda,宇宙,うちゅう,uchuu,Angkasa (Luar Angkasa),Kata Benda,,,
+1423,26,Kata Benda,宇宙人,うちゅうじん,uchuujin,Alien,Kata Benda,,,
+1424,26,Kata Benda,宇宙船,うちゅうせん,uchuusen,Kapal Antariksa,Kata Benda,,,
+1425,26,Kata Benda,宇宙ステーション,うちゅうステーション,uchuu suteeshon,Stasiun Antariksa,Kata Benda,,,
+1426,26,Kata Benda,宇宙飛行士,うちゅうひこうし,uchuuhikoushi,Astronot,Kata Benda,,,
+1427,26,Kata Sifat (I),怖い,こわい,kowai,Takut / Menakutkan,Kata Sifat (I),,,
+1428,27,Kata Kerja,飼います,かいます,kaimasu,Memelihara,Kata Kerja,Godan (I),Tadoushi (Transitif),Contoh: ペット／ねこ／いぬ／さかな を かいます
+1429,27,Kata Benda,ペット,ペット,petto,Pet Peliharaan,Kata Benda,,,
+1430,27,Kata Kerja,聞こえます,きこえます,kikoemasu,Terdengar,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),Contoh: おんがく／おと がきこえます
+1431,27,Kata Kerja,見えます,みえます,miemasu,Terlihat,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),Contoh: うみ／やま がみえます
+1432,27,Kata Kerja,開きます,ひらきます,hirakimasu,Membuka / Mengadakan,Kata Kerja,Godan (I),Tadoushi (Transitif),Kesan puitis / abstrak: ドア／りょうりのきょうしつ をひらきます
+1433,27,Kata Sifat (Na),心配（な）,しんぱい（な）,shinpai (na),Khawatir,Kata Sifat (Na),,,
+1434,27,Kata Benda,波,なみ,nami,Ombak,Kata Benda,,,
+1435,27,Kata Benda,津波,つなみ,tsunami,TSUNAMI Ombak yang Tinggi / Besar,Kata Benda,,,
+1436,27,Kata Benda,花火,はなび,hanabi,Kembang Api,Kata Benda,,,
+1437,27,Kata Benda,火,ひ,hi,Api,Kata Benda,,,
+1438,27,Kata Benda,道具,どうぐ,dougu,Alat,Kata Benda,,,
+1439,27,Kata Benda,クリーニング,クリーニング,kuriiningu,Cleaning LAUNDRY,Kata Benda,,,
+1440,27,Kata Benda,クリーニング屋,クリーニングや,kuriininguya,(Toko) Laundry,Kata Benda,,,
+1441,27,Kata Benda,アパート,アパート,apaato,Apartment Rumah Susun,Kata Benda,,,
+1442,27,Kata Benda,マンション,マンション,manshon,Mansion Apartment,Kata Benda,,,
+1443,27,Kata Benda,キッチン,キッチン,kicchin,Kitchen Dapur,Kata Benda,,,
+1444,27,Kata Benda,台所,だいどころ,daidokoro,Dapur,Kata Benda,,,
+1445,27,Kata Benda,～教室,～きょうしつ,~kyoushitsu,Kursus ...,Kata Benda,,,Contoh: りょうりきょうしつ／にほんごきょうしつ
+1446,27,Kata Benda,パーティールーム,パーティールーム,paatii ruumu,Party Room Ruangan Pesta,Kata Benda,,,
+1447,27,Kata Benda,方（人）,かた（ひと）,kata (hito),Orang (bentuk sopan dari ひと),Kata Benda,,,
+1448,27,Kata Benda,～後,～ご,~go,Sesudah / Setelah ...,Kata Benda,,,Contoh: しょくじご／かいぎご
+1449,27,Kata Partikel,～しか,～しか,~shika,Hanya (Tersisa) {Kalimat Negatif},Kata Partikel,,,Contoh: １０００えんしかありません。
+1450,27,Kata Benda,他の～,ほかの～,hoka no ~,~ yang lain,Kata Benda,,,Contoh: ほかのひと／ほかのせんせい
+1451,27,Kata Keterangan,はっきり,はっきり,hakkiri,Dengan / Secara Jelas,Kata Keterangan,,,Contoh: はっきりいってください・みえます・きこえます
+1452,28,Kata Kerja,売れます,うれます,ure masu,Terjual,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),Contoh: パンがうれます
+1453,28,Kata Kerja,ダンスします,ダンスします,dansu shimasu,Menari (Tarian Modern),Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1454,28,Kata Kerja,噛みます,かみます,kamimasu,Menggigit,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1455,28,Kata Kerja,選びます,えらびます,erabimasu,Memilih,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1456,28,Kata Kerja,通います,かよいます,kayoimasu,Pulang Pergi Rutin (to commute),Kata Kerja,Godan (I),Jidoushi (Intransitif),Contoh: 大学にかよいます
+1457,28,Kata Kerja,メモします,メモします,memo shimasu,Mencatat (Memo),Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1458,28,Kata Benda,メモ,メモ,memo,Catatan (Memo),Kata Benda,,,
+1459,28,Kata Sifat (Na),真面目,まじめ,majime,Serius {Taat Aturan},Kata Sifat (Na),,,
+1460,28,Kata Sifat (Na),熱心,ねっしん,nesshin,Antusias / Tekun,Kata Sifat (Na),,,
+1461,28,Kata Benda,心,こころ,kokoro,Hati,Kata Benda,,,
+1462,28,Kata Sifat (I),偉い,えらい,erai,Hebat (Salut),Kata Sifat (I),,,"Contoh: えらい人（orang terhormat, pejabat, dsb）"
+1463,28,Kata Sifat (I),丁度いい,ちょうどいい,choudo ii,"Pas, Cocok",Kata Sifat (I),,,
+1464,28,Kata Benda,景色,けしき,keshiki,Pemandangan,Kata Benda,,,
+1465,28,Kata Benda,経験,けいけん,keiken,Pengalaman,Kata Benda,,,
+1466,28,Kata Kerja,経験します,けいけんします,keiken shimasu,Mengalami ...,Kata Kerja,Irregular (III),Tadoushi (Transitif),Contoh: いいけいけん／わるいけいけんをしました
+1467,28,Kata Benda,力,ちから,chikara,Tenaga,Kata Benda,,,
+1468,28,Kata Benda,人気,にんき,ninki,Popularitas,Kata Benda,,,Contoh: 学生に人気があります
+1469,28,Kata Benda,形,かたち,katachi,Bentuk,Kata Benda,,,
+1470,28,Kata Benda,色,いろ,iro,Warna,Kata Benda,,,
+1471,28,Kata Benda,味,あじ,aji,Rasa,Kata Benda,,,
+1472,28,Kata Benda,うまみ,うまみ,umami,Umami,Kata Benda,,,Contoh: 味の素（あじのもと）Ajinomoto
+1473,28,Kata Benda,ガム,ガム,gamu,Permen karet,Kata Benda,,,
+1474,28,Kata Benda,品物,しなもの,shinamono,Barang (dagangan) / Produk,Kata Benda,,,
+1475,28,Kata Benda,値段,ねだん,nedan,Harga,Kata Benda,,,
+1476,28,Kata Benda,給料,きゅうりょう,kyuuryou,Gaji,Kata Benda,,,
+1477,28,Kata Benda,給与,きゅうよ,kyuuyo,Gaji (Situasi Formal / Resmi),Kata Benda,,,
+1478,28,Kata Benda,賃金,ちんぎん,chingin,Wages,Kata Benda,,,
+1479,28,Kata Benda,最低賃金,さいていちんぎん,saiteichingin,Minimum Wages (UMR),Kata Benda,,,
+1480,28,Kata Benda,ボーナス,ボーナス,boonasu,Bonus,Kata Benda,,,
+1481,28,Kata Benda,ゲーム,ゲーム,geemu,Game,Kata Benda,,,
+1482,28,Kata Benda,番組,ばんぐみ,bangumi,Program / Acara TV,Kata Benda,,,
+1483,28,Kata Benda,ドラマ,ドラマ,dorama,Drama,Kata Benda,,,
+1484,28,Kata Benda,歌手,かしゅ,kashu,Penyanyi,Kata Benda,,,
+1485,28,Kata Benda,小説,しょうせつ,shousetsu,Novel,Kata Benda,,,
+1486,28,Kata Benda,小説家,しょうせつか,shousetsuka,Penulis Novel / Novelis,Kata Benda,,,～家（か）= Aliran ~
+1487,28,Kata Benda,洗濯,せんたく,sentaku,Cucian,Kata Benda,,,～機（き）= Mesin ~
+1488,28,Kata Benda,洗濯機,せんたくき,sentakuki,Mesin Cuci,Kata Benda,,,
+1489,28,Kata Benda,掃除,そうじ,souji,Bebersih,Kata Benda,,,
+1490,28,Kata Benda,掃除機,そうじき,soujiki,Alat bebersih Vacuum Cleaner,Kata Benda,,,
+1491,28,Kata Benda,息子,むすこ,musuko,Putra / Anak laki-laki (Sendiri),Kata Benda,,,
+1492,28,Kata Benda,娘,むすめ,musume,Putri / Anak perempuan (Sendiri),Kata Benda,,,
+1493,28,Kata Benda,息子さん,むすこさん,musukosan,Putra / Anak laki-laki (Orang Lain),Kata Benda,,,
+1494,28,Kata Benda,娘さん,むすめさん,musumesan,Putri / Anak perempuan (Orang Lain),Kata Benda,,,
+1495,28,Kata Benda,自分,じぶん,jibun,Diri sendiri,Kata Benda,,,
+1496,28,Kata Benda,将来,しょうらい,shourai,Masa depan (Skala kecil),Kata Benda,,,
+1497,28,Kata Benda,未来,みらい,mirai,Masa depan (Skala besar),Kata Benda,,,
+1498,28,Kata Keterangan,しばらく,しばらく,shibaraku,"Sementara Waktu, Sebentar (lebih lama dari ちょっと)",Kata Keterangan,,,
+1499,28,Kata Keterangan,たいてい,たいてい,taitei,Kebanyakan / Dalam banyak situasi / Biasanya,Kata Keterangan,,,
+1500,28,Kata Keterangan,ふだん,ふだん,fudan,Biasanya,Kata Keterangan,,,
+1501,28,Kata Keterangan,それに,それに,soreni,Dan juga / dan lagi ...,Kata Keterangan,,,
+1502,28,Kata Keterangan,それで,それで,sorede,Dan / Lalu / Kemudian / Sehingga,Kata Keterangan,,,
+1503,28,Frasa,お願いがあるんですが,おねがいがあるんですが,onegai ga arun desu ga,Saya ada sedikit permohonan / permintaan tolong,Frasa,,,
+1504,28,Kata Keterangan,実は,じつは,jitsu wa,Faktanya / Sebenarnya,Kata Keterangan,,,Latar belakang permohonan
+1505,28,Kata Keterangan,本当は,ほんとうは,hontou wa,Betulnya / Sebenarnya,Kata Keterangan,,,
+1506,28,Kata Benda,会話,かいわ,kaiwa,Percakapan,Kata Benda,,,
+1507,28,Ekspresi,うーん,うーん,uun,Mmm... (ekspresi berpikir / ragu),Ekspresi,,,
+1508,28,Kata Benda,お知らせ,おしらせ,oshirase,Pengumuman / Pemberitahuan,Kata Benda,,,
+1509,28,Kata Kerja,参加します,さんかします,sanka shimasu,Ikut serta / Berpartisipasi,Kata Kerja,Irregular (III),Jidoushi (Intransitif),Partikel: 「に」 acara
+1510,28,Kata Benda,日にち,ひにち,hinichi,Hari dan Tanggal,Kata Benda,,,
+1511,28,Frasa,ごみをすてる日,ごみをすてるひ,gomi o suteru hi,Hari membuang sampah,Frasa,,,Contoh: （月・水・金）
+1512,28,Kata Benda,体育館,たいいくかん,taiikukan,Gymnasium (gedung olahraga),Kata Benda,,,
+1513,28,Kata Benda,無料,むりょう,muryou,Gratis / Cuma-cuma,Kata Benda,,,
+1514,28,Kata Kerja,誘います,さそいます,sasoimasu,Mengajak,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1515,28,Kata Benda,イベント,イベント,ibento,Event / Acara,Kata Benda,,,
+1516,29,Kata Kerja,壊します,こわします,kowashimasu,Merusak (Kursi),Kata Kerja,Godan (I),Tadoushi (Transitif),いすをこわします
+1517,29,Kata Kerja,割ります,わります,warimasu,Memecahkan (Cangkir),Kata Kerja,Godan (I),Tadoushi (Transitif),コップをわります
+1518,29,Kata Kerja,折ります,おります,orimasu,Mematahkan (Pohon) / Melipat (Kertas),Kata Kerja,Godan (I),Tadoushi (Transitif),き（木）をおります
+1519,29,Kata Kerja,破ります,やぶります,yaburimasu,Merobek (Kertas),Kata Kerja,Godan (I),Tadoushi (Transitif),かみをやぶります
+1520,29,Kata Kerja,汚します,よごします,yogoshimasu,Mengotori (Baju),Kata Kerja,Godan (I),Tadoushi (Transitif),ふくをよごします
+1521,29,Kata Kerja,付けます,つけます,tsukemasu,Memasang (Kantong),Kata Kerja,Ichidan (II),Tadoushi (Transitif),ポケットをつけます
+1522,29,Kata Kerja,外します,はずします,hazushimasu,Melepas (Kancing) / Meninggalkan {tempat},Kata Kerja,Godan (I),Tadoushi (Transitif),ボタンをはずします、せきをはずします
+1523,29,Kata Kerja,落とします,おとします,otoshimasu,Menjatuhkan Dompet,Kata Kerja,Godan (I),Tadoushi (Transitif),さいふをおとします
+1524,29,Kata Kerja,片づけます,かたづけます,katazukemasu,Membereskan / Merapikan Kamar,Kata Kerja,Ichidan (II),Tadoushi (Transitif),へやをかたづけます
+1525,29,Kata Kerja,倒します,たおします,taoshimasu,Menjatuhkan / Menumbangkan Orang,Kata Kerja,Godan (I),Tadoushi (Transitif),ひとをたおします
+1526,29,Kata Kerja,燃やします,もやします,moyashimasu,Membakar Sampah,Kata Kerja,Godan (I),Tadoushi (Transitif),ごみをもやします
+1527,29,Kata Kerja,閉まります,しまります,shimarimasu,(Pintu) Tertutup,Kata Kerja,Godan (I),Jidoushi (Intransitif),ドアがしまります
+1528,29,Kata Kerja,つきます,つきます,tsukimasu,(Lampu) Menyala,Kata Kerja,Godan (I),Jidoushi (Intransitif),でんきがつきます
+1529,29,Kata Kerja,消えます,きえます,kiemasu,(Lampu) Padam,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),でんきがきえます
+1530,29,Kata Kerja,壊れます,こわれます,kowaremasu,(Kursi) Rusak,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),いすがこわれます
+1531,29,Kata Kerja,割れます,われます,waremasu,(Cangkir) Pecah,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),コップがわれます
+1532,29,Kata Kerja,折れます,おれます,oremasu,(Pohon) Patah,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),き（木）がおれます
+1533,29,Kata Kerja,破れます,やぶれます,yaburemasu,(Kertas) Robek,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),かみがやぶれます
+1534,29,Kata Kerja,汚れます,よごれます,yogoremasu,(Bajunya) Kotor,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),ふくがよごれます
+1535,29,Kata Kerja,付きます,つきます,tsukimasu,(Kantong) Terpasang,Kata Kerja,Godan (I),Jidoushi (Intransitif),ポケットがつきます
+1536,29,Kata Kerja,外れます,はずれます,hazuremasu,(Kancing) Terlepas,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),ボタンがはずれます
+1537,29,Kata Kerja,落ちます,おちます,ochimasu,Dompet Terjatuh,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),さいふがおちます
+1538,29,Kata Kerja,掛かります,かかります,kakarimasu,Terkunci,Kata Kerja,Godan (I),Jidoushi (Intransitif),かぎがかかります／ドアのかぎがかかります
+1539,29,Kata Kerja,片づきます,かたづきます,katazukimasu,(Kamar) menjadi rapi,Kata Kerja,Godan (I),Jidoushi (Intransitif),へやがかたづきます
+1540,29,Kata Kerja,倒れます,たおれます,taoremasu,(Orang) Jatuh,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),ひとがたおれます
+1541,29,Kata Kerja,燃えます,もえます,moemasu,(Sampah) Terbakar,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),ごみがもえます
+1542,29,Kata Kerja,間違えます,まちがえます,machigaemasu,Salah,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1543,29,Kata Kerja,拭きます,ふきます,fukimasu,Mengelap (Meja),Kata Kerja,Godan (I),Tadoushi (Transitif),テーブルをふきます
+1544,29,Kata Kerja,取り替えます,とりかえます,torikaemasu,Mengganti (Baterai),Kata Kerja,Ichidan (II),Tadoushi (Transitif),バッテリーをとりかえます
+1545,29,Kata Benda,お皿,おさら,osara,Piring,Kata Benda,,,
+1546,29,Kata Benda,お茶碗,おちゃわん,ochawan,Mangkuk,Kata Benda,,,
+1547,29,Kata Benda,コップ,コップ,koppu,Cup Cangkir,Kata Benda,,,
+1548,29,Kata Benda,グラス,グラス,gurasu,Glass Gelas,Kata Benda,,,
+1549,29,Kata Benda,ガラス,ガラス,garasu,Glass Kaca,Kata Benda,,,
+1550,29,Kata Benda,袋,ふくろ,fukuro,Kantong,Kata Benda,,,
+1551,29,Kata Benda,おふくろ（俗語）,おふくろ,ofukuro,Ibu (Bahasa Kasual/Lugas),Kata Benda,,,Hati-hati penggunaan
+1552,29,Kata Benda,枝,えだ,eda,Ranting,Kata Benda,,,
+1553,29,Kata Benda,木の枝,きのえだ,ki no eda,Ranting Pohon,Kata Benda,,,
+1554,29,Kata Benda,駅員,えきいん,ekiin,Pegawai Stasiun,Kata Benda,,,
+1555,29,Kata Benda,警察,けいさつ,keisatsu,Polisi,Kata Benda,,,
+1556,29,Kata Benda,おまわりさん,おまわりさん,omawarisan,Bapak / Ibu Polisi (sapaan),Kata Benda,,,
+1557,29,Kata Kerja,回ります,まわります,mawarimasu,Berputar / Mengelilingi / Berpatroli,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1558,29,Kata Benda,スピーチ,スピーチ,supiichi,Speech Pidato,Kata Benda,,,
+1559,29,Kata Kerja,スピーチをします,スピーチをします,supiichi o shimasu,Berpidato,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1560,29,Kata Benda,スピーチ大会,スピーチたいかい,supiichi taikai,Perlombaan Pidato,Kata Benda,,,
+1561,29,Kata Benda,返事,へんじ,henji,Jawaban (balasan kabar),Kata Benda,,,
+1562,29,Kata Kerja,返事をします,へんじをします,henji o shimasu,Memberikan balasan kabar,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1563,29,Ekspresi,お先にどうぞ,おさきにどうぞ,osaki ni douzo,Silakan Duluan,Ekspresi,,,
+1564,29,Ekspresi,先に失礼します,さきにしつれいします,saki ni shitsurei shimasu,Saya Permisi / Pamit Duluan,Ekspresi,,,
+1565,29,Kata Benda,源氏物語,げんじものがたり,genji monogatari,Kisah Genji (judul novel),Kata Benda,,,
+1566,29,Kata Benda,物語,ものがたり,monogatari,Kisah,Kata Benda,,,
+1567,29,Kata Benda,今の電車,いまのでんしゃ,ima no densha,Kereta barusan,Kata Benda,,,
+1568,29,Kata Benda,忘れ物,わすれもの,wasuremono,Barang yang tertinggal / terlupakan,Kata Benda,,,
+1569,29,Kata Keterangan,このくらい,このくらい,kono kurai,Segini,Kata Keterangan,,,
+1570,29,Kata Benda,～側,～がわ,~gawa,Sebelah ~,Kata Benda,,,
+1571,29,Kata Benda,ポケット,ポケット,poketto,Pocket Kantong,Kata Benda,,,
+1572,29,Kata Benda,～辺,～へん,~hen,Sekitar ~,Kata Benda,,,
+1573,29,Kata Benda,この辺,このへん,kono hen,Sekitar sini,Kata Benda,,,
+1574,29,Ekspresi,覚えていません,おぼえていません,oboeteimasen,Tidak ingat (kondisi sedang),Ekspresi,,,
+1575,29,Kata Benda,網棚,あみだな,amidana,Lemari Jaring / Rak Bagasi,Kata Benda,,,網 = jaring、棚 = lemari
+1576,29,Kata Benda,網,あみ,ami,Jaring,Kata Benda,,,
+1577,29,Kata Keterangan,確か,たしか,tashika,Kalau tidak salah,Kata Keterangan,,,
+1578,29,Kata Keterangan,確かに,たしかに,tashika ni,Memang benar...,Kata Keterangan,,,
+1579,29,Ekspresi,ああ、よかった,ああ、よかった,"aa, yokatta","{O,} Syukur / Lega",Ekspresi,,,
+1580,29,Kata Benda,新宿,しんじゅく,shinjuku,SHINJUKU (daerah di Tokyo),Kata Benda,,,
+1581,29,Kata Benda,地震,じしん,jishin,Gempa Bumi,Kata Benda,,,
+1582,29,Kata Benda,自信,じしん,jishin,Kepercayaan Diri,Kata Benda,,,"Penulisan sama, makna berbeda"
+1583,29,Kata Benda,壁,かべ,kabe,Dinding,Kata Benda,,,
+1584,29,Kata Benda,針,はり,hari,Jarum,Kata Benda,,,
+1585,29,Kata Kerja,指します,さします,sashimasu,Menunjuk,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1586,29,Kata Benda,駅前,えきまえ,ekimae,Depan Stasiun,Kata Benda,,,
+1587,29,Kata Benda,北,きた,kita,Utara,Kata Benda,,,
+1588,29,Kata Benda,南,みなみ,minami,Selatan,Kata Benda,,,
+1589,29,Kata Benda,西,にし,nishi,Barat,Kata Benda,,,
+1590,29,Kata Benda,東,ひがし,higashi,Timur,Kata Benda,,,
+1591,29,Kata Benda,～の方,～のほう,~no hou,(Arah) Sebelah ~,Kata Benda,,,
+1592,29,Kata Benda,前の方,まえのほう,mae no hou,Arah depan,Kata Benda,,,
+1593,29,Kata Benda,後ろの方,うしろのほう,ushiro no hou,Arah belakang,Kata Benda,,,
+1594,29,Kata Benda,レポーター,レポーター,repootaa,Reporter Wartawan / Jurnalis,Kata Benda,,,
+1595,30,Kata Kerja,貼ります,はります,harimasu,Menempelkan,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1596,30,Kata Kerja,掛けます,かけます,kakemasu,Menggantungkan,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1597,30,Kata Kerja,飾ります,かざります,kazarimasu,Menghiasi,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1598,30,Kata Kerja,並べます,ならべます,narabemasu,Menata / Mengantri,Kata Kerja,Ichidan (II),Tadoushi (Transitif),Contoh: おさらをならべます
+1599,30,Kata Kerja,並びます,ならびます,narabimasu,Tertata / Antri,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1600,30,Kata Kerja,植えます,うえます,uemasu,Menanam,Kata Kerja,Ichidan (II),Tadoushi (Transitif),Contoh: 木をうえます
+1601,30,Kata Kerja,まとめます,まとめます,matomemasu,Merangkum,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1602,30,Kata Kerja,しまいます,しまいます,shimaimasu,Menyimpan,Kata Kerja,Godan (I),Tadoushi (Transitif),Contoh: 財布を引き出しにしまいます
+1603,30,Kata Kerja,決めます,きめます,kimemasu,Menentukan / Memutuskan,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1604,30,Kata Kerja,予習します,よしゅうします,yoshuu shimasu,Belajar sebelum pelajaran,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1605,30,Kata Kerja,復習します,ふくしゅうします,fukushuu shimasu,Review pelajaran / Belajar setelah,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1606,30,Kata Kerja,そのままにします,そのままにします,sono mama ni shimasu,Membiarkan begitu (apa adanya),Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1607,30,Kata Benda,講義,こうぎ,kougi,Kuliah,Kata Benda,,,
+1608,30,Kata Benda,ミーティング,ミーティング,miitingu,Meeting Rapat,Kata Benda,,,
+1609,30,Kata Benda,予定,よてい,yotei,Rencana / Plan,Kata Benda,,,
+1610,30,Kata Kerja,お知らせします,おしらせします,oshirase shimasu,Mengumumkan,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1611,30,Kata Kerja,知らせます,しらせます,shirase masu,Mengumumkan,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1612,30,Kata Benda,ガイドブック,ガイドブック,gaido bukku,Guide Book Buku Panduan,Kata Benda,,,
+1613,30,Kata Benda,カレンダー,カレンダー,karendaa,Calendar Kalender,Kata Benda,,,
+1614,30,Kata Benda,ポスター,ポスター,posutaa,Poster Poster,Kata Benda,,,
+1615,30,Kata Benda,予定表,よていひょう,yoteihyou,Daftar / Bagan Rencana,Kata Benda,,,
+1616,30,Kata Benda,表,ひょう,hyou,Daftar / List / Bagan,Kata Benda,,,
+1617,30,Kata Benda,人形,にんぎょう,ningyou,Boneka / Orang-orangan,Kata Benda,,,
+1618,30,Kata Benda,ぬいぐるみ,ぬいぐるみ,nuigurumi,Boneka Kapas,Kata Benda,,,
+1619,30,Kata Benda,花瓶,かびん,kabin,Vas bunga,Kata Benda,,,
+1620,30,Kata Benda,鏡,かがみ,kagami,Cermin,Kata Benda,,,
+1621,30,Kata Benda,引き出し,ひきだし,hikidashi,Laci,Kata Benda,,,
+1622,30,Kata Benda,玄関,げんかん,genkan,Genkan Ruang Depan,Kata Benda,,,
+1623,30,Kata Benda,廊下,ろうか,rouka,Koridor / Lorong,Kata Benda,,,
+1624,30,Kata Benda,池,いけ,ike,Kolam,Kata Benda,,,
+1625,30,Kata Keterangan,もとの〜,もとの〜,moto no ~,Semula / Awal / Original,Kata Keterangan,,,Contoh: もとのところ、もとのかたち、もとかれしなど
+1626,30,Kata Benda,隅,すみ,sumi,Pojok / Sudut (ruangan),Kata Benda,,,
+1627,30,Kata Benda,リュックサック,リュックサック,ryukkusakku,Rucksack Ransel,Kata Benda,,,リュック = singkatan
+1628,30,Kata Benda,非常,ひじょう,hijou,Darurat,Kata Benda,,,
+1629,30,Kata Benda,非常袋,ひじょうぶくろ,hijou bukuro,Kantong Plastik Darurat,Kata Benda,,,
+1630,30,Kata Benda,非常時,ひじょうじ,hijouji,Saat Darurat,Kata Benda,,,
+1631,30,Kata Benda,非常口,ひじょうぐち,hijouguchi,Pintu Darurat,Kata Benda,,,
+1632,30,Kata Keterangan,非常に,ひじょうに,hijou ni,Sangat (bentuk hormat),Kata Keterangan,,,Sama arti dengan とても
+1633,30,Kata Kerja,生活します,せいかつします,seikatsu shimasu,Menjalani hidup,Kata Kerja,Irregular (III),Jidoushi (Intransitif),Contoh: にほんで〜、どくしんの〜
+1634,30,Kata Benda,懐中電灯,かいちゅうでんとう,kaichuu dentou,Senter,Kata Benda,,,
+1635,30,Pola Kalimat,～とか、～とか,～とか、～とか,"~toka, ~toka",~ atau ~ (contoh),Pola Kalimat,,,Digunakan untuk memberikan contoh
+1636,30,Kata Keterangan,たとえば,たとえば,tatoeba,Sebagai contohnya...,Kata Keterangan,,,
+1637,30,Kata Sifat (I),丸い,まるい,marui,Bulat / Bundar,Kata Sifat (I),,,
+1638,30,Frasa,ある〜,ある〜,aru~,Suatu ~,Frasa,,,Contoh: あるところ、あるひ
+1639,30,Kata Kerja,夢を見ます,ゆめをみます,yume o mimasu,Bermimpi,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1640,30,Kata Sifat (I),うれしい,うれしい,ureshii,(Perasaan) Senang,Kata Sifat (I),,,
+1641,30,Kata Sifat (I),たのしい,たのしい,tanoshii,(Sesuatu) Menyenangkan,Kata Sifat (I),,,
+1642,30,Kata Sifat (Na),嫌,いや,iya (na),Tidak suka / Benci / Tidak senang,Kata Sifat (Na),,,Setara dengan きらい
+1643,30,Pola Kalimat,～すると、,～すると、,"~suruto,",Kemudian ... (jika ~ maka ...),Pola Kalimat,,,
+1644,30,Kata Kerja,覚めます,さめます,samemasu,Terbangun (mata),Kata Kerja,Ichidan (II),Jidoushi (Intransitif),覚めます digunakan untuk mata / kesadaran
+1645,31,Kata Kerja,続けます,つづけます,tsuzukemasu,Melanjutkan,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1646,31,Kata Kerja,続きます,つづきます,tsuzukimasu,(ber~) Lanjut,Kata Kerja,Godan (I),Jidoushi (Intransitif),Bentuk kamus: つづく
+1647,31,Kata Kerja,試験を受けます,しけんをうけます,shiken o ukemasu,Mengikuti ujian,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1648,31,Kata Kerja,試験に合格します,しけんにごうかくします,shiken ni goukaku shimasu,Lulus ujian,Kata Kerja,Irregular (III),Jidoushi (Intransitif),Sama dengan うかります
+1649,31,Kata Kerja,試験に受かります,しけんにうかります,shiken ni ukarimasu,Lulus ujian,Kata Kerja,Godan (I),Jidoushi (Intransitif),Sama dengan ごうかくします
+1650,31,Kata Kerja,試験に不合格します,しけんにふごうかくします,shiken ni fugoukaku shimasu,Tidak lulus ujian,Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+1651,31,Kata Kerja,試験に落ちます,しけんにおちます,shiken ni ochimasu,Tidak lulus ujian,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),
+1652,31,Kata Kerja,申し込みます,もうしこみます,moushikomimasu,Mendaftar,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1653,31,Kata Benda,休憩,きゅうけい,kyuukei,Istirahat,Kata Benda,,,
+1654,31,Kata Kerja,休憩します,きゅうけいします,kyuukei shimasu,Beristirahat,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1655,31,Kata Benda,連休,れんきゅう,renkyuu,Libur panjang berturutan,Kata Benda,,,Mulai dari 2 hari
+1656,31,Kata Benda,作文,さくぶん,sakubun,Karangan,Kata Benda,,,
+1657,31,Kata Benda,発表,はっぴょう,happyou,Presentasi,Kata Benda,,,
+1658,31,Kata Kerja,発表します,はっぴょうします,happyou shimasu,Mempresentasikan,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1659,31,Kata Benda,展覧会,てんらんかい,tenrankai,Pameran,Kata Benda,,,
+1660,31,Kata Benda,～式,～しき,~shiki,Upacara,Kata Benda,,,
+1661,31,Kata Benda,結婚式,けっこんしき,kekkonshiki,Upacara Pernikahan,Kata Benda,,,ごけっこんおめでとうございます、末永くお幸せに
+1662,31,Kata Benda,葬式,おそうしき,osoushiki,Upacara Kematian,Kata Benda,,,ご愁傷様です、 お気の毒です
+1663,31,Kata Benda,本社,ほんしゃ,honsha,Kantor Pusat,Kata Benda,,,
+1664,31,Kata Benda,支社,ししゃ,shisha,Kantor Cabang,Kata Benda,,,
+1665,31,Kata Benda,本店,ほんてん,honten,Toko Pusat,Kata Benda,,,
+1666,31,Kata Benda,支店,してん,shiten,Toko Cabang,Kata Benda,,,
+1667,31,Kata Benda,教会,きょうかい,kyoukai,Gereja,Kata Benda,,,
+1668,31,Kata Benda,動物園,どうぶつえん,doubutsuen,Kebun Binatang,Kata Benda,,,
+1669,31,Kata Benda,温泉,おんせん,onsen,Pemandian Air Panas,Kata Benda,,,
+1670,31,Kata Benda,旅館,りょかん,ryokan,Penginapan Tradisional,Kata Benda,,,
+1671,31,Kata Benda,帰り,かえり,kaeri,Pulang,Kata Benda,,,Bentuk nominal dari 帰ります
+1672,31,Kata Benda,～号,～ごう,~gou,"Nomor (kereta, kamar, angin topan, dll.)",Kata Benda,,,Contoh: のぞみ４２ごう
+1673,31,Kata Benda,ピカソ,ピカソ,pikaso,Pablo Picasso (pelukis),Kata Benda,,,1881–1973
+1674,31,Kata Benda,のぞみ,のぞみ,nozomi,Nama Shinkansen,Kata Benda,,,Contoh: のぞみ４２ごう
+1675,31,Kata Benda,新神戸,しんこうべ,shinkoube,Nama stasiun,Kata Benda,,,
+1676,31,Kata Kerja,残ります,のこります,nokorimasu,Tinggal / Tersisa,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1677,31,Kata Kerja,残します,のこします,nokoshimasu,Meninggalkan / Menyisakan,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1678,31,Kata Benda,入学試験,にゅうがくしけん,nyuugaku shiken,Ujian masuk (sekolah / kampus),Kata Benda,,,Termasuk EJU
+1679,31,Kata Keterangan,月に,つきに,tsuki ni,Dalam sebulan,Kata Keterangan,,,
+1680,31,Kata Benda,手取り,てどり,tedori,Terima bersih (gaji),Kata Benda,,,"Setelah dipotong pajak, dll."
+1681,31,Kata Benda,映画館,えいがかん,eigakan,Gedung bioskop,Kata Benda,,,
+1682,31,Kata Kerja,閉じます,とじます,tojimasu,"Menutup (mata, buku – puitis)",Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1683,31,Kata Benda,都会,とかい,tokai,Kota besar,Kata Benda,,,
+1684,31,Kata Benda,子供たち,こどもたち,kodomotachi,Anak-anak (bentuk jamak),Kata Benda,,,
+1685,31,Kata Keterangan,自由に,じゆうに,jiyuu ni,Dengan bebas,Kata Keterangan,,,
+1686,32,Kata Benda,成功,せいこう,seikou,Berhasil / Sukses,Kata Benda,,,
+1687,32,Kata Kerja,成功します,せいこうします,seikou shimasu,Berhasil / Sukses,Kata Kerja,Irregular (III),Jidoushi (Intransitif),
+1688,32,Kata Benda,失敗,しっぱい,shippai,Kegagalan,Kata Benda,,,
+1689,32,Kata Kerja,失敗します,しっぱいします,shippai shimasu,Gagal,Kata Kerja,Irregular (III),Jidoushi (Intransitif),Termasuk hasil ujian
+1690,32,Kata Benda,合格,ごうかく,goukaku,Kelulusan (terhadap ujian),Kata Benda,,,
+1691,32,Kata Kerja,合格します,ごうかくします,goukaku shimasu,Lulus,Kata Kerja,Irregular (III),Jidoushi (Intransitif),Partikel: に
+1692,32,Kata Kerja,止みます,やみます,yamimasu,"Berhenti (hujan, salju)",Kata Kerja,Godan (I),Jidoushi (Intransitif),Contoh: あめがやみます、ゆきがやみます
+1693,32,Kata Benda,晴れ,はれ,hare,Cerah,Kata Benda,,,
+1694,32,Kata Kerja,晴れます,はれます,haremasu,Cerah (menjadi cerah),Kata Kerja,Ichidan (II),Jidoushi (Intransitif),Contoh: きょうははれました
+1695,32,Kata Kerja,曇ります,くもります,kumorimasu,Berawan / Mendung,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1696,32,Kata Kerja,風邪を引きます,かぜをひきます,kaze o hikimasu,Masuk angin,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1697,32,Kata Kerja,冷やします,ひやします,hiyashimasu,Mendinginkan,Kata Kerja,Godan (I),Tadoushi (Transitif),
+1698,32,Kata Kerja,冷えます,ひえます,hiemasu,(Menjadi) Dingin,Kata Kerja,Ichidan (II),Jidoushi (Intransitif),
+1699,32,Kata Kerja,込みます,こみます,komimasu,Ramai / Macet,Kata Kerja,Godan (I),Jidoushi (Intransitif),Contoh: みちがこみます
+1700,32,Kata Kerja,空きます,すきます,sukimasu,Sepi / Lowong,Kata Kerja,Godan (I),Jidoushi (Intransitif),Contoh: みちがすきます、お腹がすきます
+1701,32,Kata Sifat (Na),十分,じゅうぶん「な」,juubun (na),Dengan cukup,Kata Sifat (Na),,,
+1702,32,Kata Sifat (I),おかしい,おかしい,okashii,Aneh / Unik,Kata Sifat (I),,,
+1703,32,Kata Sifat (I),うるさい,うるさい,urusai,Berisik / Bising,Kata Sifat (I),,,
+1704,32,Kata Benda,火傷,やけど,yakedo,Luka bakar,Kata Benda,,,
+1705,32,Kata Kerja,火傷をします,やけどをします,yakedo o shimasu,Menderita luka bakar,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1706,32,Kata Benda,怪我,けが,kega,Luka,Kata Benda,,,
+1707,32,Kata Kerja,怪我をします,けがをします,kega o shimasu,Terluka,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1708,32,Kata Benda,咳,せき,seki,Dahak / Batuk,Kata Benda,,,
+1709,32,Kata Kerja,咳をします,せきをします,seki o shimasu,Melakukan batuk,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1710,32,Kata Kerja,咳が出ます,せきがでます,seki ga demasu,Keluar dahak (batuk),Kata Kerja,Ichidan (II),Jidoushi (Intransitif),Lebih sering digunakan daripada せきをします
+1711,32,Kata Benda,インフルエンザ,インフルエンザ,infuruenza,Influenza,Kata Benda,,,
+1712,32,Kata Benda,関西,かんさい,kansai,Jepang bagian Barat,Kata Benda,,,
+1713,32,Kata Benda,南極,なんきょく,nankyoku,Kutub Selatan,Kata Benda,,,
+1714,32,Kata Benda,北極,ほっきょく,hokkyoku,Kutub Utara,Kata Benda,,,
+1715,32,Kata Benda,北海道,ほっかいどう,hokkaidou,HOKKAIDO,Kata Benda,,,Prefektur di Jepang bagian utara
+1716,32,Kata Benda,東南アジア,とうなんアジア,tounan ajia,Asia Tenggara,Kata Benda,,,
+1717,32,Kata Benda,東南,とうなん,tounan,Tenggara,Kata Benda,,,
+1718,32,Kata Benda,国際,こくさい,kokusai,Internasional,Kata Benda,,,
+1719,32,Kata Benda,関西国際空港,かんさいこくさいくうこう,kansai kokusai kuukou,Bandara Internasional Kansai,Kata Benda,,,Berada di Osaka
+1720,32,Kata Benda,水道,すいどう,suidou,Air PAM / Air Ledeng,Kata Benda,,,
+1721,32,Kata Benda,エンジン,エンジン,enjin,Engine Mesin,Kata Benda,,,
+1722,32,Kata Benda,チーム,チーム,chiimu,Team Regu,Kata Benda,,,
+1723,32,Kata Benda,今夜,こんや,konya,Malam ini / Nanti malam,Kata Benda,,,Sinonim: 今晩（こんばん）
+1724,32,Kata Benda,夜遅く,よるおそく,yoru osoku,Larut malam / Kemalaman,Kata Benda,,,
+1725,32,Kata Keterangan,遅く,おそく,osoku,Larut / Kemalaman,Kata Keterangan,,,
+1726,33,Kata Kerja,逃げます,にげます,nigemasu,Berlari (kabur),Kata Kerja,Ichidan (II),Jidoushi (Intransitif),
+1727,33,Kata Kerja,騒ぎます,さわぎます,sawagimasu,[Berbuat] Gaduh,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1728,33,Kata Kerja,諦めます,あきらめます,akiramemasu,Putus Asa / Menyerah,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1729,33,Kata Kerja,投げます,なげます,nagemasu,Melempar (bola),Kata Kerja,Ichidan (II),Tadoushi (Transitif),Contoh: ボールをなげます
+1730,33,Kata Kerja,守ります,まもります,mamorimasu,"Menjaga, Menepati (Janji)",Kata Kerja,Godan (I),Tadoushi (Transitif),
+1731,33,Kata Kerja,始まります,はじまります,hajimarimasu,(Kondisi) Mulai,Kata Kerja,Godan (I),Jidoushi (Intransitif),Contoh: しきがはじまります
+1732,33,Kata Kerja,出席します,しゅっせきします,shusseki shimasu,Menghadiri (rapat),Kata Kerja,Irregular (III),Tadoushi (Transitif),Partikel: に
+1733,33,Kata Kerja,伝えます,つたえます,tsutaemasu,Menyampaikan,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1734,33,Kata Benda,注意,ちゅうい,chuui,Peringatan,Kata Benda,,,
+1735,33,Kata Kerja,注意します,ちゅういします,chuui shimasu,"Memperingatkan, Berwaspada",Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1736,33,Kata Benda,席,せき,seki,Tempat duduk,Kata Benda,,,
+1737,33,Kata Kerja,戻ります,もどります,modorimasu,Kembali [tempat semula],Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1738,33,Kata Kerja,電話があります,でんわがあります,denwa ga arimasu,Ada telpon,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1739,33,Kata Kerja,リサイクルします,リサイクルします,risaikuru shimasu,Mendaur ulang,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1740,33,Kata Sifat (Na),駄目「な」,だめ「な」,dame (na),Tidak baik / Tidak berguna / Tidak boleh,Kata Sifat (Na),,,
+1741,33,Kata Sifat (Na),同じ,おなじ,onaji,Sama,Kata Sifat (Na),,,Partikel: と
+1742,33,Kata Benda,お巡りさん,おまわりさん,omawari-san,Pak / Ibu Polisi,Kata Benda,,,Panggilan informal kepada polisi
+1743,33,Kata Benda,マーク,マーク,maaku,Tanda / Cap,Kata Benda,,,mark
+1744,33,Kata Benda,ボール,ボール,booru,Bola,Kata Benda,,,ball
+1745,33,Kata Benda,締め切り,しめきり,shimekiri,Batas waktu / Deadline,Kata Benda,,,
+1746,33,Kata Benda,規則,きそく,kisoku,Peraturan / Regulasi,Kata Benda,,,Sinonim: ルール
+1747,33,Kata Benda,危険,きけん,kiken,Bahaya (Formal),Kata Benda,,,
+1748,33,Kata Benda,禁止,きんし,kinshi,Larangan,Kata Benda,,,
+1749,33,Kata Benda,使用,しよう,shiyou,Penggunaan / Pemakaian,Kata Benda,,,
+1750,33,Kata Benda,立ち入り,たちいり,tachiiri,Masuk / Berdiri,Kata Benda,,,
+1751,33,Kata Benda,使用禁止,しようきんし,shiyou kinshi,Larangan penggunaan,Kata Benda,,,
+1752,33,Kata Benda,立入禁止,たちいりきんし,tachiiri kinshi,Larangan mendekat,Kata Benda,,,
+1753,33,Kata Benda,徐行,じょこう,jokou,Berjalan / Melaju pelan,Kata Benda,,,
+1754,33,Kata Benda,入口,いりぐち,iriguchi,Pintu masuk,Kata Benda,,,
+1755,33,Kata Benda,出口,でぐち,deguchi,Pintu keluar,Kata Benda,,,
+1756,33,Kata Benda,割引,わりびき,waribiki,Diskon,Kata Benda,,,
+1757,33,Kata Frase,飲み放題,のみほうだい,nomihoudai,Minum sepuasnya,Kata Frase,,,～ます＋放題
+1758,33,Kata Frase,食べ放題,たべほうだい,tabehōdai,Makan sepuasnya,Kata Frase,,,
+1759,33,Kata Frase,遊び放題,あそびほうだい,asobihoudai,Bermain sepuasnya,Kata Frase,,,
+1760,33,Kata Frase,勉強し放題,べんきょうしほうだい,benkyou shihoudai,Belajar sepuasnya,Kata Frase,,,
+1761,33,Kata Frase,話し放題,はなしほうだい,hanashihoudai,Berbicara sepuasnya,Kata Frase,,,
+1762,33,Kata Frase,使用中,しようちゅう,shiyou chuu,Sedang dalam penggunaan,Kata Frase,,,～中 untuk status saat ini
+1763,33,Kata Frase,募集中,ぼしゅうちゅう,boshuu chuu,Sedang dalam perekrutan,Kata Frase,,,
+1764,33,Kata Benda,募集,ぼしゅう,boshuu,Perekrutan,Kata Benda,,,
+1765,33,Kata Benda,応募,おうぼ,oubo,Melamar (kerja),Kata Benda,,,
+1766,33,Kata Tanya,どういう〜,どういう〜,dou iu ~,Yang bagaimana ~,Kata Tanya,,,Contoh: どういういみ
+1767,33,Kata Benda,駐車違反,ちゅうしゃいはん,chuusha ihan,Pelanggaran parkir,Kata Benda,,,
+1768,33,Kata Benda,違反,いはん,ihan,Pelanggaran,Kata Benda,,,
+1769,33,Kata Benda,罰金,ばっきん,bakkin,Denda,Kata Benda,,,
+1770,34,Kata Kerja,磨きます,みがきます,migakimasu,Menggosok / Memoles,Kata Kerja,Godan (I),Tadoushi (Transitif),"Contoh: はをみがきます, うでをみがきます"
+1771,34,Kata Kerja,組み立てます,くみたてます,kumitatemasu,Memasang / Merakit,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1772,34,Kata Benda,折り紙,おりがみ,origami,Kertas lipat (origami),Kata Benda,,,
+1773,34,Kata Kerja,気がつきます,きがつきます,ki ga tsukimasu,Tersadar,Kata Kerja,Godan (I),Jidoushi (Intransitif),Contoh: わすれものにきがつきます
+1774,34,Kata Kerja,見つけます,みつけます,mitsukemasu,Menemukan,Kata Kerja,Ichidan (II),Tadoushi (Transitif),Contoh: かぎをみつけます
+1775,34,Kata Kerja,見つかります,みつかります,mitsukarimasu,(Sesuatu) Ketemu,Kata Kerja,Godan (I),Jidoushi (Intransitif),Contoh: かぎがみつかります
+1776,34,Kata Benda,質問,しつもん,shitsumon,Pertanyaan,Kata Benda,,,
+1777,34,Kata Kerja,質問します,しつもんします,shitsumon shimasu,Bertanya,Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1778,34,Kata Kerja,さします,さします,sashimasu,Membentangkan payung,Kata Kerja,Godan (I),Tadoushi (Transitif),Contoh: かさをさします
+1779,34,Kata Benda,スポーツクラブ,スポーツクラブ,supootsu kurabu,Klub olahraga,Kata Benda,,,sports club
+1780,34,Kata Benda,お城,おしろ,oshiro,Istana / Kastil,Kata Benda,,,Gunakan ~じょう untuk nama kastil
+1781,34,Kata Benda,大阪城,おおさかじょう,oosakajou,Kastil Osaka,Kata Benda,,,
+1782,34,Kata Benda,説明書,せつめいしょ,setsumeisho,Buku panduan / Manual,Kata Benda,,,Penjelasan tertulis
+1783,34,Kata Benda,図,ず,zu,Gambar (informatif),Kata Benda,,,"Denah, bagan"
+1784,34,Kata Benda,線,せん,sen,Garis,Kata Benda,,,
+1785,34,Kata Benda,矢印,やじるし,yajirushi,Tanda panah (← ↑ ↓ →),Kata Benda,,,
+1786,34,Kata Benda,紺,こん,kon,Biru tua,Kata Benda,,,
+1787,34,Kata Benda,醤油,しょうゆ,shouyu,Kecap asin,Kata Benda,,,
+1788,34,Kata Benda,ソース,ソース,soosu,Saos (ketchup),Kata Benda,,,
+1789,34,Kata Benda,お客,おきゃく,okyaku,Tamu,Kata Benda,,,"おきゃくさん (pembicaraan), おきゃくさま (langsung)"
+1790,34,Kata Keterangan,夕べ,ゆうべ,yuube,Tadi malam,Kata Keterangan,,,Sinonim: さくや、きのうのばん、きのうのよる
+1791,34,Kata Keterangan,さっき,さっき,sakki,Tadi (baru saja),Kata Keterangan,,,Contoh: やまださんはさっきかえりました。
+1792,34,Kata Keterangan,先,さき,saki,Duluan,Kata Keterangan,,,Contoh: さきにしつれいします。
+1793,34,Kata Benda,茶道,さどう,sadou,Upacara Teh (Budaya Jepang),Kata Benda,,,
+1794,34,Kata Kerja,お茶をたてます,おちゃをたてます,ocha o tatemasu,Membuat Teh (pada upacara minum teh),Kata Kerja,Godan (I),Tadoushi (Transitif),
+1795,34,Kata Kerja,お茶を入れます,おちゃをいれます,ocha o iremasu,Menyeduh Teh (dalam kebanyakan situasi),Kata Kerja,Ichidan (II),Tadoushi (Transitif),Kanji alternatif: 淹れます
+1796,34,Kata Kerja,載せます,のせます,nosemasu,Memuatkan / Menaruh di atas,Kata Kerja,Ichidan (II),Tadoushi (Transitif),Contoh: たくさんのひとをくるまにのせます
+1797,34,Ungkapan,これでいいですか。,これでいいですか。,kore de ii desu ka,Apakah begini cukup / bagus?,Ungkapan,,,
+1798,34,Ungkapan,いかがですか。,いかがですか。,ikaga desu ka,Bagaimana? (lebih sopan dari どうですか),Ungkapan,,,
+1799,34,Kata Benda,材料,ざいりょう,zairyou,Bahan / Material,Kata Benda,,,
+1800,34,Kata Benda,～グラム,～グラム,~guramu,Gram,Kata Benda,,,
+1801,34,Kata Benda,玉ねぎ,たまねぎ,tamanegi,Bawang bombai,Kata Benda,,,
+1802,34,Kata Frasa,四分の一,よんぶんのいち,yonbun no ichi,Seperempat (1/4),Frasa,,,
+1803,34,Kata Benda,調味料,ちょうみりょう,choumiryou,Bumbu,Kata Benda,,,
+1804,34,Frasa,適当な大きさに,てきとうなおおきさに,tekitou na ookisa ni,Ukuran sedang (secara sekadarnya),Frasa,,,
+1805,34,Kata Benda,鍋,なべ,nabe,Panci,Kata Benda,,,
+1806,34,Kata Kerja,火にかけます,ひにかけます,hi ni kakemasu,Memanaskan di atas api / Memasak,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1807,34,Kata Kerja,煮ます,にます,nimasu,Merebus,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1808,34,Kata Kerja,煮えます,にえます,niemasu,Telah matang (direbus),Kata Kerja,Ichidan (II),Jidoushi (Intransitif),
+1809,34,Kata Kerja,卵をゆでます,たまごをゆでます,tamago o yudemasu,Merebus telur,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1810,34,Kata Benda,ゆで卵,ゆでたまご,yudetamago,Telur rebus,Kata Benda,,,
+1811,34,Kata Kerja,経ちます,たちます,tachimasu,Waktu berlalu / Lewat,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1812,35,Kata Kerja,花が咲きます,はながさきます,hana ga sakimasu,{Bunga} Mekar,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1813,35,Kata Kerja,色が変わります,いろがかわります,iro ga kawarimasu,{Warna} Berubah,Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1814,35,Kata Kerja,困ります,こまります,komarimasu,Kesulitan (Bingung),Kata Kerja,Godan (I),Jidoushi (Intransitif),
+1815,35,Kata Kerja,丸をつけます,まるをつけます,maru o tsukemasu,Melingkari / Memberikan tanda benar,Kata Kerja,Ichidan (II),Tadoushi (Transitif),
+1816,35,Kata Benda,丸,まる,maru,Lingkaran 〇,Kata Benda,,,
+1817,35,Kata Kerja,クリックします,クリックします,kurikku shimasu,Mengklik,Kata Kerja,Irregular (III),Tadoushi (Transitif),click
+1818,35,Kata Kerja,入力します,にゅうりょくします,nyuuryoku shimasu,Mengisi {Form},Kata Kerja,Irregular (III),Tadoushi (Transitif),
+1819,35,Kata Sifat (I),正しい,ただしい,tadashii,Benar,Kata Sifat (I),,,
+1820,35,Kata Benda,向こう,むこう,mukou,"Di sana, seberang",Kata Benda,,,
+1821,35,Kata Benda,近所,きんじょ,kinjo,Tetangga / Sekitar,Kata Benda,,,
+1822,35,Kata Benda,屋上,おくじょう,okujou,Loteng / Rooftop,Kata Benda,,,
+1823,35,Kata Benda,海外,かいがい,kaigai,Luar Negeri (Overseas),Kata Benda,,,
+1824,35,Kata Benda,外国人,がいこくじん,gaikokujin,Orang Luar Negeri,Kata Benda,,,Kata formal
+1825,35,Kata Benda,外人,がいじん,gaijin,Orang Luar Negeri,Kata Benda,,,"Slang, kasar, hindari penggunaan"
+1826,35,Kata Benda,山登り,やまのぼり,yamanobori,Mendaki Gunung,Kata Benda,,,
+1827,35,Kata Benda,歴史,れきし,rekishi,Sejarah,Kata Benda,,,
+1828,35,Kata Benda,機械,きかい,kikai,Mesin,Kata Benda,,,Kanji: 機械
+1829,35,Kata Benda,機会,きかい,kikai,Kesempatan,Kata Benda,,,Kanji: 機会
+1830,35,Kata Benda,許可,きょか,kyoka,Ijin,Kata Benda,,,
+1831,35,Kata Benda,ふりがな,ふりがな,furigana,Hiragana bantu di atas kanji,Kata Benda,,,
+1832,35,Kata Benda,おくりがな,おくりがな,okurigana,Hiragana lanjutan setelah kanji,Kata Benda,,,
+1833,35,Kata Benda,設備,せつび,setsubi,Fasilitas,Kata Benda,,,
+1834,35,Kata Benda,レバー,レバー,rebaa,Tuas (lever),Kata Benda,,,
+1835,35,Kata Benda,キー,キー,kii,Tombol / Tuts,Kata Benda,,,
+1836,35,Kata Benda,カーテン,カーテン,kaaten,Gorden / Tirai,Kata Benda,,,
+1837,35,Kata Benda,炊飯器,すいはんき,suihanki,Mesin penanak nasi (rice cooker),Kata Benda,,,
+1838,35,Kata Benda,葉,は,ha,Daun,Kata Benda,,,
+1839,35,Kata Benda,昔,むかし,mukashi,Dulu,Kata Benda,,,
+1840,35,Kata Keterangan,もっと,もっと,motto,Lebih,Kata Keterangan,,,
+1841,35,Ungkapan,これで終わりましょう,これでおわりましょう,kore de owarimashou,Dengan begini ayo kita akhiri / Ayo kita akhiri sampai di sini,Ungkapan,,,
