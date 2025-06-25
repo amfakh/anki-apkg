@@ -26,60 +26,154 @@ model = genanki.Model(
     'name': 'Vocabulary',
     'qfmt': """
 <style>
-    .card {
-        font-family: Hiragino Mincho ProN;
-        font-weight: bold;
-        text-align: center;
-        color: #664e4c;
-        background-color: #f5ebe0;
-    }
+  .card {
+    font-family: "Samsung Sans", system-ui;
+    font-weight: bold;
+    text-align: center;
+    color: #664e4c;
+    background-color: #f5ebe0;
+    padding: 0;
+    margin: 0;
+  }
+
+  .wrapper {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; /* 👉 biar child bisa wrap */
+    text-align: center;
+    padding: 1em;
+    box-sizing: border-box;
+  }
+
+  .hidden-kana {
+    color: #f5ebe0;
+    transition: color 0.2s;
+    word-break: break-word; /* 👉 teks panjang bisa pecah */
+    max-width: 90vw; /* 👉 batasin lebarnya */
+  }
+
+  .hidden-kana.visible {
+    color: #664e4c;
+  }
+
+  .kanji {
+    font-size: 60px;
+    font-weight: bold;
+    word-break: break-word;
+    max-width: 90vw;
+  }
 </style>
-<div>
-    <span style="font-size: 28px; padding-bottom: 0.5em;">{{Kana}}</span><br>
-    <span style="font-size: 60px; font-weight: bold;">{{Kanji}}</span><br>
-    <span style="font-size: 14px; padding-top: 5.5em;">{{Romaji}}</span>
+
+<div class="wrapper" onclick="document.getElementById('kana').classList.toggle('visible')">
+  <span id="kana" class="hidden-kana" style="font-size: 28px; padding-bottom: 0.5em;">
+    {{Kana}}
+  </span><br>
+  <span class="kanji">{{Kanji}}</span><br>
 </div>
 """,
     'afmt': """
-<div>
-    {{FrontSide}}
-    <hr id="answer">
+<style>
+  .card {
+    font-family: "Samsung Sans", system-ui;
+    font-weight: bold;
+    text-align: center;
+    color: #664e4c;
+    background-color: #f5ebe0;
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    position: relative;
 
-    <div style="margin-bottom: 10px;">
-        <div style="background: rgba(255, 255, 255, 0.3); border-radius: 10px; padding: 10px;">
-             <span style="font-size: 18px; font-weight: bold; ">{{Arti}}</span>
-        </div>
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .top-area {
+    height: calc(100vh - 220px); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .hidden-kana {
+    color: #f5ebe0;
+    transition: color 0.2s;
+  }
+
+  .hidden-kana.visible {
+    color: #664e4c;
+  }
+
+  .kanji {
+    font-size: 60px;
+    font-weight: bold;
+    word-break: break-word;
+    max-width: 90vw;
+  }
+
+  .answer-area {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: rgba(255,255,255,0.1);
+  }
+
+  .answer-box {
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+
+  hr {
+    margin: 0.5em 0;
+  }
+</style>
+
+<!-- 🔥 klik di seluruh kartu -->
+<div class="card" onclick="document.getElementById('kana').classList.toggle('visible')">
+  
+  <div class="top-area">
+    <span id="kana" class="hidden-kana" style="font-size: 28px; padding-bottom: 0.5em;">
+      {{Kana}}
+    </span>
+    <span class="kanji">{{Kanji}}</span>
+  </div>
+
+  <div class="answer-area">
+    <hr id="answer">
+    <div class="answer-box">
+      <span style="font-size: 18px; font-weight: bold;">{{Arti}}</span>
     </div>
 
-<div style="display: flex; gap: 10px; margin-bottom: 10px;">
-        <div style="background: rgba(255, 255, 255, 0.3); border-radius: 10px; padding: 10px; flex: 1;">
-            {{Kelas Kata}}
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.3); border-radius: 10px; padding: 10px;">
-            <b>{{Bab}}</b>
-        </div>
+    <div style="display: flex; gap: 10px; margin-bottom: 10px;">
+      <div class="answer-box" style="flex: 1;">{{Kelas Kata}}</div>
+      <div class="answer-box"><b>{{Bab}}</b></div>
     </div>
 
     {{#Konjugasi}}{{#Transitivitas}}
-    <div style="margin-bottom: 10px; display: flex; gap: 10px;">
-        <div style="background: rgba(255, 255, 255, 0.3); border-radius: 10px; padding: 10px; flex: 1;">
-            {{Konjugasi}}
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.3); border-radius: 10px; padding: 10px; flex: 1;">
-            {{Transitivitas}}
-        </div>
+    <div style="display: flex; gap: 10px; margin-bottom: 10px;">
+      <div class="answer-box" style="flex: 1;">{{Konjugasi}}</div>
+      <div class="answer-box" style="flex: 1;">{{Transitivitas}}</div>
     </div>
     {{/Transitivitas}}{{/Konjugasi}}
 
     {{#Catatan Tambahan}}
-    <div style="margin-bottom: 10px;">
-        <div style="background: rgba(255, 255, 255, 0.3); border-radius: 10px; padding: 10px;">
-        <span style="font-weight: bold;">Catatan</span>
-        <hr>
-            {{Catatan Tambahan}}
-        </div>
+    <div class="answer-box">
+      <span style="font-weight: bold;">Catatan</span>
+      <hr>
+      {{Catatan Tambahan}}
     </div>
     {{/Catatan Tambahan}}
+  </div>
 </div>
 """,
   }]
